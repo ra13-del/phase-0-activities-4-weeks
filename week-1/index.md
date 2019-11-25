@@ -33,7 +33,7 @@ Tugas dikumpulkan harian, dan setiap tugas akan dikoreksi setiap pagi di hari se
   - Lecture:
     - Basic Command Line Unix
   - Challenge(s):
-    - :rocket: [Menghias HTML dengan CSS](/week-1/challenges/rocket-css-selector-and-styling.md)
+    - :anchor: [Menghias HTML dengan CSS](/week-1/challenges/rocket-css-selector-and-styling.md)
     - :rocket: [Membuat Layout dan Desain Halaman Web dengan CSS](/week-1/challenges/rocket-css-layouting.md)
 
 ## Wednesday

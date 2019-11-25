@@ -24,6 +24,7 @@ Tugas dikumpulkan harian, dan setiap tugas akan dikoreksi setiap pagi di hari se
   - Challenge(s):
     - :anchor: [Codecademy Course - HTML](https://www.codecademy.com/learn/learn-html)
     - :rocket: [Membuat Halaman HTML Sederhana](/week-1/challenges/rocket-laman-web-pertamaku.md)
+- ### [Click disini untuk mengumpulkan challenge W1D1](https://airtable.com/shrVWuwKPZys8TjR5) 
 
 ## Tuesday
 - ### Session 1
@@ -35,6 +36,7 @@ Tugas dikumpulkan harian, dan setiap tugas akan dikoreksi setiap pagi di hari se
   - Challenge(s):
     - :anchor: [Menghias HTML dengan CSS](/week-1/challenges/rocket-css-selector-and-styling.md)
     - :rocket: [Membuat Layout dan Desain Halaman Web dengan CSS](/week-1/challenges/rocket-css-layouting.md)
+- ### [Click disini untuk mengumpulkan challenge W1D2](https://airtable.com/shrlcmgELh3w7h6bF) 
 
 ## Wednesday
 - ### Session 1 & 2
@@ -42,6 +44,7 @@ Tugas dikumpulkan harian, dan setiap tugas akan dikoreksi setiap pagi di hari se
     - Review HTML and CSS
   - Challenge:
     - :anchor: [Membuat Web Sederhana dengan HTML dan CSS](/week-1/challenges/anchor-web-sederhana.md)
+- ### [Click disini untuk mengumpulkan challenge W1D3]() 
 
 ## Thursday
 - ### Session 1
@@ -62,6 +65,8 @@ Tugas dikumpulkan harian, dan setiap tugas akan dikoreksi setiap pagi di hari se
     - :anchor: [Graduates](/week-1/challenges/anchor-graduates.md)
   - Reference(s):
     - :notebook_with_decorative_cover: [Understanding String in Javascript](/week-1/references/js-string-reference.md)
+    
+ - ### [Click disini untuk mengumpulkan challenge W1D4]() 
 
 ## Friday
 - ### Session 1
@@ -79,7 +84,11 @@ Tugas dikumpulkan harian, dan setiap tugas akan dikoreksi setiap pagi di hari se
   - Challenge
     - :anchor: [Laundry Day]()
     - :anchor: [Odd and Even Numbers]()
+    
+ - ### [Click disini untuk mengumpulkan challenge W1D5]() 
 
 ## Weekend (Homework)
   - :anchor:[Pasangan Angka Terbesar]()
   - :anchor:[Ubah Huruf]()
+  
+  - ### [Click disini untuk mengumpulkan challenge W1D5]() 

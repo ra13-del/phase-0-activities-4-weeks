@@ -1,8 +1,3 @@
----
-layout: toc
-title: Week 1
-week: 1
----
 
 Selamat datang di tahap persiapan sesungguhnya bootcamp Hacktiv8, yaitu Phase 0! Phase 0 ini merupakan pembelajaran yang bersifat matrikulasi atau kalibrasi yang lebih intens. Phase 0 juga menjadi penentu apakah kamu dapat maju ke Phase 1. Kita harap bersama agar kamu antusias untuk meningkatkan pengetahuan dasarmu!
 
@@ -28,7 +23,7 @@ Tugas dikumpulkan harian, dan setiap tugas akan dikoreksi setiap pagi di hari se
 - ### Session 2
   - Challenge(s):
     - :anchor: [Codecademy Course - HTML](https://www.codecademy.com/learn/learn-html)
-    - :rocket: [Membuat Halaman HTML Sederhana](/week-1/challenges/rocket-laman-web-pertamaku)
+    - :rocket: [Membuat Halaman HTML Sederhana](/week-1/challenges/rocket-laman-web-pertamaku.md)
 
 ## Tuesday
 - ### Session 1
@@ -38,42 +33,42 @@ Tugas dikumpulkan harian, dan setiap tugas akan dikoreksi setiap pagi di hari se
   - Lecture:
     - Basic Command Line Unix
   - Challenge(s):
-    - :rocket: [Menghias HTML dengan CSS](/week-1/challenges/rocket-css-selector-and-styling)
-    - :rocket: [Membuat Layout dan Desain Halaman Web dengan CSS](/week-1/challenges/rocket-css-layouting)
+    - :rocket: [Menghias HTML dengan CSS](/week-1/challenges/rocket-css-selector-and-styling.md)
+    - :rocket: [Membuat Layout dan Desain Halaman Web dengan CSS](/week-1/challenges/rocket-css-layouting.md)
 
 ## Wednesday
 - ### Session 1 & 2
   - Lecture:
     - Review HTML and CSS
   - Challenge:
-    - :anchor: [Membuat Web Sederhana dengan HTML dan CSS](/week-1/challenges/anchor-web-sederhana)
+    - :anchor: [Membuat Web Sederhana dengan HTML dan CSS](/week-1/challenges/anchor-web-sederhana.md)
 
 ## Thursday
 - ### Session 1
   - Lecture:
     - Algoritma & Pseudocode
   - Challenge(s):
-    - :anchor: [Newton Second Law](/week-1/challenges/anchor-newton-second-law)
-    - :anchor: [Calculate Circumference](/week-1/challenges/anchor-calculate-circumference)
+    - :anchor: [Newton Second Law](/week-1/challenges/anchor-newton-second-law.md)
+    - :anchor: [Calculate Circumference](/week-1/challenges/anchor-calculate-circumference.md)
   - Reference(s):
-    - :notebook_with_decorative_cover: [Algoritma & Pseudocode](/week-1/references/algorithm-pseudocode-conditional)
+    - :notebook_with_decorative_cover: [Algoritma & Pseudocode](/week-1/references/algorithm-pseudocode-conditional.md)
 
 - ### Session 2
   - Lecture:
     - Conditional and Primitive Data Type
   - Challenge(s):
     - :anchor: [Codecademy - Javascript Introduction and Conditional](https://www.codecademy.com/learn/introduction-to-javascript)
-    - :anchor: [Grade Students](/week-1/challenges/anchor-grade-students)
-    - :anchor: [Graduates](/week-1/challenges/anchor-graduates)
+    - :anchor: [Grade Students](/week-1/challenges/anchor-grade-students.md)
+    - :anchor: [Graduates](/week-1/challenges/anchor-graduates.md)
   - Reference(s):
-    - :notebook_with_decorative_cover: [Understanding String in Javascript](/week-1/references/js-string-reference)
+    - :notebook_with_decorative_cover: [Understanding String in Javascript](/week-1/references/js-string-reference.md)
 
 ## Friday
 - ### Session 1
   - Lecture:
     - Adv Conditional
   - Challenge(s):
-    - :anchor: [Play with String](/week-1/challenges/anchor-play-with-string)
+    - :anchor: [Play with String](/week-1/challenges/anchor-play-with-string.md)
     - :anchor: [Cafe Visitation]()
     - :anchor: [Gatcha]()
   - Reference(s):

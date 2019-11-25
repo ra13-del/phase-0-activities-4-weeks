@@ -85,14 +85,14 @@ Buatlah sebuah file CSS bernama *style.css* pada folder yang sama dengan file *i
 
 Buatlah sebuah folder di project tersebut dengan nama *img*, dimana kita akan meletakkan aset gambar kita disana. Aset gambar bisa kamu save as dari gambar di bawah ini:
 
-![Anchor CSS Layout 1](/week-1/assets/sample-logo.png)
-![Anchor CSS Layout 2](/week-1/assets/sample-pattern.png)
+![Anchor CSS Layout 1](/week-1/assets/assets/sample-logo.png)
+![Anchor CSS Layout 2](/week-1/assets/assets/sample-pattern.png)
 
 ### 4. Membuat Layout dan Desain
 
 Sesuaikan kode html yang telah terhubung dengan css di atas, buatlah halaman HTML menjadi lebih bagus dan sesuai dengan tampilan di bawah ini!
 
-![Contoh Hasil Akhir CSS Layouting](/week-1/assets/contoh-css-layouting.gif)
+![Contoh Hasil Akhir CSS Layouting](/week-1/assets/assets/contoh-css-layouting.gif)
 
 ### 5. Pengumpulan
 

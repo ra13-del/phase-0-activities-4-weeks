@@ -24,7 +24,7 @@ Tugas dikumpulkan harian, dan setiap tugas akan dikoreksi setiap pagi di hari se
   - Challenge(s):
     - :anchor: [Codecademy Course - HTML](https://www.codecademy.com/learn/learn-html)
     - :rocket: [Membuat Halaman HTML Sederhana](/week-1/challenges/rocket-laman-web-pertamaku.md)
-- ### [Click disini untuk mengumpulkan challenge W1D1](https://airtable.com/shrVWuwKPZys8TjR5) 
+- ### [Click disini untuk mengumpulkan challenge W1D1](https://airtable.com/shrVWuwKPZys8TjR5)
 
 ## Tuesday
 - ### Session 1
@@ -36,7 +36,7 @@ Tugas dikumpulkan harian, dan setiap tugas akan dikoreksi setiap pagi di hari se
   - Challenge(s):
     - :anchor: [Menghias HTML dengan CSS](/week-1/challenges/rocket-css-selector-and-styling.md)
     - :rocket: [Membuat Layout dan Desain Halaman Web dengan CSS](/week-1/challenges/rocket-css-layouting.md)
-- ### [Click disini untuk mengumpulkan challenge W1D2](https://airtable.com/shrlcmgELh3w7h6bF) 
+- ### [Click disini untuk mengumpulkan challenge W1D2](https://airtable.com/shrlcmgELh3w7h6bF)
 
 ## Wednesday
 - ### Session 1 & 2
@@ -44,7 +44,7 @@ Tugas dikumpulkan harian, dan setiap tugas akan dikoreksi setiap pagi di hari se
     - Review HTML and CSS
   - Challenge:
     - :anchor: [Membuat Web Sederhana dengan HTML dan CSS](/week-1/challenges/anchor-web-sederhana.md)
-- ### [Click disini untuk mengumpulkan challenge W1D3]() 
+- ### [Click disini untuk mengumpulkan challenge W1D3](https://airtable.com/shrVrybFeKYD5Q6c7)
 
 ## Thursday
 - ### Session 1
@@ -52,7 +52,7 @@ Tugas dikumpulkan harian, dan setiap tugas akan dikoreksi setiap pagi di hari se
     - Algoritma & Pseudocode
   - Challenge(s):
     - :anchor: [Newton Second Law](/week-1/challenges/anchor-newton-second-law.md)
-    - :anchor: [Calculate Circumference](/week-1/challenges/anchor-calculate-circumference.md)
+    - :anchor: [Calculate Circumference](/week-1/challenges/anchor-calculate-circumreference.md)
   - Reference(s):
     - :notebook_with_decorative_cover: [Algoritma & Pseudocode](/week-1/references/algorithm-pseudocode-conditional.md)
 
@@ -65,8 +65,8 @@ Tugas dikumpulkan harian, dan setiap tugas akan dikoreksi setiap pagi di hari se
     - :anchor: [Graduates](/week-1/challenges/anchor-graduates.md)
   - Reference(s):
     - :notebook_with_decorative_cover: [Understanding String in Javascript](/week-1/references/js-string-reference.md)
-    
- - ### [Click disini untuk mengumpulkan challenge W1D4]() 
+
+ - ### [Click disini untuk mengumpulkan challenge W1D4](https://airtable.com/shr7zDfI34a5pW6QY)
 
 ## Friday
 - ### Session 1
@@ -74,7 +74,7 @@ Tugas dikumpulkan harian, dan setiap tugas akan dikoreksi setiap pagi di hari se
     - Adv Conditional
   - Challenge(s):
     - :anchor: [Play with String](/week-1/challenges/anchor-play-with-string.md)
-    - :anchor: [Cafe Visitation]()
+    - :anchor: [Cafe Visitation](/week-1/challenges/anchor-cafe-visitation.md)
     - :anchor: [Gatcha]()
   - Reference(s):
 
@@ -84,11 +84,11 @@ Tugas dikumpulkan harian, dan setiap tugas akan dikoreksi setiap pagi di hari se
   - Challenge
     - :anchor: [Laundry Day]()
     - :anchor: [Odd and Even Numbers]()
-    
- - ### [Click disini untuk mengumpulkan challenge W1D5]() 
+
+ - ### [Click disini untuk mengumpulkan challenge W1D5](https://airtable.com/shryHhnM519GtVUYs)
 
 ## Weekend (Homework)
   - :anchor:[Pasangan Angka Terbesar]()
   - :anchor:[Ubah Huruf]()
-  
-  - ### [Click disini untuk mengumpulkan challenge W1D5]() 
+
+  - ### [Click disini untuk mengumpulkan challenge W1D5](https://airtable.com/shrLOT7OVWNkM5thv)

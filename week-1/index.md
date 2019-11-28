@@ -78,7 +78,7 @@ Tugas dikumpulkan harian, dan setiap tugas akan dikoreksi setiap pagi di hari se
     - :anchor: [Cafe Visitation](/week-1/challenges/anchor-cafe-visitation.md)
     - :anchor: [Gatcha](/week-1/challenges/anchor-gatcha.md)
   - Reference(s):
-    - :notebook_with_decorative_cover: [Conditional Switch Case](/week-1/references/js-first-time.md)
+    - :notebook_with_decorative_cover: [Conditional Switch Case](/week-1/references/js-first-time-switch-case.md)
     - :notebook_with_decorative_cover: [Built in Function Math](/week-1/references/math.md)
 
 - ### Session 2

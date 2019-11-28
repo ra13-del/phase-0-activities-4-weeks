@@ -98,4 +98,4 @@ Tugas dikumpulkan harian, dan setiap tugas akan dikoreksi setiap pagi di hari se
   - :anchor:[Pasangan Angka Terbesar](/week-1/challenges/anchor-pasangan-angka-terbesar.md)
   - :anchor:[Ubah Huruf](/week-1/challenges/anchor-ubah-huruf.md)
 
-  - ### [Click disini untuk mengumpulkan challenge W1D5](https://airtable.com/shrLOT7OVWNkM5thv)
+  - ### [Click disini untuk mengumpulkan Homework](https://airtable.com/shrLOT7OVWNkM5thv)

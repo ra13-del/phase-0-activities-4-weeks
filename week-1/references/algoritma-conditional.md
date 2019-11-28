@@ -25,7 +25,15 @@ Dalam menggunakan bahasa pemrograman, kita bisa menggunakan atau bahkan tidak pe
 
 Algoritma bisa sesederhana kita jabarkan langkah-langkahnya seperti tadi, atau kita visualisasikan dalam bentuk flowchart seperti berikut.
 
-![Algorithm Illustration](assets/algorithm.png)
+![Algorithm Illustration](/week-1/
+
+
+
+
+
+
+
+/algorithm.png)
 
 - ▢ Tonton video ini jika perlu: [What is an algorithm and why should you care? - Intro to algorithms on Khan Academy](https://www.khanacademy.org/computing/computer-science/algorithms/intro-to-algorithms/v/what-are-algorithms)
 
@@ -35,19 +43,19 @@ Flowchart merupakan diagram yang menggambarkan algoritma, atau proses-proses, ya
 
 ##### Start/End
 <!-- Insert image of start/end symbol here -->
-![Rounded rectangle, like a pill](week-1/assets/Start_End.png)
+![Rounded rectangle, like a pill](/week-1/assets/Start_End.png)
 
 ##### Input/Output
 <!-- Insert parallelogram image here -->
-![Parallelogram](assets/Input_Output.png "Input/Output")
+![Parallelogram](/week-1/assets/Input_Output.png "Input/Output")
 
 ##### Process
 <!-- Insert rectangle image here -->
-![Rectangle](assets/Process.png "Process")
+![Rectangle](/week-1/assets/Process.png "Process")
 
 ##### Conditional (IF)
 <!-- Insert diamond image here -->
-![Diamond](assets/Conditional.png "Conditional")
+![Diamond](/week-1/assets/Conditional.png "Conditional")
 
 Banyak tools software yang dapat kamu gunakan untuk menggambar flowchart. salah satunya tools online editor [draw.io](https://www.draw.io/)
 

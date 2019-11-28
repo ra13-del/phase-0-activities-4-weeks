@@ -54,7 +54,7 @@ Tugas dikumpulkan harian, dan setiap tugas akan dikoreksi setiap pagi di hari se
     - :anchor: [Newton Second Law](/week-1/challenges/anchor-newton-second-law.md)
     - :anchor: [Calculate Circumference](/week-1/challenges/anchor-calculate-circumreference.md)
   - Reference(s):
-    - :notebook_with_decorative_cover: [Algoritma & Pseudocode](/week-1/references/algorithm-pseudocode-conditional.md)
+    - :notebook_with_decorative_cover: [Algoritma & Pseudocode](/week-1/references/algorithm-conditional.md)
 
 - ### Session 2
   - Lecture:

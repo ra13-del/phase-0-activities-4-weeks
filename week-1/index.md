@@ -64,6 +64,7 @@ Tugas dikumpulkan harian, dan setiap tugas akan dikoreksi setiap pagi di hari se
     - :anchor: [Grade Students](/week-1/challenges/anchor-grade-students.md)
     - :anchor: [Graduates](/week-1/challenges/anchor-graduates.md)
   - Reference(s):
+    - :notebook_with_decorative_cover: [Conditional and Primitive Data Type](/week-1/references/js-first-time.md)
     - :notebook_with_decorative_cover: [Understanding String in Javascript](/week-1/references/js-string-reference.md)
 
  - ### [Click disini untuk mengumpulkan challenge W1D4](https://airtable.com/shr7zDfI34a5pW6QY)
@@ -75,20 +76,26 @@ Tugas dikumpulkan harian, dan setiap tugas akan dikoreksi setiap pagi di hari se
   - Challenge(s):
     - :anchor: [Play with String](/week-1/challenges/anchor-play-with-string.md)
     - :anchor: [Cafe Visitation](/week-1/challenges/anchor-cafe-visitation.md)
-    - :anchor: [Gatcha]()
+    - :anchor: [Gatcha](/week-1/challenges/anchor-gatcha.md)
   - Reference(s):
+    - :notebook_with_decorative_cover: [Conditional Switch Case](/week-1/references/js-first-time.md)
+    - :notebook_with_decorative_cover: [Built in Function Math](/week-1/references/math.md)
 
 - ### Session 2
   - Lecture:
     - Pseudocode (cont) & Loop/Iteration
   - Challenge
-    - :anchor: [Laundry Day]()
-    - :anchor: [Odd and Even Numbers]()
+    - :anchor: [Laundry Day](/week-1/challenges/anchor-laundry-day.md)
+    - :anchor: [I Love Coding](/week-1/challenges/anchor-i-love-coding.md)
+    - :anchor: [Odd and Even Numbers](/week-1/challenges/anchor-odd-even-numbers.md)
+  - Reference(s):
+    - :notebook_with_decorative_cover: [Algoritma & Pseudocode Iteration](/week-1/references/algoritma-loop.md)
+    - :notebook_with_decorative_cover: [Iteration](/week-1/references/js-first-time-loop.md)
 
  - ### [Click disini untuk mengumpulkan challenge W1D5](https://airtable.com/shryHhnM519GtVUYs)
 
 ## Weekend (Homework)
-  - :anchor:[Pasangan Angka Terbesar]()
-  - :anchor:[Ubah Huruf]()
+  - :anchor:[Pasangan Angka Terbesar](/week-1/challenges/anchor-pasangan-angka-terbesar.md)
+  - :anchor:[Ubah Huruf](/week-1/challenges/anchor-ubah-huruf.md)
 
   - ### [Click disini untuk mengumpulkan challenge W1D5](https://airtable.com/shrLOT7OVWNkM5thv)

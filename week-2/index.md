@@ -1,6 +1,6 @@
 Selamat sudah melalui kegiatan pekan pertama! Pekan kedua ini kita akan melatih kemampuan logika dan pengolahan data dalam programming. Di pekan ini, kamu akan bertemu dengan sangat banyak kode dan istilah yang digunakan dalam pemrograman atau khususnya pada JavaScript.
 
-![Let's start!](assets/start.png)
+![Let's start!](/assets/start.png)
 
 ## Monday
 - ### Session 1

@@ -19,7 +19,7 @@ Buatlah sebuah file HTML baru dengan nama **index** dengan format **html**.
 
 Buatlah *index.html* tersebut dengan tampilan seperti gambar di bawah ini:
 
-![Referensi Tugas](/week-1/assets/assets/anchor-contoh-html-index.png)
+![Referensi Tugas](/assets/anchor-contoh-html-index.png)
 
 Berikan sebuah link untuk masuk ke halaman Form Sign Up! (diarahkan ke *form.html*)
 
@@ -27,7 +27,7 @@ Berikan sebuah link untuk masuk ke halaman Form Sign Up! (diarahkan ke *form.htm
 
 Buatlah file HTML kedua yang berisikan form dengan tampilan seperti gambar di bawah ini:
 
-![Referensi Tugas](/week-1/assets/assets/anchor-contoh-html-form.png)
+![Referensi Tugas](/assets/anchor-contoh-html-form.png)
 
 Apabila form di submit, browser harus diarahkan untuk membuka *welcome.html*.
 
@@ -35,11 +35,11 @@ Apabila form di submit, browser harus diarahkan untuk membuka *welcome.html*.
 
 Buatlah file HTML ketiga bernama *welcome.html* dengan tampilan seperti gambar di bawah ini:
 
-![Referensi Tugas](/week-1/assets/assets/anchor-contoh-html-welcome.png)
+![Referensi Tugas](/assets/anchor-contoh-html-welcome.png)
 
 ### 4. Hasil Akhir
 
 Apabila seluruh tautan/link telah berfungsi dengan baik, harusnya web telah bekerja seperti berikut,
 jika dibuka dari *index.html*.
 
-![Referensi Tugas](/week-1/assets/assets/anchor-html-element-flow.gif)
+![Referensi Tugas](/assets/anchor-html-element-flow.gif)

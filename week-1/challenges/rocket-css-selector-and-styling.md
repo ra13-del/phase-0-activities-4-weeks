@@ -148,7 +148,7 @@ h1 {
 
 CSS telah siap digunakan. Sekarang kamu harus menambahkan `class` atau `id` pada HTML element untuk memberikan desain kepada halaman HTML kita. Hasil akhir dari HTML yang dibuat harus tampil seperti berikut:
 
-![Contoh Hasil Akhir CSS Styling](/week-1/assets/assets/contoh-css-styling.gif)
+![Contoh Hasil Akhir CSS Styling](/assets/contoh-css-styling.gif)
 
 <!-- ### 4. Pengumpulan
 

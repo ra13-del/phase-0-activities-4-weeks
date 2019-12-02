@@ -65,7 +65,7 @@ Selamat sudah melalui kegiatan pekan pertama! Pekan kedua ini kita akan melatih 
   - Lecture:
     - Nested Array / Multidimensional Array
   - Challenge(s):
-    - :anchor: []()
+    - :anchor: [Slice](/week-2/challenges/anchor-slice.md)
     - :anchor: []()
   - Reference(s):
     - :notebook_with_decorative_cover: [Multidimensional Array](/week-2/references/js-multidimensional-array.md)

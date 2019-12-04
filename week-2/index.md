@@ -38,6 +38,9 @@ Selamat sudah melalui kegiatan pekan pertama! Pekan kedua ini kita akan melatih 
   - Live Code
 - ### Session 2
   - Review Live Code
+- Challenge(s):
+  - :rocket: [Shape Of I](/week-2/challenges/rocket-shape-of-i.md)
+  - :rocket: [Interesting Ladder](/week-2/challenges/rocket-interesting-ladder.md)
 
 ## Thursday
 - ### Session 1

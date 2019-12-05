@@ -11,7 +11,7 @@ Diberikan sebuah function `ladder` berisi satu parameter bertipe string
 
 Buatlah program yang menghasilkan gambar yang menyerupai tangga dengan pola sebagai berikut:
   - kata yang paling atas adalah kata itu sendiri dengan catatan masing-masing huruf berada di indeks berbeda di satu array
-  - setiap turun, huruf akan berkurang 1 dari depan (dari value kata awal)
+  - setiap turun, huruf akan berkurang 1 dari belakang (dari value kata awal)
 
 
 ```

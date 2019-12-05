@@ -69,7 +69,7 @@ Selamat sudah melalui kegiatan pekan pertama! Pekan kedua ini kita akan melatih 
     - Nested Array / Multidimensional Array
   - Challenge(s):
     - :anchor: [Slice](/week-2/challenges/anchor-slice.md)
-    - :anchor: []()
+    - :anchor: [Interesting Ladder - Array Multidimensi](/week-2/challenges/anchor-ladder-array.md)
   - Reference(s):
     - :notebook_with_decorative_cover: [Multidimensional Array](/week-2/references/js-multidimensional-array.md)
 
@@ -77,12 +77,10 @@ Selamat sudah melalui kegiatan pekan pertama! Pekan kedua ini kita akan melatih 
   - Lecture:
     - Review Array (optional)
   - Challenge(s):
-    - :anchor: []()
-    - :anchor: []()
-  - Reference(s):
-    - :notebook_with_decorative_cover: []()
+    - :anchor: [Vocal Seeker](/week-2/challenges/anchor-seeker.md)
+    - :anchor: [Sitting Arrangement](/week-2/challenges/anchor-sitting-arrangement.md)
 
- - ### [Click disini untuk mengumpulkan challenge W2D5]()
+ - ### [Click disini untuk mengumpulkan challenge W2D5](https://airtable.com/shrWo30j0HUiyI9VT)
 
 ## Weekend (Homework)
 - :anchor: []()

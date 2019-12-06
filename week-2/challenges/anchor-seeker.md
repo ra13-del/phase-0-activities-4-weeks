@@ -26,6 +26,6 @@ let board = [
   ['a', 'A', 'o', 'b']
 ]
 
-console.log(sittingArrangement(board)); // vokal ditemukan 3 dan kumpulan vokal adalah aAo
+console.log(vocalSeeker(board)); // vokal ditemukan 3 dan kumpulan vokal adalah aAo
 
 ```

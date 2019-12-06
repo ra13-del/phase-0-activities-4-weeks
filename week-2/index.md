@@ -83,7 +83,8 @@ Selamat sudah melalui kegiatan pekan pertama! Pekan kedua ini kita akan melatih 
  - ### [Click disini untuk mengumpulkan challenge W2D5](https://airtable.com/shrWo30j0HUiyI9VT)
 
 ## Weekend (Homework)
-- :anchor: []()
-- :anchor: []()
+- :anchor: [Urutkan Abjad](/week-2/challenges/anchor-urutkan-abjad.md)
+- :anchor: [Tukar Ukuran](/week-2/challenges/anchor-tukar-ukuran.md)
+- :anchor: [Sorting!](/week-2/challenges/anchor-sorting.md)
 
-  - ### [Click disini untuk mengumpulkan Homework]()
+  - ### [Click disini untuk mengumpulkan Homework](https://airtable.com/shrDvQK0e06kMj36L)

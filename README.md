@@ -7,5 +7,5 @@ Materi di bagi ke dalam empat minggu, yang tiap minggu nya terdiri dari berbagai
 
 ### [Week 1](./week-1/index.md)
 ### [Week 2](./week-2/index.md)
-### [Week 3](./week-1/index.md)
+### [Week 3](./week-3/index.md)
 ### [Week 4](./week-1/index.md)

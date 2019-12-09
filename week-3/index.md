@@ -25,9 +25,10 @@ Pekan ketiga ini kita akan melatih lebih kemampuan logika kamu. Dan dipekan ini 
   - Lecture:
     - Review all material (option depend on request)
   - Challenge(s):
+    - :anchor: [Deep Sum](/week-3/challenges/anchor-deep-sum.md)
     - :anchor: [Most Frequent Largest Numbers](/week-3/challenges/anchor-most-frequent-largest-numbers.md)
-    - :anchor: [Melee Ranged](/week-3/challenges/anchor)
-    - :anchor: [Damage Calculation](/week-3/challenges/anchor)
+    - :anchor: [Melee Ranged](/week-3/challenges/anchor-melee-ranged.md)
+    - :anchor: [Damage Calculation](/week-3/challenges/anchor-damage-calculation.md)
 
 - ### [Click disini untuk mengumpulkan challenge W2D2](https://airtable.com/shrzSL4X8vtcj4U0j)
 

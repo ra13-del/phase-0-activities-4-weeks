@@ -1,7 +1,7 @@
 # Logic Challenge - Password Generator
 
 ## Objectives
-- Mengerti keterhebungan satu function dengan function lainnya
+- Mengerti keterhubungan satu function dengan function lainnya
 - Mengerti melempar/memasukkan data hasil satu function kemudian digunakan untuk parameter function lain
 
 ## Directions

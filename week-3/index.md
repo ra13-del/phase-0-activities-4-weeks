@@ -48,12 +48,16 @@ Pekan ketiga ini kita akan melatih lebih kemampuan logika kamu. Dan dipekan ini 
     - :anchor: [Highest Score](/week-3/challenges/anchor-highest-score.md)
     - :anchor: [Graduates](/week-3/challenges/anchor-graduates.md)
 
+- ### [Click disini untuk mengumpulkan challenge W3D3](https://airtable.com/shrjDLvchMdnUTXVk)
+
 ## Thursday
 - ### Session 1 & 2
   - Review
   - Challenge(s):
     - :anchor: [Shopping Time](/week-3/challenges/anchor-shopping-time.md)
     - :anchor: [Toko X](/week-3/challenges/anchor-toko-x.md)
+
+- ### [Click disini untuk mengumpulkan challenge W3D3](https://airtable.com/shrveJr2DUMCB4nGT)
 
 ## Friday
 - ### Session 1

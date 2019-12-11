@@ -46,7 +46,7 @@ Pekan ketiga ini kita akan melatih lebih kemampuan logika kamu. Dan dipekan ini 
     - Array of Object
   - Challenge(s):
     - :anchor: [Highest Score](/week-3/challenges/anchor-highest-score.md)
-    - :anchor: [Graduates](/week-3/challenges/anchor-graduates.md)
+    - :anchor: [Graduates](/week-3/challenges/anchor-graduates-object.md)
 
 - ### [Click disini untuk mengumpulkan challenge W3D3](https://airtable.com/shrjDLvchMdnUTXVk)
 

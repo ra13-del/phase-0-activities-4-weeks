@@ -28,4 +28,4 @@ Jika nilai mahasiswa kurang dari 0 atau lebih dari 100 maka tampilkan 'Nilai Inv
 ### Hints
 
 * Variabel tetap di-input secara manual.
-* Variabel `nama` dan `nilia` dapat diisi apa saja
+* Variabel `nama` dan `nilai` dapat diisi apa saja

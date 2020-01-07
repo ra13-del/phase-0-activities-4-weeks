@@ -25,15 +25,7 @@ Dalam menggunakan bahasa pemrograman, kita bisa menggunakan atau bahkan tidak pe
 
 Algoritma bisa sesederhana kita jabarkan langkah-langkahnya seperti tadi, atau kita visualisasikan dalam bentuk flowchart seperti berikut.
 
-![Algorithm Illustration](/week-1/
-
-
-
-
-
-
-
-/algorithm.png)
+![Algorithm Illustration](/assets/algorithm.png)
 
 - ▢ Tonton video ini jika perlu: [What is an algorithm and why should you care? - Intro to algorithms on Khan Academy](https://www.khanacademy.org/computing/computer-science/algorithms/intro-to-algorithms/v/what-are-algorithms)
 
@@ -198,7 +190,7 @@ Saat program berjalan, berarti hanya ada dua kemungkinan. Antara menjalankan ste
 - [What is a computer algorithm? on HowStuffWorks](http://computer.howstuffworks.com/question717.htm)
 - [Algorithm, on Wikipedia](https://en.wikipedia.org/wiki/Algorithm)
 - [Algorithms Course on Khan Academy](https://www.khanacademy.org/computing/computer-science/algorithms)
-- [Sorting Algorithm Animations](http://sorting-algorithms.com)
+- [Sorting Algorithm Animations](http://www.sorting-algorithms.com)
 - [VisuAlgo: Visualising data structures and algorithms through animation](http://visualgo.net)
 - [Notes on Algorithms, Pseudocode, and Flowcharts - Dr. Burford J. Furman](http://www.engr.sjsu.edu/bjfurman/courses/ME30/ME30pdf/Notes_on_Algorithms.pdf)
 - [Pseudocode Standard - Dr. John Dalbey](http://users.csc.calpoly.edu/~jdalbey/SWE/pdl_std.html)

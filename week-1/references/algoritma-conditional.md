@@ -25,15 +25,7 @@ Dalam menggunakan bahasa pemrograman, kita bisa menggunakan atau bahkan tidak pe
 
 Algoritma bisa sesederhana kita jabarkan langkah-langkahnya seperti tadi, atau kita visualisasikan dalam bentuk flowchart seperti berikut.
 
-![Algorithm Illustration](/week-1/
-
-
-
-
-
-
-
-/algorithm.png)
+![Algorithm Illustration](/assets/algorithm.png)
 
 - ▢ Tonton video ini jika perlu: [What is an algorithm and why should you care? - Intro to algorithms on Khan Academy](https://www.khanacademy.org/computing/computer-science/algorithms/intro-to-algorithms/v/what-are-algorithms)
 

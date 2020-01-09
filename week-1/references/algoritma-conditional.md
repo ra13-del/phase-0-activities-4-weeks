@@ -21,7 +21,7 @@ Bagaimana cara kamu menggunakan komputer sehari-hari? Mulai dari menekan tombol 
 
 Nah itulah algoritma, kumpulan proses ataupun aturan untuk melakukan atau menyelesaikan sesuatu. Sesuatu ini biasanya berupa masalah atau kegiatan yang langkah-langkahnya pasti terbatas (tidak terus-menerus).
 
-Dalam menggunakan bahasa pemrograman, kita bisa menggunakan atau bahkan tidak perlu menggunakan algoritma. Tapi hampir 99% pastinya perlu algoritma. Misalnya saja kita sudah tahu algoritma dasar dari perulangan dan perkondisian.
+Dalam menggunakan bahasa pemrograman, kita bisa menggunakan atau bahkan tidak perlu menggunakan pseudocode. Tapi hampir 99% pastinya perlu algoritma. Misalnya saja kita sudah tahu algoritma dasar dari perulangan dan perkondisian.
 
 Algoritma bisa sesederhana kita jabarkan langkah-langkahnya seperti tadi, atau kita visualisasikan dalam bentuk flowchart seperti berikut.
 
@@ -53,7 +53,7 @@ Banyak tools software yang dapat kamu gunakan untuk menggambar flowchart. salah 
 
 Bagi kalian yang nanti akan membuat sebuah sistem yang complex, menggambar flowchart bisa jadi hal pertama yang kalian lakukan sebelum coding. Kenapa ?
 
-Karena untuk membuat sebuah sistem yang complex kalian harus punya gambaran yang jelas dari proses atau prosedur dari awal hingga ahkir sistem yang kalian buat. Kalau tidak ada flowchart kadang di tengah pengerjaan project kita lupa alur dari sistem yang kita buat. Tentu hal ini akan mempengaruhi codingan kalian.
+Karena untuk membuat sebuah sistem yang complex kalian harus punya gambaran yang jelas dari proses atau prosedur dari awal hingga akhir sistem yang kalian buat. Kalau tidak ada flowchart kadang di tengah pengerjaan project kita lupa alur dari sistem yang kita buat. Tentu hal ini akan mempengaruhi codingan kalian.
 
 
 ### Mengenal Pseudocode
@@ -192,5 +192,5 @@ Saat program berjalan, berarti hanya ada dua kemungkinan. Antara menjalankan ste
 - [Algorithms Course on Khan Academy](https://www.khanacademy.org/computing/computer-science/algorithms)
 - [Sorting Algorithm Animations](http://www.sorting-algorithms.com)
 - [VisuAlgo: Visualising data structures and algorithms through animation](http://visualgo.net)
-- [Notes on Algorithms, Pseudocode, and Flowcharts - Dr. Burford J. Furman](http://www.engr.sjsu.edu/bjfurman/courses/ME30/ME30pdf/Notes_on_Algorithms.pdf)
+- [Notes on Algorithms, Pseudocode, and Flowcharts - Dr. Burford J. Furman](http://www.sjsu.edu/people/burford.furman/docs/me30/Notes_on_Algorithms.pdf)
 - [Pseudocode Standard - Dr. John Dalbey](http://users.csc.calpoly.edu/~jdalbey/SWE/pdl_std.html)

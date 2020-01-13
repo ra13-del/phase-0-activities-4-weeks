@@ -41,6 +41,8 @@ Selamat sudah melalui kegiatan pekan pertama! Pekan kedua ini kita akan melatih 
 - Challenge(s):
   - :rocket: [Shape Of I](/week-2/challenges/rocket-shape-of-i.md)
   - :rocket: [Interesting Ladder](/week-2/challenges/rocket-interesting-ladder.md)
+  
+- ### [Click disini untuk mengumpulkan challenge Rocket](https://airtable.com/shriz6huNhn6sEc19)
 
 ## Thursday
 - ### Session 1

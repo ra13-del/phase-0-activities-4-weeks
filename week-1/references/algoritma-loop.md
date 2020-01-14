@@ -24,9 +24,9 @@ WHILE "hungry"
   DO "eat"
 ```
 
-Nah, pseudocode di atas cukup simple dan mencontohkan kita proses paling sederhana dalam looping. WHILE adalah standard keyword untuk menjunukkan kondisi "selama kita masih lapar", lakukan proses makan.
+Nah, pseudocode di atas cukup simple dan mencontohkan kita proses paling sederhana dalam looping. WHILE adalah standard keyword untuk menunjukkan kondisi "selama kita masih lapar", lakukan proses makan.
 
-Biasanya, saat kita membuat looping, ada sebuah proses yang dilakukan untuk mencapai kondisi tersebut. Kita coba perbaiki contoh pseudocode diatas, dengan asumsi kemampuan makan kita dalam sekali makan adalah 5 sendok nasi. Kita coba umpakan kemampuan makan ini sebagai "hungry level".
+Biasanya, saat kita membuat looping, ada sebuah proses yang dilakukan untuk mencapai kondisi tersebut. Kita coba perbaiki contoh pseudocode diatas, dengan asumsi kemampuan makan kita dalam sekali makan adalah 5 sendok nasi. Kita coba umpamakan kemampuan makan ini sebagai "hungry level".
 
 ```
 STORE "full level" with 0
@@ -75,5 +75,5 @@ WHILE "count" < 11
 - [Algorithms Course on Khan Academy](https://www.khanacademy.org/computing/computer-science/algorithms)
 - [Sorting Algorithm Animations](http://www.sorting-algorithms.com)
 - [VisuAlgo: Visualising data structures and algorithms through animation](http://visualgo.net)
-- [Notes on Algorithms, Pseudocode, and Flowcharts - Dr. Burford J. Furman](http://www.engr.sjsu.edu/bjfurman/courses/ME30/ME30pdf/Notes_on_Algorithms.pdf)
+- [Notes on Algorithms, Pseudocode, and Flowcharts - Dr. Burford J. Furman](http://www.sjsu.edu/people/burford.furman/docs/me30/Notes_on_Algorithms.pdf)
 - [Pseudocode Standard - Dr. John Dalbey](http://users.csc.calpoly.edu/~jdalbey/SWE/pdl_std.html)

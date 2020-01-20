@@ -6,17 +6,17 @@ Tipe data ataupun struktur data adalah konsep penting dalam mengkategorisasikan 
 
 ## Learnings
 
-- [Array](js-array#array)
-- [Array Built-in functions](js-array#array-built-in-functions)
-  - [push()](js-array#push)
-  - [pop()](js-array#pop)
-  - [unshift()](js-array#unshift)
-  - [shift()](js-array#shift)
-  - [sort()](js-array#sort)
-  - [slice()](js-array#slice)
-  - [splice()](js-array#splice)
-  - [split()](js-array#split)
-- [Multidimensional Array](js-array#multidimensional-array)
+- [Array](js-array.md#array)
+- [Array Built-in functions](js-array.md#array-built-in-functions)
+  - [push()](js-array.md#push)
+  - [pop()](js-array.md#pop)
+  - [unshift()](js-array.md#unshift)
+  - [shift()](js-array.md#shift)
+  - [sort()](js-array.md#sort)
+  - [slice()](js-array.md#slice)
+  - [splice()](js-array.md#splice)
+  - [split()](js-array.md#split)
+- [Multidimensional Array](js-array.md#multidimensional-array)
 
 ## Array
 
@@ -75,7 +75,7 @@ console.log(animalsArray);  // ["horse", "lion"]
 console.log(animalsArray.join(" and ")); // "horse and lion"
 ```
 
-Beberapa fungsi dari array ada yang mengubah nilai dari array itu sendiri (sort, splice, push, pop, shift, unshift) atau mengembalikan array / nilai baru (). Jika kamu bertanya kenapa berbeda, akan dijelaskan di Week 5 tentang prinsip mutability dan immutability.
+Beberapa fungsi dari array ada yang mengubah nilai dari array itu sendiri (sort, splice, push, pop, shift, unshift) atau mengembalikan array / nilai baru (). Jika kamu bertanya kenapa berbeda, karena prinsip mutability dan immutability.
 
 #### `push()`
 

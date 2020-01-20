@@ -33,7 +33,7 @@ maka output adalah 'age 25'
 Contoh 3:
 let kata = 0
 
-maka outpu adalah 'Invalid data'
+maka output adalah 'Invalid data'
 
 Contoh 4:
 let kata = '0'

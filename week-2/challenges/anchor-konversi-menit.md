@@ -6,7 +6,7 @@
 - Mampu menggunakan operator '%', '<', '>' ataupun '==='
 
 ## Problem
-Dibarikan sebuah letiable `detik` yang bertipe number.
+Diberikan sebuah letiable `detik` yang bertipe number.
 
 Buatlah program yang akan menghasilkan String waktu dalam format menit:detik
 

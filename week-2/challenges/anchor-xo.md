@@ -6,7 +6,7 @@
 - Mampu menggabungkan konsep `looping/iteration` dan `conditional` didalam sebuah masalah
 
 ## Problem
-Diberikan seubah variable `kata` bertipe String.
+Diberikan sebuah variable `kata` bertipe String.
 
 Buatlah program dimana program tersebut akan menghitung jumlah karakter x dan jumlah karakter o. Setelah perhitungan selesai maka tampilkan true jika jumlah karakter o dan x sama dan false jika tidak
 

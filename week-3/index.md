@@ -55,7 +55,8 @@ Pekan ketiga ini kita akan melatih lebih kemampuan logika kamu. Dan dipekan ini 
   - Review
   - Challenge(s):
     - :anchor: [Shopping Time](/week-3/challenges/anchor-shopping-time.md)
-    - :anchor: [Toko X](https://github.com/hacktiv8/phase-0-activities-4-weeks/blob/master/week-3/challenges/anchor-tokoX.md)
+    - :anchor: [Toko X](/week-3/challenges/anchor-tokoX.md)
+
 
 - ### [Click disini untuk mengumpulkan challenge W3D3](https://airtable.com/shrveJr2DUMCB4nGT)
 

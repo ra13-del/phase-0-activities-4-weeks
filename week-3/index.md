@@ -15,7 +15,7 @@ Pekan ketiga ini kita akan melatih lebih kemampuan logika kamu. Dan dipekan ini 
     - Modular Function
   - Challenge(s):
     - :anchor: [Tabel Perkalian](/week-3/challenges/anchor-tabel-perkalian.md)
-    - :anchor: [Password Generator](/week-3/challenges/anchor/anchor-password-generator.md)
+    - :anchor: [Password Generator](/week-3/challenges/anchor-password-generator.md)
   - Reference(s):
     - :notebook_with_decorative_cover: [Functions](https://www.codecademy.com/learn/introduction-to-javascript/modules/learn-javascript-functions)
 - ### [Click disini untuk mengumpulkan challenge W3D1](https://airtable.com/shrHovreCRKU3gnIl)

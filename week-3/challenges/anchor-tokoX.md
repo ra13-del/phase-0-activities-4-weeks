@@ -2,8 +2,8 @@
 
 ## Objectives
 - Mampu menyelesaikan masalah yang diberikan
-- Mampu mengakases array multidimensi atau object literal
-- Mampu mengakases array of object atau sebaliknya
+- Mampu mengakses array multidimensi atau object literal
+- Mampu mengakses array of object atau sebaliknya
 - Mampu membuat array of object
 
 ## Directions
@@ -12,7 +12,7 @@ Toko X yang sedang melakukan SALE ingin menghitung jumlah profit untuk setiap je
 
 Barang-barang SALE yang akan dihitung penjualannya:
  - Sepatu brand Stacattu seharga 1500000 dan stock barang yang tesedia 10
- - Baju brand Zoro seharga 500000 dan stock barang yang tesedia 2
+ - Baju brand Zoro seharga 500000 dan stock barang yang tersedia 2
  - Sweater brand Uniklooh seharga 175000 dan stock barang yang tersedia 1
 
 Function akan menerima array yang berisikan object pembeli (nama pembeli, barang yang ingin dibeli dan jumlah barang yang dibelinya). Jika stock barang kurang dari jumlah yang ingin dibeli oleh pembeli maka pembeli batal untuk membeli barang tersebut.

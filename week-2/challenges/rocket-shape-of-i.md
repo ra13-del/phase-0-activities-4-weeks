@@ -25,7 +25,6 @@ let num = 5
 Contoh 2:
 let num = 6
 
-
 //output yang diharapkan
 ######
   ||

@@ -39,4 +39,4 @@ Di
   - Lecture:
     - Review
 - ### Session 2
-  - Live Code
+  - Final Project

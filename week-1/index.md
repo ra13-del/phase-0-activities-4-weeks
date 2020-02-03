@@ -21,6 +21,8 @@ Tugas dikumpulkan harian, dan setiap tugas akan dikoreksi setiap pagi di hari se
 - ### Session 1
   - Welcome to Phase 0 and Briefing
 - ### Session 2
+  - Lecture:
+    - HTML
   - Challenge(s):
     - :anchor: [Codecademy Course - HTML](https://www.codecademy.com/learn/learn-html)
     - :rocket: [Membuat Halaman HTML Sederhana](/week-1/challenges/rocket-laman-web-pertamaku.md)
@@ -28,6 +30,8 @@ Tugas dikumpulkan harian, dan setiap tugas akan dikoreksi setiap pagi di hari se
 
 ## Tuesday
 - ### Session 1
+  - Lecture:
+    - CSS
   - Challenge(s):
     - :anchor: [Codecademy Course - CSS (hanya sampai Unit 5 - Typography)](https://www.codecademy.com/learn/learn-css)
 - ### Session 2

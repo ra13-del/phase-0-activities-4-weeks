@@ -13,7 +13,7 @@ title: 'Grade Students'
 
 ## Directions
 
-Buatlah sebuah algoritma untuk kasus berikut:
+Buatlah algoritma dan implementasi di javascript untuk kasus berikut:
 Seorang pengajar sedang memeriksa ujian mahasiswa dan akan memberikan desc nilai dari A-E dengan ketentuan sebagai berikut:
  - Nilai 80 - 100: A
  - Nilai 65 - 79: B

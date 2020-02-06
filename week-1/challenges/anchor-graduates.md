@@ -3,7 +3,7 @@ path: '/week-1/challenges/anchor-graduates'
 title: 'Graduates'
 ---
 
-# Grade Students
+# Graduates
 
 ## Objectives
 

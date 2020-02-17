@@ -15,6 +15,7 @@ Function akan me-return array multidimensi dimana array tersebut berisikan 3 kat
   - kelompok ke-2 (baris ke-2) merupakan angka-angka ganjil
   - kelompok ke-3 (baris ke-3) merupakan angka-angka kelipatan 3
 
+Dimana, satu angka hanya masuk ke dalam satu kelompok.  Lihat Test Cases untuk detail.
 
 ```JavaScript
 function mengelompokkanAngka(arr) {

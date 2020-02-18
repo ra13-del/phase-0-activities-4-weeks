@@ -11,7 +11,7 @@ Diberikan sebuah function countMe yang menerima satu parameter berupa array.
 Fungsi ini akan mereturn sebuah object dimana key-key dari object tersebut adalah value dari data array. Valuenya adalah total kemunculan data value didalam array
 
 ```JavaScript
-function countMe() {
+function countMe(arr) {
   // write your code here
 }
 

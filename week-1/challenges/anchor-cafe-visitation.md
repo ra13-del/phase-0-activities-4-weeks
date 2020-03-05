@@ -20,3 +20,6 @@ Seseorang pengunjung bar direpresentasikan oleh JavaScript memiliki variable nam
   4. Jika money/uang yang dimiliki tidak mencukupi, maka tampilkan di console "Uang tidak cukup. Anda harus pulang.". Jika uang cukup, tampilkan "Anda bisa pesan minum. Sisa uang anda: [...]", dan ganti [...] dengan sisa uang yang telah dikurangi oleh harga minuman.
 
 Buatlah pseudocode dan programnya!
+
+**RESTRICTION**:
+Tidak boleh menggunakan built-in function apapun

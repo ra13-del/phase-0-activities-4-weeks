@@ -13,3 +13,6 @@ Contoh:
 var kata = 'i love javascript'
 
 maka output yang dihasilkan adalah '$ l$v$ j$v$scr$pt'
+
+**RESTRICTION**
+Tidak boleh menggunakan built-in function apapun

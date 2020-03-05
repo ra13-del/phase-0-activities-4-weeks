@@ -1,5 +1,9 @@
 # Logic Challenge - Tabel Perkalian
 
+**RESTRICTION**
+Hanya boleh menggunakan built-in function untuk menambahkan atau mengurangi data dalam array, seperti .shift(), unShift(), push(), dan pop() dan built-in untuk mengkonversi tipe data
+
+
 ## Directions
 
 Diberikan sebuah function tabelPerkalianyang menerima satu parameter angka.

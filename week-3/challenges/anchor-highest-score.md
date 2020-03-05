@@ -4,6 +4,9 @@
 - Mampu mengakses sebuah array of object
 - Mampu membuat object of object
 
+**RESTRICTION**
+Hanya boleh menggunakan built-in function untuk menambahkan atau mengurangi data dalam array, seperti .shift(), unShift(), push(), dan pop() dan built-in function untuk mengakses isi dalam object seperti for..in, for...of, Object.keys(), dll
+
 ## Directions
 
 Implementasikan function highestScore untuk mendapatkan student dengan nilai tertinggi dari setiap class:

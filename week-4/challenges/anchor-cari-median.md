@@ -3,6 +3,9 @@
 ## Objectives
 - Mampu menyelesaikan masalah yang diberikan
 
+**RESTRICTION**
+Hanya boleh menggunakan built-in function untuk menambahkan atau mengurangi data dalam array, seperti .shift(), unShift(), push(), dan pop() dan built-in function untuk mengakses isi dalam object seperti for..in, for...of, Object.keys(), dll
+
 ## Directions
 
 Diberikan sebuah function cariMedian yang menerima sebuah array kumpulan angka.

@@ -7,6 +7,9 @@
 
 ## Directions
 
+**RESTRICTION**
+Tidak boleh menggunakan built-in function apapun
+
 ### 1. Menyusun Barisan Bintang
 
 Pada tugas ini kamu diminta untuk melakukan looping dalam JavaScript untuk menampilkan di console barisan asterisks (bintang). Setiap baris memiliki 1 simbol '*'.

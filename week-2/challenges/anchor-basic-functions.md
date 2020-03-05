@@ -5,6 +5,9 @@
 
 - Mampu memahami serta mengimplementasi penggunaan function pada JavaScript
 
+**RESTRICTION**
+Tidak boleh menggunakan built-in function apapun
+
 ## Directions
 
 1. Lanjutkan kode berikut ini hingga dapat menampilkan nilai / output yang diminta!

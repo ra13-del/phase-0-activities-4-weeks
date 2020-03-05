@@ -5,6 +5,9 @@
 - Mengerti logika `nested loop`
 - Dapat melihat pola dari posisi baris dan kolom sebuah pola yang diberikan
 
+**RESTRICTION**
+Tidak boleh menggunakan built-in function apapun
+
 ## Directions
 Diberikan sebuah variabel kata bertipe sting.
 

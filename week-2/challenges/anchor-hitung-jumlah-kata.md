@@ -2,9 +2,11 @@
 
 ## Objectives
 
+**RESTRICTION**
+Tidak boleh menggunakan built-in function apapun
+
 ## Directions
 Diberikan sebuah variabel `kalimat` bertipe string.
-
 Buatlah program yang menghitung jumlah kata yang terdapat didalam kalimat tersebut (**dilarang menggunakan built in function split**)
 
 

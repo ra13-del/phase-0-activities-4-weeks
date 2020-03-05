@@ -5,6 +5,8 @@
 - Mampu mengakses array 1 dimensi
 - Mampu menggunakan while condition dan nested loop
 
+**RESTRICTION**
+Hanya boleh menggunakan built-in function .push()
 
 ## Directions
 

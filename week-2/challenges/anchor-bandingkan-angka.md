@@ -8,6 +8,9 @@
 ## Directions
 Diberikan dua letiabel angka bertipe number yaitu angka1 dan angka2.
 
+**RESTRICTION**
+Tidak boleh menggunakan built-in function apapun
+
 Buatlah program yang membandingkan kedua angka tersebut, jika angka2 lebih besar dari angka1 maka tampilkan nilai true, dan false jika sebaliknya. Jika kedua angka bernilai sama, maka tampilkan -1.
 
 Contoh 1:

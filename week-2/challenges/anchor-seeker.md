@@ -5,6 +5,8 @@
 - Mampu membedakan type data number dan yang bukan
 - Mampu menggunakan template literals
 
+**RESTRICTION**
+Tidak boleh menggunakan built-in function apapun dan regex
 
 ## Directions
 

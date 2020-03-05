@@ -5,6 +5,9 @@
 - Mengerti logika `nested loop`
 - Dapat melihat pola dari posisi baris dan kolom Asterisk
 
+**RESTRICTION**
+Tidak boleh menggunakan built-in function apapun
+
 ## Directions
 Diberikan sebuah variabel num bertipe number.
 

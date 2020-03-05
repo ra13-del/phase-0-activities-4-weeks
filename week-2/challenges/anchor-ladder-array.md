@@ -6,6 +6,9 @@
 - Dapat melihat pola dari posisi baris dan kolom sebuah pola yang diberikan
 - Mampu membuat array multidimensi dari sebuah string yang diberikan
 
+**RESTRICTION**
+Hanya boleh menggunakan built-in function .push()
+
 ## Directions
 Diberikan sebuah function `ladder` berisi satu parameter bertipe string
 

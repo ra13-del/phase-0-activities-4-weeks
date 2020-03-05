@@ -5,6 +5,8 @@
 - Mampu menggabungkan konsep `looping/iteration` dan `conditional` didalam sebuah masalah
 - Mampu mengakses sebuah array
 
+**RESTRICTION**
+Hanya boleh menggunakan built-in function .push()
 
 ## Directions
 

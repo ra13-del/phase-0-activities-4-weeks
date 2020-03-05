@@ -5,6 +5,9 @@
 - Mengerti melempar/memasukkan data hasil satu function kemudian digunakan untuk parameter function lain
 - Mampu membuat function serupa built in function split
 
+**RESTRICTION**
+Hanya boleh menggunakan built-in function untuk menambahkan atau mengurangi data dalam array, seperti .shift(), unShift(), push(), dan pop()
+
 ## Directions
 
 

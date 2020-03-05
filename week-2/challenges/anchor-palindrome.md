@@ -6,6 +6,9 @@
 - Mampu menggabungkan konsep `looping/iteration` dan `conditional` didalam sebuah masalah
 - Mampu memberhentikan sebuah loop menggunakan `break`
 
+**RESTRICTION**
+Tidak boleh menggunakan built-in function apapun
+
 ## Directions
 
 Diberikan sebuah variabel `kata` bertipe String.

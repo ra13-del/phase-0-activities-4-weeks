@@ -3,6 +3,9 @@
 ## Objectives
 - Mampu mengakses array Multidimensi
 
+**RESTRICTION**
+Hanya boleh menggunakan built-in function untuk menambahkan atau mengurangi data dalam array, seperti .shift(), unShift(), push(), dan pop()
+
 ## Directions
 
 Implementasikan function deepSum untuk mendapatkan jumlah pertambahan dari angka-angka yang terdapat

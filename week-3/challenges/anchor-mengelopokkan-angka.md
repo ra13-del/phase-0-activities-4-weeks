@@ -5,6 +5,8 @@
 - Mampu membuat array multidimensi
 - Mampu menggabungkan `looping` dan `conditional`
 
+**RESTRICTION**
+Hanya boleh menggunakan built-in function untuk menambahkan atau mengurangi data dalam array, seperti .shift(), unShift(), push(), dan pop()
 
 ## Directions
 

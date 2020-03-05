@@ -4,6 +4,9 @@
 - Mampu memecahkan masalah yang diberikan
 - Mampu mengakses sebuah array dalam sebuah looping kemudian mengecek nilai tersebut sesuai dengan masalah yang dihadapi
 
+**RESTRICTION**
+Hanya boleh menggunakan built-in function untuk menambahkan atau mengurangi data dalam array, seperti .shift(), unShift(), push(), dan pop()
+
 ## Directions
 
 Diberikan sebuah function targetTerdekat yang menerima satu parameter berupa array yang terdiri dari karakter.

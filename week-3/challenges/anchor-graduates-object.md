@@ -5,6 +5,9 @@
 - Mampu membuat object of object
 - Mampu mengecek kondisi data untuk dimasukkan kedalam sebuah object
 
+**RESTRICTION**
+Hanya boleh menggunakan built-in function untuk menambahkan atau mengurangi data dalam array, seperti .shift(), unShift(), push(), dan pop() dan built-in function untuk mengakses isi dalam object seperti for..in, for...of, Object.keys(), dll
+
 ## Directions
 
 Implementasikan function graduates untuk mendapatkan daftar student yang lulus dengan aturan:

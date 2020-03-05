@@ -6,6 +6,9 @@
 - Mampu mengakses sebuah array
 - Mampu menukar value dari dua variabel
 
+**RESTRICTION**
+Hanya boleh menggunakan built-in function untuk menambahkan atau mengurangi data dalam array, seperti .shift(), unShift(), push(), dan pop() dan built-in function untuk mengecek tipe data, seperti typeof dan isNaN dll.
+
 ## Directions
 
 Buatlah function yang mengurutkan sebuah array dari terkecil sampai terbesar.

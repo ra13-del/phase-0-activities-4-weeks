@@ -5,6 +5,9 @@
 - Mengerti konsep `conditional` untuk membandingkan sebuah angka
 - Mampu menggunakan operator '%', '<', '>' ataupun '==='
 
+**RESTRICTION**
+Tidak boleh menggunakan built-in function selain Math, seperti Math.random(), Math.floor(), dll dan built-in function untuk mengkonversi tipe data, seperti toSting(), Number(), dll
+
 ## Problem
 Diberikan sebuah letiable `detik` yang bertipe number.
 

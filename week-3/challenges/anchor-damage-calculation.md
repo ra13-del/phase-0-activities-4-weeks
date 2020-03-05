@@ -1,5 +1,8 @@
 # Logic Challenge: Damage Calculation
 
+**RESTRICTION**
+Tidak boleh menggunakan built-in function apapun
+
 ## Directions
 
 Diberikan function `attack()`, damageCalculation().

@@ -3,6 +3,9 @@
 ## Objectives
 - Mengerti logika flow `key` sebuah object literals
 
+**RESTRICTION**
+Hanya boleh menggunakan built-in function untuk menambahkan atau mengurangi data dalam array, seperti .shift(), unShift(), push(), dan pop()
+
 ## Directions
 
 Diberikan sebuah function countMe yang menerima satu parameter berupa array.

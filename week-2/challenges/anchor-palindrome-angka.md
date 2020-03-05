@@ -8,6 +8,9 @@
 - Mampu membedakan penggunaan while dan for
 - Mampu memberhentikan sebuah loop menggunakan `break`
 
+**RESTRICTION**
+Hanya boleh menggunakan built-in function untuk mengkonversi tipe data, seperti toString(), Number(), dll
+
 ## Directions
 
 Diberikan sebuah variabel `angka` bertipe number.

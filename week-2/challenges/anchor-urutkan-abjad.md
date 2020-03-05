@@ -4,6 +4,8 @@
 - Mampu memecahkan sebuah masalah yang diberikan
 - Mampu mengurutkan sebuah karakter lain selain karakter bertipe number
 
+**RESTRICTION**
+Hanya boleh menggunakan built-in function .push()
 
 ## Directions
 

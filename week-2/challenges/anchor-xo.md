@@ -5,6 +5,9 @@
 - Mampu menggunakan operator '<', '>' ataupun '==='
 - Mampu menggabungkan konsep `looping/iteration` dan `conditional` didalam sebuah masalah
 
+**RESTRICTION**
+Tidak boleh menggunakan built-in function apapun dan regex
+
 ## Problem
 Diberikan sebuah variable `kata` bertipe String.
 

@@ -5,6 +5,9 @@
 - Mampu mengakases array multidimensi menggunakan nested loop
 - Mampu membuat object literal sesuai dengan data (key dan value) yang diinginkan
 
+**RESTRICTION**
+Hanya boleh menggunakan built-in function untuk menambahkan atau mengurangi data dalam array, seperti .shift(), unShift(), push(), dan pop()
+
 ## Directions
 
 Diberikan sebuah function changeMe yang menerima satu parameter berupa array multidimensi dimana array tersebut berisi value (pasti berurut dari kiri ke kanan) First Name, Last Name, Gender dan Birth Year .

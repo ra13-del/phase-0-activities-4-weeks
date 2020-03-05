@@ -5,6 +5,9 @@
 - Mampu menggabungkan `looping` dan `conditional`
 - Mampu membandingkan nilai array satu dengan nilai array disebelah kanannya dengan menggunakan index
 
+**RESTRICTION**
+Hanya boleh menggunakan built-in function untuk menambahkan atau mengurangi data dalam array, seperti .shift(), unShift(), push(), dan pop()  
+
 ## Directions
 
 Diberikan sebuah function tentukanDeretGeometriyang menerima satu parameter berupa array yang terdiri dari angka. 

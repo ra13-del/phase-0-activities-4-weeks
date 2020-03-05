@@ -7,8 +7,10 @@
 - Mampu menggunakan truthy falsy didalam pengecekan kondisi
 - Mampu mengkondisikan posisi sebuah `conditional` dari sebuah permasalahan
 
-## Directions
+**RESTRICTION**
+Hanya boleh menggunakan built-in function typeof, isNaN(), dan built-in untuk menkonversi tipe data, seperti toString(), Number(), dll
 
+## Directions
 Diberikan sebuah variabel `kata` bertipe string.
 
 Buatlah program yang mengecek kondisi tipe data dari kata yang diberikan.

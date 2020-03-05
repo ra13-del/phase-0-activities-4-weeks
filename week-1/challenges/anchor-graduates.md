@@ -27,3 +27,6 @@ Murid dinyatakan lulus jika:
 - absennya dibawah 5 kali
 
 Tampilkan nama murid dan keterangan apakah murid tersebut 'lulus' atau 'tidak lulus'
+
+**RESTRICTION**:
+Tidak boleh menggunakan built-in function apapun

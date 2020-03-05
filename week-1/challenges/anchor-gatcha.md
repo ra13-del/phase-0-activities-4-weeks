@@ -22,4 +22,7 @@ Buatlah pseudocode dan implementasikan menggunakan SWITCH-CASE
 ## Hints
 Untuk merandom angka 1-5 silakan menggunakan built in function Math seperti Math.random, Math.ceil, Math.round, Math.floor, dll
 
+**RESTRICTION**:
+Hanya boleh menggunakan built-in function Math seperti Math.random, Math.ceil, Math.round, Math.floor, dll
+
 [reference built in function Math](/week-1/references/math.md)

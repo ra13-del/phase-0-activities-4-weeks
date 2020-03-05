@@ -25,6 +25,9 @@ Seorang pengajar sedang memeriksa ujian mahasiswa dan akan memberikan desc nilai
 **NOTED**:
 Jika nilai mahasiswa kurang dari 0 atau lebih dari 100 maka tampilkan 'Nilai Invalid'
 
+**RESTRICTION**:
+Tidak boleh menggunakan built-in function apapun
+
 ### Hints
 
 * Variabel tetap di-input secara manual.

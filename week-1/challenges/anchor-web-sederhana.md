@@ -12,3 +12,6 @@ Setelah mempelajari dasar-dasar HTML dan CSS, kamu ditantang untuk membuat sebua
 ## Direction
 
 Kamu diminta membuat Web Sederhana menggunakan HTML dan CSS. Untuk temanya silakan kamu menentukan sendiri (sekreatif mungkin).
+
+**RESTRICTION**
+Dilarang menggunakan framework dan library apapun, wajib menggunakan pure HTML dan CSS

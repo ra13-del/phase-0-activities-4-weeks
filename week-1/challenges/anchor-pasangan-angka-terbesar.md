@@ -29,3 +29,5 @@ var angka = 12783456 //83
 var angka = 910233 //91
 var angka = 79918293 //99
 ```
+**RESTRICTION**
+Hanya di perbolehkan menggunakan built-in function untuk konversi data bertipe string ke number atau sebaliknya, seperti toString(), Number(), dll.

@@ -16,8 +16,7 @@ Fungsi ini akan menampilkan object literal yang memiliki property firstName, las
 
 Nilai age didapatkan dari tahun sekarang dikurang tahun lahir. Jika tahun lahir tidak diisi atau tahun lahir lebih besar dibandingkan tahun sekarang maka age akan berisi 'Invalid Birth Year'
 
-Contoh jika arr inputan adalah [['Platinum', 'Fox', 'female', 1995], ['John', 'Doe', 'male', 2000]]
-maka output:
+Contoh jika arr inputan adalah [['Platinum', 'Fox', 'female', 1995], ['John', 'Doe', 'male', 2000]] dan tahun sekarang = 2019, maka output:
 1. Platinum Fox:
 { firstName: 'Platinum',
   lastName: 'Fox',
@@ -34,11 +33,12 @@ function changeMe(arr) {
 }
 
 // TEST CASES
-changeMe([['Christ', 'Evans', 'Male', 1982], ['Robert', 'Downey', 'Male']]); // 1. Christ Evans:
+changeMe([['Christ', 'Evans', 'Male', 1982], ['Robert', 'Downey', 'Male']]); 
+// 1. Christ Evans:
 // { firstName: 'Christ',
 //   lastName: 'Evans',
 //   gender: 'Male',
-//   age: 37 }
+//   age: 38 }
 // 2. Robert Downey:
 // { firstName: 'Robert',
 //   lastName: 'Downey',

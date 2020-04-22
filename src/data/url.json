@@ -1,0 +1,108 @@
+{
+  "menus": [
+    {
+      "title": "Week 1",
+      "url": "/week-1",
+      "child": [
+        {
+          "title": "Senin",
+          "url": "#senin"
+        },
+        {
+          "title": "Selasa",
+          "url": "#selasa"
+        },
+        {
+          "title": "Rabu",
+          "url": "#rabu"
+        },
+        {
+          "title": "Kamis",
+          "url": "#kamis"
+        },
+        {
+          "title": "Jumat",
+          "url": "#jumat"
+        }
+      ]
+    },
+    {
+      "title": "Week 2",
+      "url": "/week-2",
+      "child": [
+        {
+          "title": "Senin",
+          "url": "#senin"
+        },
+        {
+          "title": "Selasa",
+          "url": "#selasa"
+        },
+        {
+          "title": "Rabu",
+          "url": "#rabu"
+        },
+        {
+          "title": "Kamis",
+          "url": "#kamis"
+        },
+        {
+          "title": "Jumat",
+          "url": "#jumat"
+        }
+      ]
+    },
+    {
+      "title": "Week 3",
+      "url": "/week-3",
+      "child": [
+        {
+          "title": "Senin",
+          "url": "#senin"
+        },
+        {
+          "title": "Selasa",
+          "url": "#selasa"
+        },
+        {
+          "title": "Rabu",
+          "url": "#rabu"
+        },
+        {
+          "title": "Kamis",
+          "url": "#kamis"
+        },
+        {
+          "title": "Jumat",
+          "url": "#jumat"
+        }
+      ]
+    },
+    {
+      "title": "Week 4",
+      "url": "/week-4",
+      "child": [
+        {
+          "title": "Senin",
+          "url": "#senin"
+        },
+        {
+          "title": "Selasa",
+          "url": "#selasa"
+        },
+        {
+          "title": "Rabu",
+          "url": "#rabu"
+        },
+        {
+          "title": "Kamis",
+          "url": "#kamis"
+        },
+        {
+          "title": "Jumat",
+          "url": "#jumat"
+        }
+      ]
+    }
+  ]
+}

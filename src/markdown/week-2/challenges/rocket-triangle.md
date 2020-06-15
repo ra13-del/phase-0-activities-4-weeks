@@ -19,7 +19,7 @@ Diberikan sebuah variabel num bertipe number.
 Buatlah program yang menghasilkan gambar segitiga dengan pola sebagai berikut
 
 
-```
+```javascript
 Contoh 1:
 let num = 3
 

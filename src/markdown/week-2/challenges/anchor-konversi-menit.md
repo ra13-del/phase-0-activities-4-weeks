@@ -18,7 +18,7 @@ Diberikan sebuah letiable `detik` yang bertipe number.
 
 Buatlah program yang akan menghasilkan String waktu dalam format menit:detik
 
-```
+```javascript
 Contoh 1:
 let detik = 88
 

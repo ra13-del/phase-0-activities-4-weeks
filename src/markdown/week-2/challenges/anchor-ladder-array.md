@@ -22,7 +22,7 @@ Buatlah program yang menghasilkan gambar yang menyerupai tangga dengan pola seba
   - setiap turun, huruf akan berkurang 1 dari belakang (dari value kata awal)
 
 
-```
+```javascript
 function ladder(word) {
   //your code here
 }

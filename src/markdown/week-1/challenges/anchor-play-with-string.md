@@ -27,7 +27,7 @@ var seventh = 'it!';
 
 ### Output
 
-```
+```Javascript
 JavaScript is awesome and I love it!
 ```
 
@@ -60,7 +60,7 @@ console.log('Fifth Word: ' + fifthWord);
 
 ### Output
 
-```
+```Javascript
 First Word: wow
 Second Word: JavaScript
 Third Word: is
@@ -93,7 +93,7 @@ console.log('Fifth Word: ' + fifthWord3);
 
 ### Output
 
-```
+```Javascript
 First Word: wow
 Second Word: JavaScript
 Third Word: is
@@ -131,7 +131,7 @@ console.log('Fifth Word: ' + fifthWord4);
 
 ### Output
 
-```
+```Javascript
 First Word: wow, with length: 3
 Second Word: JavaScript, with length: 10
 Third Word: is, with length: 2

@@ -28,7 +28,7 @@ let rows1; // input the number of rows
 
 jika rows1 = 5
 
-```
+```javascript
 *
 *
 *
@@ -50,7 +50,7 @@ let rows2; // input the number of rows
 
 jika rows2 = 5
 
-```
+```javascript
 *****
 *****
 *****
@@ -73,7 +73,7 @@ let rows3; // input the number of rows
 
 jika rows3 = 5
 
-```
+```javascript
 *
 **
 ***
@@ -96,7 +96,7 @@ let rows4; // input the number of rows
 
 jika rows4 = 5
 
-```
+```javascript
 *****
 ****
 ***

@@ -28,7 +28,7 @@ penjelasan:
 Maka 92 adalah pasangan dua digit angka yang paling besar diantara yang lainnya.
 
 Testlah program kamu dengan value angka dibawah ini:
-```
+```Javascript
 var angka = 641573  //73
 var angka = 12783456 //83
 var angka = 910233 //91

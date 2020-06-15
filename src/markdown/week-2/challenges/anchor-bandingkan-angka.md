@@ -29,4 +29,3 @@ let angka1 = 5
 let angka2 = 5
 
 maka output adalah -1
-```

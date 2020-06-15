@@ -17,7 +17,7 @@ Implementasikan function deepSum untuk mendapatkan jumlah pertambahan dari angka
 di dalam array
 
 Contoh inputan array:
-```
+```Javascript
 [
   [
     [1, 2, 3],

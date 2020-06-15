@@ -16,7 +16,7 @@ Pada tugas ini kamu diminta untuk melakukan *looping* dalam javascript untuk men
 ### 1.
 Buatlah sebuah loop untuk mengecek setiap 3 angka dari 1-100, lalu cetak angka tersebut dan menuliskan apakah bilangan tersebut ganjil atau genap.
 
-```
+```Javascript
 OUTPUT:
 --------
   1 - ganjil
@@ -30,7 +30,7 @@ OUTPUT:
 ### 2.
 Buatlah sebuah loop untuk mengecek setiap 5 angka dari 50-200, lalu cetak angka tersebut dan tuliskan apakah bilangan tersebut merupakan faktor perkalian 3 atau bukan.
 
-```
+```Javascript
 OUTPUT:
 --------
    50 - tidak bisa dibagi 3
@@ -45,7 +45,7 @@ OUTPUT:
 ### 3.
 buatlah loop untuk mengecek setiap 7 angka dari 100-200, dan hanya cetak angka tersebut bila angkanya habis dibagi 8.
 
-```
+```Javascript
 OUTPUT:
 --------
    128

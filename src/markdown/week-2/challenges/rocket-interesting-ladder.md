@@ -21,7 +21,7 @@ Buatlah program yang menghasilkan gambar yang menyerupai tangga dengan pola seba
   - setiap naik, huruf akan berkurang 1 dari depan (dari value kata awal) kemudian kata tersebut dibalik
 
 
-```
+```javascript
 Contoh 1:
 let kata = 'hacktiv8'
 

@@ -11,6 +11,7 @@ Dalam tahap ini kamu akan belajar dasar-dasar pemograman. Kamu akan belajar seti
 Untuk seluruh diskusi pembelajaran inti dari awal persiapan hingga berakhirnya bootcamp, kita akan menggunakan grup [Slack](https://slack.com/).
 
 Panduan:
+
 - :notebook_with_decorative_cover: **Reference** adalah bacaan sebagai referensi pembelajaran kamu. Di dalam beberapa bacaan, ada direction yang memintamu membuat sesuatu. Direction itu lebih bersifat opsional untuk membantu kamu saja.
 - :anchor: **Anchor** adalah tugas atau tantangan yang wajib kamu kerjakan dan kumpulkan.
 - 💪 **Self Training** adalah tugas atau tantangan opsional yang walaupun tidak dikumpulkan, bila kamu selesaikan dengan baik, pembelajarannya maksimal! 😎
@@ -22,40 +23,17 @@ Panduan:
 Tugas dikumpulkan harian, dan setiap tugas akan dikoreksi setiap pagi di hari selanjutnya.
 
 ## Monday
+
 - ### Session 1
   - Welcome to Phase 0 and Briefing
 - ### Session 2
   - Lecture:
-    - HTML
-  - Challenge(s):
-    - :anchor: [Codecademy Course - HTML](https://www.codecademy.com/learn/learn-html)
-    - :rocket: [Membuat Halaman HTML Sederhana](/week-1/challenges/rocket-laman-web-pertamaku)
-- ### [Click disini untuk mengumpulkan challenge W1D1](https://airtable.com/shrVWuwKPZys8TjR5)
+    - Basic Command Line Unix, Git & Github
 
 ## Tuesday
-- ### Session 1
-  - Lecture:
-    - CSS
-  - Challenge(s):
-    - :anchor: [Codecademy Course - CSS (hanya sampai Unit 5 - Typography)](https://www.codecademy.com/learn/learn-css)
-- ### Session 2
-  - Lecture:
-    - Basic Command Line Unix
-  - Challenge(s):
-    - :anchor: [Menghias HTML dengan CSS](/week-1/challenges/anchor-css-selector-and-styling)
-    - :rocket: [Membuat Layout dan Desain Halaman Web dengan CSS](/week-1/challenges/rocket-css-layouting)
-- ### [Click disini untuk mengumpulkan challenge W1D2](https://airtable.com/shrlcmgELh3w7h6bF)
 
-## Wednesday
-- ### Session 1 & 2
-  - Lecture:
-    - Review HTML and CSS
-  - Challenge:
-    - :anchor: [Membuat Web Sederhana dengan HTML dan CSS](/week-1/challenges/anchor-web-sederhana)
-- ### [Click disini untuk mengumpulkan challenge W1D3](https://airtable.com/shrVrybFeKYD5Q6c7)
-
-## Thursday
 - ### Session 1
+
   - Lecture:
     - Algoritma & Pseudocode
   - Challenge(s):
@@ -65,6 +43,7 @@ Tugas dikumpulkan harian, dan setiap tugas akan dikoreksi setiap pagi di hari se
     - :notebook_with_decorative_cover: [Algoritma & Pseudocode](/week-1/references/algorithm-pseudocode-conditional)
 
 - ### Session 2
+
   - Lecture:
     - Conditional and Primitive Data Type
   - Challenge(s):
@@ -75,10 +54,12 @@ Tugas dikumpulkan harian, dan setiap tugas akan dikoreksi setiap pagi di hari se
     - :notebook_with_decorative_cover: [Conditional and Primitive Data Type](/week-1/references/js-first-time)
     - :notebook_with_decorative_cover: [Understanding String in Javascript](/week-1/references/js-string-reference)
 
- - ### [Click disini untuk mengumpulkan challenge W1D4](https://airtable.com/shr7zDfI34a5pW6QY)
+- ### [Click disini untuk mengumpulkan challenge W1D2](https://airtable.com/shr7zDfI34a5pW6QY)
 
-## Friday
+## Wednesday
+
 - ### Session 1
+
   - Lecture:
     - Adv Conditional
   - Challenge(s):
@@ -90,6 +71,7 @@ Tugas dikumpulkan harian, dan setiap tugas akan dikoreksi setiap pagi di hari se
     - :notebook_with_decorative_cover: [Built in Function Math](/week-1/references/math)
 
 - ### Session 2
+
   - Lecture:
     - Pseudocode (cont) & Loop/Iteration
   - Challenge
@@ -100,10 +82,45 @@ Tugas dikumpulkan harian, dan setiap tugas akan dikoreksi setiap pagi di hari se
     - :notebook_with_decorative_cover: [Algoritma & Pseudocode Iteration](/week-1/references/algoritma-loop)
     - :notebook_with_decorative_cover: [Iteration](/week-1/references/js-first-time)
 
- - ### [Click disini untuk mengumpulkan challenge W1D5](https://airtable.com/shryHhnM519GtVUYs)
+- ### [Click disini untuk mengumpulkan challenge W1D3](https://airtable.com/shryHhnM519GtVUYs)
+
+## Thursday
+
+- ### Session 1
+  - Lecture:
+    - Nested Loop
+  - Challenge(s):
+    - :anchor: [Asterisks](/week-1/challenges/anchor-asterisk)
+    - :anchor: [Balik Kata](/week-1/challenges/anchor-balik-kata)
+- ### Session 2
+  - Lecture:
+    - Review Loop and Nested Loop (optional)
+  - Challenge(s):
+    - :anchor: [Bandingkan Angka](/week-1/challenges/anchor-bandingkan-angka)
+    - :anchor: [Konversi Menit](/week-1/challenges/anchor-konversi-menit)
+    - :anchor: [XO](/week-1/challenges/anchor-xo)
+    - :rocket: [Triangle](/week-1/challenges/rocket-triangle)
+- ### [Click disini untuk mengumpulkan challenge W1D4](https://airtable.com/shrAXgynjoZ2No4Op)
+
+## Friday
+
+- ### Session 1
+
+  - Lecture:
+    - ES6 (let, var, const, template literals)
+  - Challenge(s):
+    - :anchor: [Data Type Challenge](/week-1/challenges/anchor-data-type)
+    - :anchor: [Hitung Jumlah Kata](/week-1/challenges/anchor-hitung-jumlah-kata)
+    - :anchor: [Palindrome](/week-1/challenges/anchor-palindrome)
+    - :anchor: [Palindrome Angka](/week-1/challenges/anchor-palindrome-angka)
+  - Reference(s):
+    - :notebook_with_decorative_cover: [ES6 - const, let, var, template literals](/week-1/references/es6)
+
+- ### [Click disini untuk mengumpulkan challenge W1D5](https://airtable.com/shrzSL4X8vtcj4U0j)
 
 ## Weekend (Homework)
-  - :anchor:[Pasangan Angka Terbesar](/week-1/challenges/anchor-pasangan-angka-terbesar)
-  - :anchor:[Ubah Huruf](/week-1/challenges/anchor-ubah-huruf)
 
-  - ### [Click disini untuk mengumpulkan Homework](https://airtable.com/shrLOT7OVWNkM5thv)
+- :anchor:[Pasangan Angka Terbesar](/week-1/challenges/anchor-pasangan-angka-terbesar)
+- :anchor:[Ubah Huruf](/week-1/challenges/anchor-ubah-huruf)
+
+- ### [Click disini untuk mengumpulkan Homework](https://airtable.com/shrLOT7OVWNkM5thv)

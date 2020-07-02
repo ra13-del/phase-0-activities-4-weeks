@@ -1,5 +1,5 @@
 ---
-path: '/week-3/challenges/anchor-most-frequent-largest-numbers'
+path: '/week-2/challenges/anchor-most-frequent-largest-numbers'
 title: 'Most Frequent Largest Numbers'
 ---
 

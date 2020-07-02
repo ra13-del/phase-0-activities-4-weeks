@@ -1,5 +1,5 @@
 ---
-path: '/week-3/challenges/anchor-damage-calculation'
+path: '/week-2/challenges/anchor-damage-calculation'
 title: 'Damage Calculation'
 ---
 

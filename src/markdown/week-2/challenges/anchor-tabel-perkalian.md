@@ -1,5 +1,5 @@
 ---
-path: '/week-3/challenges/anchor-tabel-perkalian'
+path: '/week-2/challenges/anchor-tabel-perkalian'
 title: 'Tabel Perkalian'
 ---
 

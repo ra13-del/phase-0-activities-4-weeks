@@ -1,5 +1,5 @@
 ---
-path: '/week-3/challenges/anchor-deep-sum'
+path: '/week-2/challenges/anchor-deep-sum'
 title: 'Deep Sum'
 ---
 

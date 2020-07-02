@@ -13,8 +13,8 @@ Selamat sudah melalui kegiatan pekan pertama! Pekan kedua ini kita akan melatih 
 - ### Session 2
   - Review Live Code
 - Challenge(s):
-  - :rocket: [Shape Of I](/week-2/challenges/rocket-shape-of-i.md)
-  - :rocket: [Interesting Ladder](/week-2/challenges/rocket-interesting-ladder.md)
+  - :rocket: [Shape Of I](/week-2/challenges/rocket-shape-of-i)
+  - :rocket: [Interesting Ladder](/week-2/challenges/rocket-interesting-ladder)
 - ### [Click disini untuk mengumpulkan challenge W2D1](https://airtable.com/shrAXgynjoZ2No4Op)
 
 ## Tuesday
@@ -23,18 +23,18 @@ Selamat sudah melalui kegiatan pekan pertama! Pekan kedua ini kita akan melatih 
     - Functions
   - Challenge(s):
     - :anchor: [Codecademy JavaScript - Functions (Only 1 - 6)](https://www.codecademy.com/courses/introduction-to-javascript/lessons/functions/exercises/intro-to-functions?action=resume_content_item)
-    - :anchor: [Shout Out](/week-2/challenges/anchor-basic-functions.md)
+    - :anchor: [Shout Out](/week-2/challenges/anchor-basic-functions)
   - Reference(s):
-    - :notebook_with_decorative_cover: [Function](/week-2/references/js-first-time-function.md)
+    - :notebook_with_decorative_cover: [Function](/week-2/references/js-first-time-function)
 
 - ### Session 2
   - Lecture:
     - Array
   - Challenge(s):
     - :anchor: [Codecademy JavaScript - Array (Only 1-10)](https://www.codecademy.com/courses/introduction-to-javascript/lessons/arrays/exercises/arrays?action=resume_content_item)
-    - :anchor: [Built in Function Challenges](/week-2/challenges/anchor-array.md)
+    - :anchor: [Built in Function Challenges](/week-2/challenges/anchor-array)
   - Reference(s):
-    - :notebook_with_decorative_cover: [Array](/week-2/references/js-array.md)
+    - :notebook_with_decorative_cover: [Array](/week-2/references/js-array)
 
 - ### [Click disini untuk mengumpulkan challenge W2D2](https://airtable.com/shrzSL4X8vtcj4U0j)
 
@@ -43,17 +43,17 @@ Selamat sudah melalui kegiatan pekan pertama! Pekan kedua ini kita akan melatih 
   - Lecture:
     - Nested Array / Multidimensional Array
   - Challenge(s):
-    - :anchor: [Slice](/week-2/challenges/anchor-slice.md)
-    - :anchor: [Interesting Ladder - Array Multidimensi](/week-2/challenges/anchor-ladder-array.md)
+    - :anchor: [Slice](/week-2/challenges/anchor-slice)
+    - :anchor: [Interesting Ladder - Array Multidimensi](/week-2/challenges/anchor-ladder-array)
   - Reference(s):
-    - :notebook_with_decorative_cover: [Multidimensional Array](/week-2/references/js-multidimensional-array.md)
+    - :notebook_with_decorative_cover: [Multidimensional Array](/week-2/references/js-multidimensional-array)
 
 - ### Session 2
   - Lecture:
     - Review Array 
   - Challenge(s):
-    - :anchor: [Vocal Seeker](/week-2/challenges/anchor-seeker.md)
-    - :anchor: [Sitting Arrangement](/week-2/challenges/anchor-sitting-arrangement.md)
+    - :anchor: [Vocal Seeker](/week-2/challenges/anchor-seeker)
+    - :anchor: [Sitting Arrangement](/week-2/challenges/anchor-sitting-arrangement)
 
 - ### [Click disini untuk mengumpulkan challenge](https://airtable.com/shriz6huNhn6sEc19)
 
@@ -62,16 +62,16 @@ Selamat sudah melalui kegiatan pekan pertama! Pekan kedua ini kita akan melatih 
   - Lecture:
     - Review Array dan Array Multidimensi
   - Challenge(s):
-    - :anchor: [Deret Geometri](/week-2/challenges/anchor-deret-geometri.md)
-    - :anchor: [Target Terdekat](/week-2/challenges/anchor-target-terdekat.md)
-    - :anchor: [Mengelompokkan Angka](/week-2/challenges/anchor-mengelopokkan-angka.md)
+    - :anchor: [Deret Geometri](/week-2/challenges/anchor-deret-geometri)
+    - :anchor: [Target Terdekat](/week-2/challenges/anchor-target-terdekat)
+    - :anchor: [Mengelompokkan Angka](/week-2/challenges/anchor-mengelopokkan-angka)
 
 - ### Session 2
   - Lecture:
     - Modular Function
   - Challenge(s):
-    - :anchor: [Tabel Perkalian](/week-2/challenges/anchor-tabel-perkalian.md)
-    - :anchor: [Password Generator](https://github.com/hacktiv8/phase-0-activities-4-weeks/blob/master/week-2/challenges/anchor-password-generator.md)
+    - :anchor: [Tabel Perkalian](/week-2/challenges/anchor-tabel-perkalian)
+    - :anchor: [Password Generator](https://github.com/hacktiv8/phase-0-activities-4-weeks/blob/master/week-2/challenges/anchor-password-generator)
   - Reference(s):
     - :notebook_with_decorative_cover: [Functions](https://www.codecademy.com/learn/introduction-to-javascript/modules/learn-javascript-functions)
 
@@ -82,10 +82,10 @@ Selamat sudah melalui kegiatan pekan pertama! Pekan kedua ini kita akan melatih 
   - Lecture:
     - Review all material (option depend on request)
   - Challenge(s):
-    - :anchor: [Deep Sum](/week-2/challenges/anchor-deep-sum.md)
-    - :anchor: [Most Frequent Largest Numbers](/week-2/challenges/anchor-most-frequent-largest-numbers.md)
-    - :anchor: [Melee Ranged](/week-2/challenges/anchor-melee-ranged.md)
-    - :anchor: [Damage Calculation](/week-2/challenges/anchor-damage-calculation.md)
+    - :anchor: [Deep Sum](/week-2/challenges/anchor-deep-sum)
+    - :anchor: [Most Frequent Largest Numbers](/week-2/challenges/anchor-most-frequent-largest-numbers)
+    - :anchor: [Melee Ranged](/week-2/challenges/anchor-melee-ranged)
+    - :anchor: [Damage Calculation](/week-2/challenges/anchor-damage-calculation)
 
  - ### [Click disini untuk mengumpulkan challenge W2D5](https://airtable.com/shrWo30j0HUiyI9VT)
 

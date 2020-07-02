@@ -1,5 +1,5 @@
 ---
-path: '/week-3/challenges/anchor-password-generator'
+path: '/week-2/challenges/anchor-password-generator'
 title: 'Password Generator'
 ---
 

@@ -1,5 +1,5 @@
 ---
-path: '/week-3/challenges/anchor-melee-ranged'
+path: '/week-2/challenges/anchor-melee-ranged'
 title: 'Melee Ranged Grouping'
 ---
 

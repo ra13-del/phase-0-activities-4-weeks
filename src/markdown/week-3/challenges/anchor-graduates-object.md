@@ -24,7 +24,7 @@ Implementasikan function graduates untuk mendapatkan daftar student yang lulus d
 
 Output yang diharapkan berupa Object Literal dengan format sebagai berikut:
 
-```
+```javascript
 {
   <class>: [
     { name: <name>, score: <score> },

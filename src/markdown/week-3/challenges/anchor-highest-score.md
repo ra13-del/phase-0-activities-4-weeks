@@ -19,7 +19,7 @@ Implementasikan function highestScore untuk mendapatkan student dengan nilai ter
 
 Output yang diharapkan berupa Object Literal dengan format sebagai berikut:
 
-```
+```javascript
 {
   <class>: { name: <name>, score: <score> },
   <class>: { name: <name>, score: <score> },

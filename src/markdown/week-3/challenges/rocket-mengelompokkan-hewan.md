@@ -1,11 +1,12 @@
 ---
-path: '/week-4/challenges/rocket-mengelompokkan-hewan'
+path: '/week-3/challenges/rocket-mengelompokkan-hewan'
 title: 'Mengelompokkan Hewan'
 ---
 
 # Logic Challenge - Mengelompokkan Hewan!
 
 ## Objectives
+
 - Mampu menyelesaikan masalah yang diberikan
 
 **RESTRICTION**

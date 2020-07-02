@@ -1,6 +1,12 @@
+---
+path: '/week-3/challenges/anchor-graduates-object'
+title: 'Graduates Object'
+---
+
 # Logic Challenge: Graduates (Object Literals)
 
 ## Objectives
+
 - Mampu mengakses sebuah array of object
 - Mampu membuat object of object
 - Mampu mengecek kondisi data untuk dimasukkan kedalam sebuah object
@@ -17,6 +23,7 @@ Implementasikan function graduates untuk mendapatkan daftar student yang lulus d
 - Student yang tidak lulus tidak perlu ditampilkan.
 
 Output yang diharapkan berupa Object Literal dengan format sebagai berikut:
+
 ```
 {
   <class>: [

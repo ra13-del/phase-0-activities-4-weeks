@@ -1,11 +1,12 @@
 ---
-path: '/week-4/challenges/anchor-cari-median'
+path: '/week-3/challenges/anchor-cari-median'
 title: 'Cari Median'
 ---
 
 # Logic Challenge - Cari Median!
 
 ## Objectives
+
 - Mampu menyelesaikan masalah yang diberikan
 
 **RESTRICTION**

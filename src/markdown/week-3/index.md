@@ -8,22 +8,25 @@ Pekan ketiga ini kita akan melatih lebih kemampuan logika kamu. Dan dipekan ini 
 ![Let's start!](/assets/start.png)
 
 ## Monday
+
 - ### Session 1
   - Lecture:
     - Object Literals
   - Challenge(s):
-    - :anchor: [Change Me](/week-3/challenges/anchor-change-me.md)
-    - :anchor: [Count Me](/week-3/challenges/anchor-count-me.md)
+    - :anchor: [Change Me](/week-3/challenges/anchor-change-me)
+    - :anchor: [Count Me](/week-3/challenges/anchor-count-me)
   - Reference(s):
-    - :notebook_with_decorative_cover: [Object Literals](/week-3/references/object-literal.md)
+    - :notebook_with_decorative_cover: [Object Literals](/week-3/references/object-literal)
 - ### Session 2
   - Review Object
 
 ## Tuesday
+
 - ### Session 1 & 2
   - Review before Livecode
 
 ## Wednesday
+
 - ### Session 1
   - Live Code (materi sampai object)
 - ### Session 2
@@ -31,22 +34,30 @@ Pekan ketiga ini kita akan melatih lebih kemampuan logika kamu. Dan dipekan ini 
     - Review Live Code
 
 ## Thursday
+
 - ### Session 1
   - Lecture:
     - Array of Object
   - Challenge(s):
-    - :anchor: [Highest Score](/week-3/challenges/anchor-highest-score.md)
-    - :anchor: [Graduates](/week-3/challenges/anchor-graduates-object.md)
+    - :anchor: [Highest Score](/week-3/challenges/anchor-highest-score)
+    - :anchor: [Graduates](/week-3/challenges/anchor-graduates-object)
 - ### Session 2
   - Lecture:
     - Review Array of Object
   - Challenge(s):
-    - :anchor: [Shopping Time](/week-3/challenges/anchor-shopping-time.md)
-    - :anchor: [Toko X](/week-3/challenges/anchor-tokoX.md)
+    - :anchor: [Shopping Time](/week-3/challenges/anchor-shopping-time)
+    - :anchor: [Toko X](/week-3/challenges/anchor-tokoX)
 
 ## Friday
+
 - ### Session 1
   - Lecture:
     - Review All Materi
+  - Challenge(s):
+    - :anchor: [Angka Prima](/week-3/challenges/anchor-angka-prima)
+    - :anchor: [Cari Median](/week-3/challenges/anchor-cari-median)
+    - :anchor: [Cari Modus](/week-3/challenges/anchor-cari-modus)
+    - :rocket: [Mengelompokkan Hewan](/week-3/challenges/rocket-mengelompokkan-hewan)
 - ### Session 2
-  - Live Code
+- Lecture:
+  - Review All Materi

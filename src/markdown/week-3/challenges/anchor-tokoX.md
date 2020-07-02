@@ -1,8 +1,3 @@
----
-path: '/week-3/challenges/anchor-tokoX'
-title: 'Toko X'
----
-
 # Logic Challenge - Toko X
 
 ## Objectives

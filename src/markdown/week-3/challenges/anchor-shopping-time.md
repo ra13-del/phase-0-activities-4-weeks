@@ -1,8 +1,3 @@
----
-path: '/week-3/challenges/anchor-shopping-time'
-title: 'Shopping Time'
----
-
 # Logic Challenge - Shopping Time!
 
 ## Objectives

@@ -1,8 +1,3 @@
----
-path: '/week-3/challenges/anchor-graduates-object'
-title: 'Graduates (Object Literal)'
----
-
 # Logic Challenge: Graduates (Object Literals)
 
 ## Objectives
@@ -22,7 +17,7 @@ Implementasikan function graduates untuk mendapatkan daftar student yang lulus d
 - Student yang tidak lulus tidak perlu ditampilkan.
 
 Output yang diharapkan berupa Object Literal dengan format sebagai berikut:
-```javascript
+```
 {
   <class>: [
     { name: <name>, score: <score> },

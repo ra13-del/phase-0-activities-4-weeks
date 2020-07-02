@@ -1,8 +1,3 @@
----
-path: '/week-3/references/object-literal'
-title: 'Object Literal'
----
-
 # JavaScript Object Literal
 
 ## Objectives

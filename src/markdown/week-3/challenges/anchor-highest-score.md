@@ -1,8 +1,3 @@
----
-path: '/week-3/challenges/anchor-highest-score'
-title: 'Highest Score'
----
-
 # Logic Challenge: Highest Score
 
 ## Objectives
@@ -17,7 +12,7 @@ Hanya boleh menggunakan built-in function untuk menambahkan atau mengurangi data
 Implementasikan function highestScore untuk mendapatkan student dengan nilai tertinggi dari setiap class:
 
 Output yang diharapkan berupa Object Literal dengan format sebagai berikut:
-```javascript
+```
 {
   <class>: { name: <name>, score: <score> },
   <class>: { name: <name>, score: <score> },

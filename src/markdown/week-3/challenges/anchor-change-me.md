@@ -1,7 +1,3 @@
----
-path: '/week-3/challenges/anchor-change-me'
-title: 'Change Me'
----
 
 # Logic Challenge - Change Me!
 
@@ -37,7 +33,7 @@ function changeMe(arr) {
 }
 
 // TEST CASES
-changeMe([['Christ', 'Evans', 'Male', 1982], ['Robert', 'Downey', 'Male']]);
+changeMe([['Christ', 'Evans', 'Male', 1982], ['Robert', 'Downey', 'Male']]); 
 // 1. Christ Evans:
 // { firstName: 'Christ',
 //   lastName: 'Evans',

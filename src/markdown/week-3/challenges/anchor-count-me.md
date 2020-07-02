@@ -1,8 +1,3 @@
----
-path: '/week-3/challenges/anchor-count-me'
-title: 'Count Me'
----
-
 # Logic Challenge - Count Me!
 
 ## Objectives

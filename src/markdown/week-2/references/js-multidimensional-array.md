@@ -9,7 +9,7 @@ title: 'Multidimensional Array'
 
 Contoh array multidimensi antara lain diagram kartesius dan matriks. Diagram kartesius dan matriks adalah array multidimensi yang sama-sama membutuhkan koordinat untuk mengakses nilai didalamnya.
 
-```
+```cmd
 (y)
 4 |       *
 3 |     *

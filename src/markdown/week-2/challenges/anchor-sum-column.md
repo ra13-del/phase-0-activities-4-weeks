@@ -17,19 +17,19 @@ Program sumColumn adalah program yang dapat menjumlahkan angka per column pada a
 
 [EXAMPLE]
 
-input:
-[
-[5],
-[2, 5, 12, 8],
-[4, 56, 3]
+input:<br>
+[<br>
+&nbsp&nbsp[5],<br>
+&nbsp&nbsp[2, 5, 12, 8],<br>
+&nbsp&nbsp[4, 56, 3]<br>
 ]
 
 Cara menjumlahkannya, jumlahkan angka-angka tersebut dengan column yang sama maka yang di jumlahkan adalah:
 
-column 1 => 5 + 2 + 4 = 11
-column 2 => 5 + 56 = 61
-column 3 => 12 + 3 = 15
-column 4 => 8 = 8
+column 1 => 5 + 2 + 4 = 11<br>
+column 2 => 5 + 56 = 61<br>
+column 3 => 12 + 3 = 15<br>
+column 4 => 8 = 8<br>
 
 hasil masing-masing penjumlahan disetiap column di masukkan kedalam 1 array:
 

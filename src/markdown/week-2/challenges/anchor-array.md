@@ -14,6 +14,7 @@ title: 'Array'
 Hanya boleh menggunakan built-in function untuk menambahkan atau mengurangi data dalam array, seperti .shift(), unShift(), push(), dan pop()
 
 ## Directions
+Kerjakan 4 function dibawah ini dalam satu file. Untuk Antrian, Panggil Antrian dan Tumpukan buatlah function dengan mengikuti deskripsi yang diberikan.
 
 ### Antrian
 Diberikan sebuah function antrian yang menerima dua parameter yaitu `line` bertipe array dan `person` bertipe string. Function ini akan mengembalikan array yang dimana data array tersebut sudah bertambah diakhir array sesuai dengan parameter `person`.

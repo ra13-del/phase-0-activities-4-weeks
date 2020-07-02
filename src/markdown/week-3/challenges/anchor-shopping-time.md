@@ -32,14 +32,15 @@ Buatlah function yang akan mengembalikan sebuah object dimana object tersebut be
 - Jika uang yang dimiliki kurang dari 50000 maka tampilkan "Mohon maaf, uang tidak cukup"
 - Member yang berbelanja di toko X akan membeli barang yang paling mahal terlebih dahulu dan akan membeli barang-barang yang sedang SALE masing-masing 1 jika uang yang dimilikinya masih cukup.
 
-Contoh jika inputan memberId: '324193hDew2' dan money: 700000
+Contoh jika inputan memberId: '324193hDew2' dan money: 700000.
 
-maka output:
+Maka output:
 
-{ memberId: '324193hDew2',
-money: 700000,
-listPurchased: [ 'Baju Zoro', 'Sweater Uniklooh' ],
-changeMoney: 25000
+{<br>
+&nbsp&nbsp memberId: '324193hDew2',<br>
+&nbsp&nbsp money: 700000,<br>
+&nbsp&nbsp listPurchased: [ 'Baju Zoro', 'Sweater Uniklooh' ],<br>
+&nbsp&nbsp changeMoney: 25000<br>
 }
 
 ```JavaScript

@@ -13,7 +13,7 @@ title: 'Newton Second Law'
 ## Directions
 Bunyi hukum II Newton adalah:
 
-```
+```cmd
 Percepatan sebuah benda akan sebanding dengan gaya yang diberikan pada benda dan berbanding terbalik dengan massa benda. Arah percepatan benda sama dengan arah gaya total yang diberikan pada benda.
 
 ```

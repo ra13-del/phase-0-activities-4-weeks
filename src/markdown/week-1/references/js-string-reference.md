@@ -13,10 +13,10 @@ title: 'String pada Javascript'
 - Mengetahui Konversi Tipe Data Lain ke String dan Sebaliknya
 
 ## Learnings
- - [More About String](js-string-reference.md#more-about-string)
- - [String Properties](js-string-reference.md#string-properties)
- - [String Methods](js-string-reference.md#string-methods)
- - [Typecasting To and From String](js-string-reference.md#typecasting-to-and-from-string)
+ - [More About String](js-string-reference#more-about-string)
+ - [String Properties](js-string-reference#string-properties)
+ - [String Methods](js-string-reference#string-methods)
+ - [Typecasting To and From String](js-string-reference#typecasting-to-and-from-string)
 
 ## More About String
 

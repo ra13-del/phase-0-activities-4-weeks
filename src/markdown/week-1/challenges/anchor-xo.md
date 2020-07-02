@@ -28,7 +28,7 @@ maka output adalah true
 
 
 Contoh 2:
-var kata = oxooxox
+var kata = 'oxooxox'
 
 maka output adalah false
 ```

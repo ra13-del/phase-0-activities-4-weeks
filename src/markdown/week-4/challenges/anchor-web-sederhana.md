@@ -1,5 +1,5 @@
 ---
-path: '/week-1/challenges/anchor-web-sederhana'
+path: '/week-4/challenges/anchor-web-sederhana'
 title: 'Web Sederhana'
 ---
 
@@ -7,7 +7,7 @@ title: 'Web Sederhana'
 
 ## Objectives
 
-Setelah mempelajari dasar-dasar HTML dan CSS, kamu ditantang untuk membuat sebuah laman html dan css sendiri menggunakan *tags* yang telah kamu pelajari.
+Setelah mempelajari dasar-dasar HTML dan CSS, kamu ditantang untuk membuat sebuah laman html dan css sendiri menggunakan _tags_ yang telah kamu pelajari.
 
 ## Direction
 

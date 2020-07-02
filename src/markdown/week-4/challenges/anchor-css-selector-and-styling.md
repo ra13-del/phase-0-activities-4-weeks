@@ -1,5 +1,5 @@
 ---
-path: '/week-1/challenges/anchor-css-selector-and-styling'
+path: '/week-4/challenges/anchor-css-selector-and-styling'
 title: 'Menghias Laman HTML dengan CSS'
 ---
 
@@ -13,13 +13,13 @@ Dengan menggunakan CSS kamu dapat menghias halaman HTML. Pada latihan kali ini, 
 
 ### 1. Membuat File HTML
 
-Buatlah sebuah file HTML bernama *index.html* di sebuah folder bernama *project-css-styling*.
+Buatlah sebuah file HTML bernama _index.html_ di sebuah folder bernama _project-css-styling_.
 Gunakan kode yang sudah disiapkan berikut:
 
 ```html
 <html>
   <head>
-    <link href="https://fonts.googleapis.com/css?family=Slabo+27px" rel="stylesheet">
+    <link href="https://fonts.googleapis.com/css?family=Slabo+27px" rel="stylesheet" />
     <link href="style.css" rel="stylesheet" />
   </head>
   <body>
@@ -50,7 +50,7 @@ Gunakan kode yang sudah disiapkan berikut:
 
 ### 2. Membuat File CSS
 
-Buatlah sebuah file CSS bernama *style.css* pada folder yang sama dengan file *index.html* yang telah di hubungkan pada file html tersebut.
+Buatlah sebuah file CSS bernama _style.css_ pada folder yang sama dengan file _index.html_ yang telah di hubungkan pada file html tersebut.
 
 > `<link href="style.css" rel="stylesheet" type="text/css">`
 
@@ -63,7 +63,7 @@ body {
 }
 
 h1 {
-  border-bottom: 1px solid rgba(0, 0, 0, .1);
+  border-bottom: 1px solid rgba(0, 0, 0, 0.1);
   padding-bottom: 10px;
 }
 
@@ -96,33 +96,33 @@ h1 {
 }
 
 #maroon-box {
-  color: #FFFFFF;
-  background: #96281B;
+  color: #ffffff;
+  background: #96281b;
 }
 
 #dark-blue-box {
-  color: #FFFFFF;
-  background: #4B77BE;
+  color: #ffffff;
+  background: #4b77be;
 }
 
 #salem-box {
-  color: #FFFFFF;
-  background: #1E824C;
+  color: #ffffff;
+  background: #1e824c;
 }
 
 .red-background {
-  color: #FFFFFF;
-  background: #C0392B;
+  color: #ffffff;
+  background: #c0392b;
 }
 
 .blue-background {
-  color: #FFFFFF;
-  background: #446CB3;
+  color: #ffffff;
+  background: #446cb3;
 }
 
 .green-background {
-  color: #FFFFFF;
-  background: #26A65B;
+  color: #ffffff;
+  background: #26a65b;
 }
 
 .box-list div {
@@ -134,13 +134,13 @@ h1 {
   font-size: 15pt;
   text-align: center;
   background: #353535;
-  color: #FFFFFF;
+  color: #ffffff;
 }
 
 #gold-box {
   border-radius: 20px;
   color: #353535;
-  background: #F9BF3B;
+  background: #f9bf3b;
 }
 ```
 
@@ -154,6 +154,8 @@ CSS telah siap digunakan. Sekarang kamu harus menambahkan `class` atau `id` pada
 
 Upload tugas project dalam bentuk zip dari folder *project-css-styling*! **Perhatian** Hanya gunakan zip, jangan upload file isi nya satu per satu ataupun dengan rar, 7z, ataupun kompresi lainnya.
  -->
+
 > **Syntax Penting**
->  - class
->  - id
+>
+> - class
+> - id

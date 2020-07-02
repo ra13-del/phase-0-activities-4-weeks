@@ -12,10 +12,10 @@ Pekan ketiga ini kita akan melatih lebih kemampuan logika kamu. Dan dipekan ini 
   - Lecture:
     - Object Literals
   - Challenge(s):
-    - :anchor: [Change Me](/week-3/challenges/anchor-change-me.md)
-    - :anchor: [Count Me](/week-3/challenges/anchor-count-me.md)
+    - :anchor: [Change Me](/week-3/challenges/anchor-change-me)
+    - :anchor: [Count Me](/week-3/challenges/anchor-count-me)
   - Reference(s):
-    - :notebook_with_decorative_cover: [Object Literals](/week-3/references/object-literal.md)
+    - :notebook_with_decorative_cover: [Object Literals](/week-3/references/object-literal)
 - ### Session 2
   - Review Object
 
@@ -35,14 +35,14 @@ Pekan ketiga ini kita akan melatih lebih kemampuan logika kamu. Dan dipekan ini 
   - Lecture:
     - Array of Object
   - Challenge(s):
-    - :anchor: [Highest Score](/week-3/challenges/anchor-highest-score.md)
-    - :anchor: [Graduates](/week-3/challenges/anchor-graduates-object.md)
+    - :anchor: [Highest Score](/week-3/challenges/anchor-highest-score)
+    - :anchor: [Graduates](/week-3/challenges/anchor-graduates-object)
 - ### Session 2
   - Lecture:
     - Review Array of Object
   - Challenge(s):
-    - :anchor: [Shopping Time](/week-3/challenges/anchor-shopping-time.md)
-    - :anchor: [Toko X](/week-3/challenges/anchor-tokoX.md)
+    - :anchor: [Shopping Time](/week-3/challenges/anchor-shopping-time)
+    - :anchor: [Toko X](/week-3/challenges/anchor-tokoX)
 
 ## Friday
 - ### Session 1

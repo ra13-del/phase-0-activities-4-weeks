@@ -4,7 +4,7 @@ title: 'Hacktiv8 Phase 0 Week 4'
 ---
 
 Pekan terakhir di Phase 0 ini kita akan melatih lebih kemampuan logika kamu dengan
-mereview kembali materi yang sudah diberikan dengan mengerjakan latihan-latihan logic kembali.
+mereview kembali materi dan membuat halaman website menggunakan HTML, CSS dan Javascript.
 
 ![Let's start!](/assets/start.png)
 

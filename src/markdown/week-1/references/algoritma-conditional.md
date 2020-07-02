@@ -144,7 +144,7 @@ Saat komputer menjalankan program, seringkali komputer harus melakukan sebuah ti
 Contoh Pseudocode
 
 ```cmd
-IF "hungry" TH"EN
+IF "hungry" THEN
   DO "eat"
   DISPLAY "i am happy"
 END IF

@@ -1,5 +1,5 @@
 ---
-path: '/week-3/challenges/anchor-mengelopokkan-angka'
+path: '/week-2/challenges/anchor-mengelopokkan-angka'
 title: 'Mengelompokkan Angka'
 ---
 

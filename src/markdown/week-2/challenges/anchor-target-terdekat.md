@@ -1,5 +1,5 @@
 ---
-path: '/week-3/challenges/anchor-target-terdekat'
+path: '/week-2/challenges/anchor-target-terdekat'
 title: 'Target Terdekat'
 ---
 

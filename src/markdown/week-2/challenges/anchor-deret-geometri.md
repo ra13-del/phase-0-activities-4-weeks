@@ -1,5 +1,5 @@
 ---
-path: '/week-3/challenges/anchor-deret-geometri'
+path: '/week-2/challenges/anchor-deret-geometri'
 title: 'Deret Geometri'
 ---
 

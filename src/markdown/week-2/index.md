@@ -15,8 +15,7 @@ Selamat sudah melalui kegiatan pekan pertama! Pekan kedua ini kita akan melatih 
   - Review Live Code
 - Challenge(s):
   - :rocket: [Shape Of I](/week-2/challenges/rocket-shape-of-i)
-  - :rocket: [Interesting Ladder](/week-2/challenges/rocket-interesting-ladder)
-- ### [Click disini untuk mengumpulkan challenge W2D1](https://airtable.com/shrAXgynjoZ2No4Op)
+  - :rocket: [Interesting Ladder](/week-2/challenges/rocket-interesting-ladder
 
 ## Tuesday
 
@@ -40,8 +39,6 @@ Selamat sudah melalui kegiatan pekan pertama! Pekan kedua ini kita akan melatih 
   - Reference(s):
     - :notebook_with_decorative_cover: [Array](/week-2/references/js-array)
 
-- ### [Click disini untuk mengumpulkan challenge W2D2](https://airtable.com/shrzSL4X8vtcj4U0j)
-
 ## Wednesday
 
 - ### Session 1
@@ -61,8 +58,6 @@ Selamat sudah melalui kegiatan pekan pertama! Pekan kedua ini kita akan melatih 
   - Challenge(s):
     - :anchor: [Vocal Seeker](/week-2/challenges/anchor-seeker)
     - :anchor: [Sitting Arrangement](/week-2/challenges/anchor-sitting-arrangement)
-
-- ### [Click disini untuk mengumpulkan challenge](https://airtable.com/shriz6huNhn6sEc19)
 
 ## Thursday
 
@@ -85,8 +80,6 @@ Selamat sudah melalui kegiatan pekan pertama! Pekan kedua ini kita akan melatih 
   - Reference(s):
     - :notebook_with_decorative_cover: [Functions](https://www.codecademy.com/learn/introduction-to-javascript/modules/learn-javascript-functions)
 
-- ### [Click disini untuk mengumpulkan challenge W2D4](https://airtable.com/shrRQH2ewf8k7qbiH)
-
 ## Friday
 
 - ### Session 1 & 2
@@ -99,12 +92,8 @@ Selamat sudah melalui kegiatan pekan pertama! Pekan kedua ini kita akan melatih 
     - :anchor: [Melee Ranged](/week-2/challenges/anchor-melee-ranged)
     - :anchor: [Damage Calculation](/week-2/challenges/anchor-damage-calculation)
 
-- ### [Click disini untuk mengumpulkan challenge W2D5](https://airtable.com/shrWo30j0HUiyI9VT)
-
 ## Weekend (Homework)
 
 - :anchor: [Urutkan Abjad](/week-2/challenges/anchor-urutkan-abjad)
 - :anchor: [Tukar Ukuran](/week-2/challenges/anchor-tukar-ukuran)
-- :anchor: [Sum Column](/week-2/challenges/anchor-sum-column)
-
-  - ### [Click disini untuk mengumpulkan Homework](https://airtable.com/shrDvQK0e06kMj36L)
+- :anchor: [Sorting](/week-2/challenges/anchor-sorting)

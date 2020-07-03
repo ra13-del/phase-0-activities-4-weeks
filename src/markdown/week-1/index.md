@@ -54,8 +54,6 @@ Tugas dikumpulkan harian, dan setiap tugas akan dikoreksi setiap pagi di hari se
     - :notebook_with_decorative_cover: [Conditional and Primitive Data Type](/week-1/references/js-first-time)
     - :notebook_with_decorative_cover: [Understanding String in Javascript](/week-1/references/js-string-reference)
 
-- ### [Click disini untuk mengumpulkan challenge W1D2](https://airtable.com/shr7zDfI34a5pW6QY)
-
 ## Wednesday
 
 - ### Session 1
@@ -82,8 +80,6 @@ Tugas dikumpulkan harian, dan setiap tugas akan dikoreksi setiap pagi di hari se
     - :notebook_with_decorative_cover: [Algoritma & Pseudocode Iteration](/week-1/references/algoritma-loop)
     - :notebook_with_decorative_cover: [Iteration](/week-1/references/js-first-time)
 
-- ### [Click disini untuk mengumpulkan challenge W1D3](https://airtable.com/shryHhnM519GtVUYs)
-
 ## Thursday
 
 - ### Session 1
@@ -100,7 +96,6 @@ Tugas dikumpulkan harian, dan setiap tugas akan dikoreksi setiap pagi di hari se
     - :anchor: [Konversi Menit](/week-1/challenges/anchor-konversi-menit)
     - :anchor: [XO](/week-1/challenges/anchor-xo)
     - :rocket: [Triangle](/week-1/challenges/rocket-triangle)
-- ### [Click disini untuk mengumpulkan challenge W1D4](https://airtable.com/shrAXgynjoZ2No4Op)
 
 ## Friday
 
@@ -116,11 +111,7 @@ Tugas dikumpulkan harian, dan setiap tugas akan dikoreksi setiap pagi di hari se
   - Reference(s):
     - :notebook_with_decorative_cover: [ES6 - const, let, var, template literals](/week-1/references/es6)
 
-- ### [Click disini untuk mengumpulkan challenge W1D5](https://airtable.com/shrzSL4X8vtcj4U0j)
-
 ## Weekend (Homework)
 
 - :anchor:[Pasangan Angka Terbesar](/week-1/challenges/anchor-pasangan-angka-terbesar)
 - :anchor:[Ubah Huruf](/week-1/challenges/anchor-ubah-huruf)
-
-- ### [Click disini untuk mengumpulkan Homework](https://airtable.com/shrLOT7OVWNkM5thv)

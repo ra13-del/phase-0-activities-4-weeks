@@ -31,7 +31,6 @@ mereview kembali materi dan membuat halaman website menggunakan HTML, CSS dan Ja
   - Challenge(s):
     - :anchor: [Codecademy Course - HTML](https://www.codecademy.com/learn/learn-html)
     - :rocket: [Membuat Halaman HTML Sederhana](/week-4/challenges/rocket-laman-web-pertamaku)
-- ### [Click disini untuk mengumpulkan challenge W4D2](https://airtable.com/shrVWuwKPZys8TjR5)
 
 ## Wednesday
 
@@ -52,8 +51,6 @@ mereview kembali materi dan membuat halaman website menggunakan HTML, CSS dan Ja
 
     - :anchor: [Membuat Web Sederhana dengan HTML dan CSS](/week-4/challenges/anchor-web-sederhana)
     - :rocket: [Membuat Layout dan Desain Halaman Web dengan CSS](/week-4/challenges/rocket-css-layouting)
-
-  - ### [Click disini untuk mengumpulkan challenge W4D3](https://airtable.com/shrlcmgELh3w7h6bF)
 
 ## Thursday
 

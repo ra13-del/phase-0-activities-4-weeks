@@ -1,16 +1,18 @@
 ---
-path: '/week-2/challenges/anchor-bandingkan-angka'
+path: '/week-1/challenges/anchor-bandingkan-angka'
 title: 'Bandingkan Angka'
 ---
 
 # Logic Challenge - Bandingkan Angka
 
 ## Objectives
+
 - Mampu memecahkan masalah yang diberikan
 - Mengerti konsep `conditional` untuk membandingkan sebuah angka
 - Mampu menggunakan operator '<', '>', '==='
 
 ## Directions
+
 Diberikan dua letiabel angka bertipe number yaitu angka1 dan angka2.
 
 **RESTRICTION**

@@ -1,11 +1,12 @@
 ---
-path: '/week-2/challenges/anchor-data-type'
+path: '/week-1/challenges/anchor-data-type'
 title: 'Data Type'
 ---
 
 # Data Type Challenge
 
 ## Objectives
+
 - Mampu menggunakan template literals
 - Mampu menggunakan `typeof` untuk sebuah kasus masalah yang diberikan
 - Mampu dan mengerti penggunaan `conditional branch`
@@ -16,9 +17,11 @@ title: 'Data Type'
 Hanya boleh menggunakan built-in function typeof, isNaN(), dan built-in untuk menkonversi tipe data, seperti toString(), Number(), dll
 
 ## Directions
+
 Diberikan sebuah variabel `kata` bertipe string.
 
 Buatlah program yang mengecek kondisi tipe data dari kata yang diberikan.
+
 - Jika data merupakan sebuah string, maka tampilkan 'username ' + kata (gunakan template literals)
 - Jika data merupakan sebuah number, maka tampilkan 'age: ' + data (gunakan template literals)
 - Jika data merupakan sebuah boolean, cek nilainya:

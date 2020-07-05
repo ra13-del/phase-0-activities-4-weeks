@@ -6,6 +6,7 @@ title: 'Shopping Time'
 # Logic Challenge - Shopping Time!
 
 ## Objectives
+
 - Mampu menyelesaikan masalah yang diberikan
 - Mampu mengakases array multidimensi atau object literal
 - Mampu membuat array of object
@@ -18,11 +19,12 @@ Hanya boleh menggunakan built-in function untuk menambahkan atau mengurangi data
 Diberikan sebuah function shoppingTime(memberId, money) yang menerima dua parameter berupa string dan number. Parameter pertama merupakan memberId dan parameter ke-2 merupakan value uang yang dibawa oleh member tersebut.
 
 Toko X sedang melakukan SALE untuk beberapa barang, yaitu:
-  - Sepatu brand Stacattu seharga 1500000
-  - Baju brand Zoro seharga 500000
-  - Baju brand H&N seharga 250000
-  - Sweater brand Uniklooh seharga 175000
-  - Casing Handphone seharga 50000
+
+- Sepatu brand Stacattu seharga 1500000
+- Baju brand Zoro seharga 500000
+- Baju brand H&N seharga 250000
+- Sweater brand Uniklooh seharga 175000
+- Casing Handphone seharga 50000
 
 Buatlah function yang akan mengembalikan sebuah object dimana object tersebut berisikan informasi memberId, money, listPurchased dan changeMoney.
 
@@ -30,15 +32,15 @@ Buatlah function yang akan mengembalikan sebuah object dimana object tersebut be
 - Jika uang yang dimiliki kurang dari 50000 maka tampilkan "Mohon maaf, uang tidak cukup"
 - Member yang berbelanja di toko X akan membeli barang yang paling mahal terlebih dahulu dan akan membeli barang-barang yang sedang SALE masing-masing 1 jika uang yang dimilikinya masih cukup.
 
+Contoh jika inputan memberId: '324193hDew2' dan money: 700000.
 
-Contoh jika inputan memberId: '324193hDew2' dan money: 700000
+Maka output:
 
-maka output:
-
-{ memberId: '324193hDew2',
-  money: 700000,
-  listPurchased: [ 'Baju Zoro', 'Sweater Uniklooh' ],
-  changeMoney: 25000
+{<br>
+&nbsp&nbsp memberId: '324193hDew2',<br>
+&nbsp&nbsp money: 700000,<br>
+&nbsp&nbsp listPurchased: [ 'Baju Zoro', 'Sweater Uniklooh' ],<br>
+&nbsp&nbsp changeMoney: 25000<br>
 }
 
 ```JavaScript

@@ -6,6 +6,7 @@ title: 'Highest Score'
 # Logic Challenge: Highest Score
 
 ## Objectives
+
 - Mampu mengakses sebuah array of object
 - Mampu membuat object of object
 
@@ -17,6 +18,7 @@ Hanya boleh menggunakan built-in function untuk menambahkan atau mengurangi data
 Implementasikan function highestScore untuk mendapatkan student dengan nilai tertinggi dari setiap class:
 
 Output yang diharapkan berupa Object Literal dengan format sebagai berikut:
+
 ```javascript
 {
   <class>: { name: <name>, score: <score> },
@@ -24,7 +26,6 @@ Output yang diharapkan berupa Object Literal dengan format sebagai berikut:
   <class>: { name: <name>, score: <score> }
 }
 ```
-
 
 ```JavaScript
 function highestScore (students) {

@@ -1,18 +1,18 @@
 ---
-path: '/week-4/challenges/anchor-cari-modus'
+path: '/week-3/challenges/anchor-cari-modus'
 title: 'Cari Modus'
 ---
 
 # Logic Challenge - Cari Modus!
 
 ## Objectives
+
 - Mampu menyelesaikan masalah yang diberikan
 
 **RESTRICTION**
 Hanya boleh menggunakan built-in function untuk menambahkan atau mengurangi data dalam array, seperti .shift(), unShift(), push(), dan pop() dan built-in function untuk mengakses isi dalam object seperti for..in, for...of, Object.keys(), dll
 
 ## Directions
-
 
 Diberikan sebuah function cariModus yang menerima sebuah array kumpulan angka.
 

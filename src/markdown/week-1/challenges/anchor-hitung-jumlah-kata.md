@@ -1,5 +1,5 @@
 ---
-path: '/week-2/challenges/anchor-hitung-jumlah-kata'
+path: '/week-1/challenges/anchor-hitung-jumlah-kata'
 title: 'Menghitung Jumlah Angka'
 ---
 
@@ -11,9 +11,9 @@ title: 'Menghitung Jumlah Angka'
 Tidak boleh menggunakan built-in function apapun
 
 ## Directions
+
 Diberikan sebuah variabel `kalimat` bertipe string.
 Buatlah program yang menghitung jumlah kata yang terdapat didalam kalimat tersebut (**dilarang menggunakan built in function split**)
-
 
 ```JavaScript
 Contoh 1:

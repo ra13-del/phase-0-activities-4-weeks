@@ -14,7 +14,7 @@ title: 'Ubah Huruf'
 ## Directions
 Diberikan sebuah variabel `kata` bertipe string. Buatlah program yang dapat mengecek huruf yang terdapat pada kata tersebut dan hasil dari program tersebut adalah menghasilkan kata baru dimana huruf-huruf vokal yang terdapat pada `kata` akan diganti menjadi '$'
 
-Contoh:
+Contoh:<br>
 var kata = 'i love javascript'
 
 maka output yang dihasilkan adalah '$ l$v$ j$v$scr$pt'

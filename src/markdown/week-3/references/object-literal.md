@@ -20,9 +20,8 @@ Untuk membuat sebuah object literal bisa dengan cara menuliskan kurung kurawal (
 ```javascript
 var myObj = {
   myKey: 'myValue'
-};
+}
 ```
-
 
 Value dalam object literal selain string bisa juga dengan memasukkan value array bahkan value object literal lainnya.
 
@@ -30,29 +29,29 @@ Kita bisa coba dengan kode berikut:
 
 ```javascript
 var supermanObj = {
-  id: "1a2b3c",
-  name: "Superman",
+  id: '1a2b3c',
+  name: 'Superman',
   age: 200,
   favorites: [
-    "coding",
-    "reading",
+    'coding',
+    'reading',
     {
-      sports: ["parkour", "hill climbing"]
+      sports: ['parkour', 'hill climbing']
     }
   ],
   address: {
-    street: "Planet Krypton",
+    street: 'Planet Krypton',
     zipCode: 54213
   }
-};
+}
 
-console.log(supermanObj.name); // "Superman"
-console.log(supermanObj.age); // 200
-console.log(supermanObj.favorites[0]); // "coding"
-console.log(supermanObj.favorites[2].sports); // ["parkour", "hill climbing"]
-console.log(supermanObj.favorites[2].sports[0]); // "parkour"
-console.log(supermanObj.address); // {street: "Planet Krypton", zipCode: 54213}
-console.log(supermanObj.address.zipCode); //54213
+console.log(supermanObj.name) // "Superman"
+console.log(supermanObj.age) // 200
+console.log(supermanObj.favorites[0]) // "coding"
+console.log(supermanObj.favorites[2].sports) // ["parkour", "hill climbing"]
+console.log(supermanObj.favorites[2].sports[0]) // "parkour"
+console.log(supermanObj.address) // {street: "Planet Krypton", zipCode: 54213}
+console.log(supermanObj.address.zipCode) //54213
 ```
 
 Kamu dapat mencoba kode di atas [di sini](http://jsbin.com/diruxiq/edit?js,console)
@@ -121,8 +120,6 @@ contoh lain:
   "address":{}
 }
 ```
-
-
 
 ### References
 

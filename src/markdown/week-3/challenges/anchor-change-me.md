@@ -6,6 +6,7 @@ title: 'Change Me'
 # Logic Challenge - Change Me!
 
 ## Objectives
+
 - Mampu mengakases array multidimensi menggunakan nested loop
 - Mampu membuat object literal sesuai dengan data (key dan value) yang diinginkan
 
@@ -21,13 +22,14 @@ Fungsi ini akan menampilkan object literal yang memiliki property firstName, las
 Nilai age didapatkan dari tahun sekarang dikurang tahun lahir. Jika tahun lahir tidak diisi atau tahun lahir lebih besar dibandingkan tahun sekarang maka age akan berisi 'Invalid Birth Year'
 
 Contoh jika arr inputan adalah [['Platinum', 'Fox', 'female', 1995], ['John', 'Doe', 'male', 2000]] dan tahun sekarang = 2019, maka output:
+
 1. Platinum Fox:
-{ firstName: 'Platinum',
-  lastName: 'Fox',
-  gender: 'female',
-  age: 24 }
+   { firstName: 'Platinum',
+   lastName: 'Fox',
+   gender: 'female',
+   age: 24 }
 2. John Doe:
-{ firstName: 'John', lastName: 'Doe', gender: 'male', age: 19 }
+   { firstName: 'John', lastName: 'Doe', gender: 'male', age: 19 }
 
 ## Code
 

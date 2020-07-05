@@ -8,37 +8,7 @@ Selamat sudah melalui kegiatan pekan pertama! Pekan kedua ini kita akan melatih 
 ![Let's start!](/assets/start.png)
 
 ## Monday
-- ### Session 1
-  - Lecture:
-    - Nested Loop
-  - Challenge(s):
-    - :anchor: [Asterisks](/week-2/challenges/anchor-asterisk)
-    - :anchor: [Balik Kata](/week-2/challenges/anchor-balik-kata)
-- ### Session 2
-  - Lecture:
-    - Review Loop and Nested Loop (optional)
-  - Challenge(s):
-    - :anchor: [Bandingkan Angka](/week-2/challenges/anchor-bandingkan-angka)
-    - :anchor: [Konversi Menit](/week-2/challenges/anchor-konversi-menit)
-    - :anchor: [XO](/week-2/challenges/anchor-xo)
-    - :rocket: [Triangle](/week-2/challenges/rocket-triangle)
-- ### [Click disini untuk mengumpulkan challenge W2D1](https://airtable.com/shrAXgynjoZ2No4Op)
 
-## Tuesday
-- ### Session 1 & 2
-  - Lecture:
-    - ES6 (let, var, const, template literals)
-  - Challenge(s):
-    - :anchor: [Data Type Challenge](/week-2/challenges/anchor-data-type)
-    - :anchor: [Hitung Jumlah Kata](/week-2/challenges/anchor-hitung-jumlah-kata)
-    - :anchor: [Palindrome](/week-2/challenges/anchor-palindrome)
-    - :anchor: [Palindrome Angka](/week-2/challenges/anchor-palindrome-angka)
-  - Reference(s):
-    - :notebook_with_decorative_cover: [ES6 - const, let, var, template literals](/week-2/references/es6)
-
-- ### [Click disini untuk mengumpulkan challenge W2D2](https://airtable.com/shrzSL4X8vtcj4U0j)
-
-## Wednesday
 - ### Session 1
   - Live Code
 - ### Session 2
@@ -47,10 +17,10 @@ Selamat sudah melalui kegiatan pekan pertama! Pekan kedua ini kita akan melatih 
   - :rocket: [Shape Of I](/week-2/challenges/rocket-shape-of-i)
   - :rocket: [Interesting Ladder](/week-2/challenges/rocket-interesting-ladder)
 
-- ### [Click disini untuk mengumpulkan challenge Rocket](https://airtable.com/shriz6huNhn6sEc19)
+## Tuesday
 
-## Thursday
 - ### Session 1
+
   - Lecture:
     - Functions
   - Challenge(s):
@@ -60,6 +30,7 @@ Selamat sudah melalui kegiatan pekan pertama! Pekan kedua ini kita akan melatih 
     - :notebook_with_decorative_cover: [Function](/week-2/references/js-first-time-function)
 
 - ### Session 2
+
   - Lecture:
     - Array
   - Challenge(s):
@@ -68,10 +39,10 @@ Selamat sudah melalui kegiatan pekan pertama! Pekan kedua ini kita akan melatih 
   - Reference(s):
     - :notebook_with_decorative_cover: [Array](/week-2/references/js-array)
 
- - ### [Click disini untuk mengumpulkan challenge W2D4](https://airtable.com/shrRQH2ewf8k7qbiH)
+## Wednesday
 
-## Friday
 - ### Session 1
+
   - Lecture:
     - Nested Array / Multidimensional Array
   - Challenge(s):
@@ -81,17 +52,48 @@ Selamat sudah melalui kegiatan pekan pertama! Pekan kedua ini kita akan melatih 
     - :notebook_with_decorative_cover: [Multidimensional Array](/week-2/references/js-multidimensional-array)
 
 - ### Session 2
+
   - Lecture:
-    - Review Array (optional)
+    - Review Array
   - Challenge(s):
     - :anchor: [Vocal Seeker](/week-2/challenges/anchor-seeker)
     - :anchor: [Sitting Arrangement](/week-2/challenges/anchor-sitting-arrangement)
 
- - ### [Click disini untuk mengumpulkan challenge W2D5](https://airtable.com/shrWo30j0HUiyI9VT)
+## Thursday
+
+- ### Session 1
+
+  - Lecture:
+    - Review Array dan Array Multidimensi
+  - Challenge(s):
+    - :anchor: [Deret Geometri](/week-2/challenges/anchor-deret-geometri)
+    - :anchor: [Target Terdekat](/week-2/challenges/anchor-target-terdekat)
+    - :anchor: [Mengelompokkan Angka](/week-2/challenges/anchor-mengelopokkan-angka)
+
+- ### Session 2
+
+  - Lecture:
+    - Modular Function
+  - Challenge(s):
+    - :anchor: [Tabel Perkalian](/week-2/challenges/anchor-tabel-perkalian)
+    - :anchor: [Password Generator](/week-2/challenges/anchor-password-generator)
+  - Reference(s):
+    - :notebook_with_decorative_cover: [Functions](https://www.codecademy.com/learn/introduction-to-javascript/modules/learn-javascript-functions)
+
+## Friday
+
+- ### Session 1 & 2
+
+  - Lecture:
+    - Review all material (option depend on request)
+  - Challenge(s):
+    - :anchor: [Deep Sum](/week-2/challenges/anchor-deep-sum)
+    - :anchor: [Most Frequent Largest Numbers](/week-2/challenges/anchor-most-frequent-largest-numbers)
+    - :anchor: [Melee Ranged](/week-2/challenges/anchor-melee-ranged)
+    - :anchor: [Damage Calculation](/week-2/challenges/anchor-damage-calculation)
 
 ## Weekend (Homework)
+
 - :anchor: [Urutkan Abjad](/week-2/challenges/anchor-urutkan-abjad)
 - :anchor: [Tukar Ukuran](/week-2/challenges/anchor-tukar-ukuran)
-- :anchor: [Sorting!](/week-2/challenges/anchor-sorting)
-
-  - ### [Click disini untuk mengumpulkan Homework](https://airtable.com/shrDvQK0e06kMj36L)
+- :anchor: [Sorting](/week-2/challenges/anchor-sorting)

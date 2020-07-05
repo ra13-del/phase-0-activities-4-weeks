@@ -1,15 +1,16 @@
 ---
-path: '/week-4/challenges/anchor-cari-median'
+path: '/week-3/challenges/anchor-cari-median'
 title: 'Cari Median'
 ---
 
 # Logic Challenge - Cari Median!
 
 ## Objectives
+
 - Mampu menyelesaikan masalah yang diberikan
 
 **RESTRICTION**
-Hanya boleh menggunakan built-in function untuk menambahkan atau mengurangi data dalam array, seperti .shift(), unShift(), push(), dan pop() dan built-in function untuk mengakses isi dalam object seperti for..in, for...of, Object.keys(), dll
+Hanya boleh menggunakan built-in function untuk menambahkan atau mengurangi data dalam array, seperti .shift(), unShift(), push(), .sort() dan pop() dan built-in function untuk mengakses isi dalam object seperti for..in, for...of, Object.keys(), dll
 
 ## Directions
 
@@ -29,9 +30,9 @@ function cariMedian(arr) {
 }
 
 // TEST CASES
-console.log(cariMedian([1, 2, 3, 4, 5])); // 3
-console.log(cariMedian([1, 3, 4, 10, 12, 13])); // 7
-console.log(cariMedian([3, 4, 7, 6, 10])); // 7
+console.log(cariMedian([5, 4, 3, 2, 1])); // 3
+console.log(cariMedian([13, 4, 3, 10, 12, 1])); // 7
+console.log(cariMedian([4, 3, 7, 6, 10])); // 6
 console.log(cariMedian([1, 3, 3])); // 3
-console.log(cariMedian([7, 7, 8, 8])); // 7.5
+console.log(cariMedian([8, 7, 8, 7])); // 7.5
 ```

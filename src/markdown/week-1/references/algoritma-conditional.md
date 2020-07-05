@@ -62,7 +62,7 @@ Atau agar lebih rapi, kita gunakan pseudocode. Psedudocode adalah konvensi terst
 
 **Bahasa Inggris**
 
-```
+```cmd
 READ and SAVE "first number"
 READ and SAVE "second number"
 COMPUTE "first number" added by "second number"
@@ -74,7 +74,7 @@ Bahasa inggris diatas nantinya akan diubah menjadi bahasa pemrograman yang kita 
 
 **JavaScript**
 
-```
+```javascript
 var a,b,c;
 a = prompt("First Number?");
 b = prompt("Second Number?");
@@ -87,7 +87,7 @@ Dengan begini, kita bisa menjelaskan proses atau alur logika tanpa bahasa pemrog
 
 **Python**
 
-```
+```python
 a = input("First Number? ")
 b = input("Second Number? ")
 c = int(a) + int(b)
@@ -96,7 +96,7 @@ print("Result", c)
 
 **Ruby**
 
-```
+```ruby
 puts "First Number?"
 a = gets.chomp
 puts "Second Number?"
@@ -117,7 +117,7 @@ Kita sebagai manusia dengan natural dapat langsung mengkalkulasi nilai panjang d
 
 Contoh Pseudocode
 
-```
+```cmd
 STORE "width" with any value
 STORE "height" with any value
 STORE "area" without any value
@@ -143,10 +143,11 @@ Saat komputer menjalankan program, seringkali komputer harus melakukan sebuah ti
 
 Contoh Pseudocode
 
-```
-IF "hungry"
+```cmd
+IF "hungry" THEN
   DO "eat"
-DISPLAY "i am happy"
+  DISPLAY "i am happy"
+END IF
 ```
 
 Jika kita lihat pseudocode diatas, bisa dijabarkan sebagai step berikut
@@ -161,14 +162,15 @@ Tidak hanya sampai disana, kondisional bisa juga melakukan proses yang hanya dij
 
 Contoh Pseudocode
 
-```
+```cmd
 STORE "score" to any number
 
-IF "score" < 70
+IF "score" < 70 THEN
   DO "learn more"
 ELSE
   DO "reward myself"
-DO "continue with life..."
+  DO "continue with life..."
+END IF
 ```
 
 Nah disini terjadi yang biasa dinamakan percabangan. Jika score dibawah 70, maka kita akan "learn more", dan jika tidak, maka kita harus "reward myself".

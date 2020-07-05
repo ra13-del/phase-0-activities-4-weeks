@@ -1,5 +1,5 @@
 ---
-path: '/week-2/challenges/anchor-balik-kata'
+path: '/week-1/challenges/anchor-balik-kata'
 title: 'Balik Kata'
 ---
 
@@ -7,11 +7,11 @@ title: 'Balik Kata'
 
 ## Objectives
 
--  Mengerti logika looping
+- Mengerti logika looping
 - Dapat mengakses indeks dari sebuah String dari indeks awal sampai akhir ataupun sebaliknya
 
-
 ## Directions
+
 Diberikan sebuah variabel `kata` bertipe String. Buatlah program yang dapat membalikkan `kata` tersebut tanpa menggunakan built in function apapun dari javascript. Kerjakan dengan menggunakan looping!
 
 **RESTRICTION**

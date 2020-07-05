@@ -1,11 +1,12 @@
 ---
-path: '/week-2/challenges/rocket-triangle'
+path: '/week-1/challenges/rocket-triangle'
 title: 'Triangle'
 ---
 
 # Logic Challenge - Triangle
 
 ## Objectives
+
 - Mampu memecahkan sebuah masalah dengan `nested loop`
 - Mengerti logika `nested loop`
 - Dapat melihat pola dari posisi baris dan kolom Asterisk
@@ -14,10 +15,10 @@ title: 'Triangle'
 Tidak boleh menggunakan built-in function apapun
 
 ## Directions
+
 Diberikan sebuah variabel num bertipe number.
 
 Buatlah program yang menghasilkan gambar segitiga dengan pola sebagai berikut
-
 
 ```javascript
 Contoh 1:

@@ -1,11 +1,12 @@
 ---
-path: '/week-2/challenges/anchor-palindrome-angka'
+path: '/week-1/challenges/anchor-palindrome-angka'
 title: 'Palingdrome Angka'
 ---
 
 # Logic Challenge - Palindrome Angka
 
 ## Objectives
+
 - Mampu memecahkan masalah yang diberikan
 - Mampu menggabungkan konsep `looping/iteration` dan `conditional` didalam sebuah masalah
 - Mampu mengubah/convert tipe data string ke number ataupun sebaliknya
@@ -26,13 +27,13 @@ Contoh jika `angka` bernilai 27 maka outputnya adalah 33 karena angka 33 merupak
 **penjelasan:**
 
 setelah angka 27, adalah:
- - **28** bukan angka palindrome. karena belum mendapatkan angka palindrome maka ditambahkan lagi
- - **29** bukan angka palindrome. karena belum mendapatkan angka palindrome maka ditambahkan lagi
- - **30** bukan angka palindrome. karena belum mendapatkan angka palindrome maka ditambahkan lagi
- - **31** bukan angka palindrome. karena belum mendapatkan angka palindrome maka ditambahkan lagi
- - **32** bukan angka palindrome. karena belum mendapatkan angka palindrome maka ditambahkan lagi
- - **33** angka palindrome. Karena angka palindrome telah ditemukan maka loop harus berhenti dan menampilkan angka 33
 
+- **28** bukan angka palindrome. karena belum mendapatkan angka palindrome maka ditambahkan lagi
+- **29** bukan angka palindrome. karena belum mendapatkan angka palindrome maka ditambahkan lagi
+- **30** bukan angka palindrome. karena belum mendapatkan angka palindrome maka ditambahkan lagi
+- **31** bukan angka palindrome. karena belum mendapatkan angka palindrome maka ditambahkan lagi
+- **32** bukan angka palindrome. karena belum mendapatkan angka palindrome maka ditambahkan lagi
+- **33** angka palindrome. Karena angka palindrome telah ditemukan maka loop harus berhenti dan menampilkan angka 33
 
 ```JavaScript
 Contoh 1:

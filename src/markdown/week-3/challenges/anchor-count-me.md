@@ -6,6 +6,7 @@ title: 'Count Me'
 # Logic Challenge - Count Me!
 
 ## Objectives
+
 - Mengerti logika flow `key` sebuah object literals
 
 **RESTRICTION**
@@ -14,7 +15,6 @@ Hanya boleh menggunakan built-in function untuk menambahkan atau mengurangi data
 ## Directions
 
 Diberikan sebuah function countMe yang menerima satu parameter berupa array.
-
 
 Fungsi ini akan mereturn sebuah object dimana key-key dari object tersebut adalah value dari data array. Valuenya adalah total kemunculan data value didalam array
 

@@ -1,11 +1,12 @@
 ---
-path: '/week-2/challenges/anchor-konversi-menit'
+path: '/week-1/challenges/anchor-konversi-menit'
 title: 'Konversi Menit'
 ---
 
 # Logic Challenge - Konversi Menit
 
 ## Objectives
+
 - Mampu memecahkan masalah yang diberikan
 - Mengerti konsep `conditional` untuk membandingkan sebuah angka
 - Mampu menggunakan operator '%', '<', '>' ataupun '==='
@@ -14,6 +15,7 @@ title: 'Konversi Menit'
 Tidak boleh menggunakan built-in function selain Math, seperti Math.random(), Math.floor(), dll dan built-in function untuk mengkonversi tipe data, seperti toSting(), Number(), dll
 
 ## Problem
+
 Diberikan sebuah letiable `detik` yang bertipe number.
 
 Buatlah program yang akan menghasilkan String waktu dalam format menit:detik

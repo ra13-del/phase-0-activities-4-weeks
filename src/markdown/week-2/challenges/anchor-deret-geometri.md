@@ -1,5 +1,5 @@
 ---
-path: '/week-3/challenges/anchor-deret-geometri'
+path: '/week-2/challenges/anchor-deret-geometri'
 title: 'Deret Geometri'
 ---
 
@@ -23,11 +23,11 @@ Deret geometri adalah sebuah deret dimana perbedaan setiap angka di deret terseb
 
 ### Contoh 1:
 
-[1, 3, 9, 27, 81] adalah deret aritmatika dengan pertambahan nilai sebesar pengalian 3
+[1, 3, 9, 27, 81] adalah deret geometri dengan pertambahan nilai sebesar pengalian 3
 
 ### Contoh 2:
 
-[1, 3, 9, 27, 48] bukanlah deret aritmatika karena tidak perbedaan selisih antar angka yang tidak konsisten secara perkalian (27 * 3 bukanlah 48!).
+[1, 3, 9, 27, 48] bukanlah deret geometri karena tidak perbedaan selisih antar angka yang tidak konsisten secara perkalian (27 * 3 bukanlah 48!).
 
 ```JavaScript
 function tentukanDeretGeometri(arr) {

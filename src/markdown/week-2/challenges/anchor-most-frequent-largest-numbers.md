@@ -16,7 +16,12 @@ Hanya boleh menggunakan built-in function untuk menambahkan atau mengurangi data
 
 Implementasikan function `sorting` dan `getTotal` untuk mendapatkan angka yang paling besar dan mengetahui berapa kali angka tersebut muncul di dalam `arrNumber`.
 
-Dengan HANYA mengubah code di dalam 2 function yang diberikan (`sorting` dan `getTotal`). Dilarang mengubah isi dalam function `mostFrequentLargestNumbers`!
+Dilarang mengubah mengubah 2 lines di dalam function `mostFrequentLargestNumbers` yaitu lines:
+
+```
+var listSort = sorting(arrNumber)
+var countHighest = getTotal(listSort)
+```
 
 ```JavaScript
 function sorting(arrNumber) {

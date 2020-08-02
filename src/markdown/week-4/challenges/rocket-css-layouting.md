@@ -106,7 +106,7 @@ Sesuaikan kode html yang telah terhubung dengan css di atas, buatlah halaman HTM
 
 ### 5. Pengumpulan
 
-Upload tugas project dalam bentuk zip dari folder _project-css-styling_! **Perhatian** Hanya gunakan zip, jangan upload file isi nya satu per satu ataupun dengan rar, 7z, ataupun kompresi lainnya.
+Upload challenge ini dalam repository organization dengan membuat branch dan pull request 
 
 > **Syntax Penting**
 >

@@ -26,7 +26,6 @@ var countHighest = getTotal(listSort)
 ```JavaScript
 function sorting(arrNumber) {
   // code di sini
-  // kamu bisa mengggunakan function sorting yang sudah kamu buat saat weekend
 }
 
 function getTotal(arrNumber) {

@@ -30,7 +30,6 @@ Tugas dikumpulkan harian, dan setiap tugas akan dikoreksi setiap pagi di hari se
   - Lecture:
     - Basic Command Line Unix, Git & Github
   - Challenge(s):
-    - :anchor: [Codeacademy - Learn the command line](https://www.codecademy.com/learn/learn-the-command-line)
     - :anchor: [First Challenge Git](/week-1/challenges/anchor-first-challenge-git)
 
 ## Tuesday

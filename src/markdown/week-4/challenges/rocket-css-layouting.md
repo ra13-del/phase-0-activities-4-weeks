@@ -106,7 +106,7 @@ Sesuaikan kode html yang telah terhubung dengan css di atas, buatlah halaman HTM
 
 ### 5. Pengumpulan
 
-Upload rocket challenge ini dalam repository organization dengan membuat branch dan pull request 
+Upload challenge ini dalam repository organization dengan membuat branch dan pull request 
 
 > **Syntax Penting**
 >

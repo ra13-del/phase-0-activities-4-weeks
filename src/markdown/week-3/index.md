@@ -46,7 +46,7 @@ Pekan ketiga ini kita akan melatih lebih kemampuan logika kamu. Dan dipekan ini 
     - Review Array of Object
   - Challenge(s):
     - :anchor: [Shopping Time](/week-3/challenges/anchor-shopping-time)
-    - :anchor: [Toko X](/week-3/challenges/anchor-tokoX)
+    - :anchor: [Cari Median](/week-3/challenges/anchor-cari-median)
 
 ## Friday
 
@@ -54,8 +54,8 @@ Pekan ketiga ini kita akan melatih lebih kemampuan logika kamu. Dan dipekan ini 
   - Lecture:
     - Review All Materi
   - Challenge(s):
+    - :anchor: [Toko X](/week-3/challenges/anchor-tokoX)
     - :anchor: [Angka Prima](/week-3/challenges/anchor-angka-prima)
-    - :anchor: [Cari Median](/week-3/challenges/anchor-cari-median)
     - :anchor: [Cari Modus](/week-3/challenges/anchor-cari-modus)
     - :rocket: [Mengelompokkan Hewan](/week-3/challenges/rocket-mengelompokkan-hewan)
 - ### Session 2

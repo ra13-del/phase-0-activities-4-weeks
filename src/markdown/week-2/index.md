@@ -76,7 +76,7 @@ Selamat sudah melalui kegiatan pekan pertama! Pekan kedua ini kita akan melatih 
     - Modular Function
   - Challenge(s):
     - :anchor: [Tabel Perkalian](/week-2/challenges/anchor-tabel-perkalian)
-    - :anchor: [Password Generator](/week-2/challenges/anchor-password-generator)
+    - :anchor: [Damage Calculation](/week-2/challenges/anchor-damage-calculation)
   - Reference(s):
     - :notebook_with_decorative_cover: [Functions](https://www.codecademy.com/learn/introduction-to-javascript/modules/learn-javascript-functions)
 
@@ -87,10 +87,10 @@ Selamat sudah melalui kegiatan pekan pertama! Pekan kedua ini kita akan melatih 
   - Lecture:
     - Review all material (option depend on request)
   - Challenge(s):
+    - :anchor: [Password Generator](/week-2/challenges/anchor-password-generator)
     - :anchor: [Deep Sum](/week-2/challenges/anchor-deep-sum)
     - :anchor: [Most Frequent Largest Numbers](/week-2/challenges/anchor-most-frequent-largest-numbers)
     - :anchor: [Melee Ranged](/week-2/challenges/anchor-melee-ranged)
-    - :anchor: [Damage Calculation](/week-2/challenges/anchor-damage-calculation)
 
 ## Weekend (Homework)
 

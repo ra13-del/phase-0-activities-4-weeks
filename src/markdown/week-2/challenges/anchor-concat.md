@@ -1,3 +1,8 @@
+---
+path: '/week-2/challenges/anchor-concat'
+title: 'Concat'
+---
+
 # Concat
 
 ## Objectives

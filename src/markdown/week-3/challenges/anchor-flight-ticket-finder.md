@@ -1,3 +1,7 @@
+---
+path: '/week-3/challenges/anchor-flight-ticket-finder'
+title: 'Flight Ticket Finder'
+---
 
 ### Flight Ticket Finder
 

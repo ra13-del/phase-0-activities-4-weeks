@@ -1,3 +1,8 @@
+---
+path: '/week-2/challenges/anchor-serial-validator'
+title: 'Serial Validator'
+---
+
 # Serial Validator
 
 ## Objectives

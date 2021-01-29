@@ -1,3 +1,8 @@
+---
+path: '/week-3/challenges/anchor-todo-list'
+title: 'Todo List'
+---
+
 # TODO LIST
 
 ### NOTES

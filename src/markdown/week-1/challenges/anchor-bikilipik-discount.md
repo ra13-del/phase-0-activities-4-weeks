@@ -1,3 +1,8 @@
+---
+path: '/week-1/challenges/anchor-bikilipik-discount'
+title: 'Bikilipik Discount'
+---
+
 # Bikilipik diskon
 
 ## Objectives

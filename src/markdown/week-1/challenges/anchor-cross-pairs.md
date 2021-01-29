@@ -1,3 +1,8 @@
+---
+path: '/week-1/challenges/anchor-cross-pairs'
+title: 'Cross Pairs'
+---
+
 # Cross Pairs
 
 ### NOTES

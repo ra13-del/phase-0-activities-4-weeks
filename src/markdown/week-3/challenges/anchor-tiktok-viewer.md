@@ -1,3 +1,8 @@
+---
+path: '/week-3/challenges/anchor-tiktok-viewer'
+title: 'Ticket Viewer'
+---
+
 # Tik Tok Viewer
 
 ### NOTES

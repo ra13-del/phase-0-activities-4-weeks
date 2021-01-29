@@ -1,3 +1,8 @@
+---
+path: '/week-2/challenges/anchor-game-checker'
+title: 'Game Checker'
+---
+
 # Logic Challenge - Game Checker
 
 ## Objectives

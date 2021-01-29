@@ -13,9 +13,9 @@ Selamat sudah melalui kegiatan pekan pertama! Pekan kedua ini kita akan melatih 
   - Live Code
 - ### Session 2
   - Review Live Code
-- Challenge(s):
+<!-- - Challenge(s):
   - :rocket: [Shape Of I](/week-2/challenges/rocket-shape-of-i)
-  - :rocket: [Interesting Ladder](/week-2/challenges/rocket-interesting-ladder)
+  - :rocket: [Interesting Ladder](/week-2/challenges/rocket-interesting-ladder) -->
 
 ## Tuesday
 
@@ -46,7 +46,7 @@ Selamat sudah melalui kegiatan pekan pertama! Pekan kedua ini kita akan melatih 
   - Lecture:
     - Nested Array / Multidimensional Array
   - Challenge(s):
-    - :anchor: [Slice](/week-2/challenges/anchor-slice)
+    - :anchor: [Concat](/week-2/challenges/anchor-concat)
     - :anchor: [Interesting Ladder - Array Multidimensi](/week-2/challenges/anchor-ladder-array)
   - Reference(s):
     - :notebook_with_decorative_cover: [Multidimensional Array](/week-2/references/js-multidimensional-array)
@@ -75,7 +75,7 @@ Selamat sudah melalui kegiatan pekan pertama! Pekan kedua ini kita akan melatih 
   - Lecture:
     - Modular Function
   - Challenge(s):
-    - :anchor: [Tabel Perkalian](/week-2/challenges/anchor-tabel-perkalian)
+    - :anchor: [Game Checker](/week-2/challenges/anchor-game-checker)
     - :anchor: [Damage Calculation](/week-2/challenges/anchor-damage-calculation)
   - Reference(s):
     - :notebook_with_decorative_cover: [Functions](https://www.codecademy.com/learn/introduction-to-javascript/modules/learn-javascript-functions)
@@ -87,7 +87,7 @@ Selamat sudah melalui kegiatan pekan pertama! Pekan kedua ini kita akan melatih 
   - Lecture:
     - Review all material (option depend on request)
   - Challenge(s):
-    - :anchor: [Password Generator](/week-2/challenges/anchor-password-generator)
+    - :anchor: [Serial Validator](/week-2/challenges/anchor-serial-validator)
     - :anchor: [Deep Sum](/week-2/challenges/anchor-deep-sum)
     - :anchor: [Most Frequent Largest Numbers](/week-2/challenges/anchor-most-frequent-largest-numbers)
     - :anchor: [Melee Ranged](/week-2/challenges/anchor-melee-ranged)

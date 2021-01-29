@@ -11,31 +11,13 @@ mereview kembali materi dan membuat halaman website menggunakan HTML, CSS dan Ja
 ## Monday
 
 - ### Session 1
-
-  - Lecture:
-    - Live code simulation
-
-- ### Session 2
-  - Lecture:
-    - Review after live code simulation
-
-## Tuesday
-
-- ### Session 1
-
-  - Live Code
-
-- ### Session 2
   - Lecture:
     - HTML
   - Challenge(s):
     - :anchor: [Codecademy Course - HTML](https://www.codecademy.com/learn/learn-html)
-    - :rocket: [Membuat Halaman HTML Sederhana](/week-4/challenges/rocket-laman-web-pertamaku)
+    <!-- - :rocket: [Membuat Halaman HTML Sederhana](/week-4/challenges/rocket-laman-web-pertamaku) -->
 
-## Wednesday
-
-- ### Session 1
-
+- ### Session 2
   - Lecture:
     - CSS
   - Challenge:
@@ -43,32 +25,43 @@ mereview kembali materi dan membuat halaman website menggunakan HTML, CSS dan Ja
     - :anchor: [Codecademy Course - CSS (hanya sampai Unit 5 - Typography)](https://www.codecademy.com/learn/learn-css)
     - :anchor: [Menghias HTML dengan CSS](/week-4/challenges/anchor-css-selector-and-styling)
 
-- ### Session 2
+## Tuesday
 
+- ### Session 1
   - Lecture:
-    - Review HTML and CSS
+    - DOM
+
+- ### Session 2
+  - Lecture:
+    - GIT Branch
+
+## Wednesday
+
+- ### Session 1
+  - Lecture:
+    - Review HTML + CSS + DOM
   - Challenge:
 
     - :anchor: [Membuat Web Sederhana dengan HTML dan CSS](/week-4/challenges/anchor-web-sederhana)
     - :rocket: [Membuat Layout dan Desain Halaman Web dengan CSS](/week-4/challenges/rocket-css-layouting)
+- ### Session 2
+  - Lecture:
+    - Live code simulation
 
 ## Thursday
 
 - ### Session 1
-
-  - Lecture:
-
-    - DOM
+  - Live Code
 
 - ### Session 2
-
   - Lecture:
-    - GIT Branch
+    - HTML
+  - Challenge(s):
+    - :anchor: [Codecademy Course - HTML](https://www.codecademy.com/learn/learn-html)
+    <!-- - :rocket: [Membuat Halaman HTML Sederhana](/week-4/challenges/rocket-laman-web-pertamaku) -->
 
 ## Friday
 
 - ### Session 1
   - Lecture:
     - Review
-- ### Session 2
-  - Final Project

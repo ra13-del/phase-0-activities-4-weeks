@@ -15,7 +15,7 @@ Panduan:
 - :notebook_with_decorative_cover: **Reference** adalah bacaan sebagai referensi pembelajaran kamu. Di dalam beberapa bacaan, ada direction yang memintamu membuat sesuatu. Direction itu lebih bersifat opsional untuk membantu kamu saja.
 - :anchor: **Anchor** adalah tugas atau tantangan yang wajib kamu kerjakan dan kumpulkan.
 - 💪 **Self Training** adalah tugas atau tantangan opsional yang walaupun tidak dikumpulkan, bila kamu selesaikan dengan baik, pembelajarannya maksimal! 😎
-- :rocket: **Rocket** adalah tantangan opsional yang menguji kehebatanmu sebagai calon developer masa depan
+<!-- - :rocket: **Rocket** adalah tantangan opsional yang menguji kehebatanmu sebagai calon developer masa depan -->
 - :books: **Optional Reference** adalah bacaan sebagai referensi tambahan yang akan memperkaya pengetahuanmu
 
 **Pengumpulan Tugas dan Sistem Feedback**
@@ -64,7 +64,7 @@ Tugas dikumpulkan harian, dan setiap tugas akan dikoreksi setiap pagi di hari se
     - Adv Conditional
   - Challenge(s):
     - :anchor: [Play with String](/week-1/challenges/anchor-play-with-string)
-    - :anchor: [Cafe Visitation](/week-1/challenges/anchor-cafe-visitation)
+    - :anchor: [Bikilipik Discount](/week-1/challenges/anchor-bikilipik-discount)
     - :anchor: [Gatcha](/week-1/challenges/anchor-gatcha)
   - Reference(s):
     - :notebook_with_decorative_cover: [Conditional Switch Case](/week-1/references/js-first-time-switch-case)
@@ -97,7 +97,7 @@ Tugas dikumpulkan harian, dan setiap tugas akan dikoreksi setiap pagi di hari se
     - :anchor: [Bandingkan Angka](/week-1/challenges/anchor-bandingkan-angka)
     - :anchor: [Konversi Menit](/week-1/challenges/anchor-konversi-menit)
     - :anchor: [XO](/week-1/challenges/anchor-xo)
-    - :rocket: [Triangle](/week-1/challenges/rocket-triangle)
+    <!-- - :rocket: [Triangle](/week-1/challenges/rocket-triangle) -->
 
 ## Friday
 
@@ -115,5 +115,5 @@ Tugas dikumpulkan harian, dan setiap tugas akan dikoreksi setiap pagi di hari se
 
 ## Weekend (Homework)
 
-- :anchor:[Pasangan Angka Terbesar](/week-1/challenges/anchor-pasangan-angka-terbesar)
+- :anchor:[Cross Pairs](/week-1/challenges/anchor-cross-pairs)
 - :anchor:[Ubah Huruf](/week-1/challenges/anchor-ubah-huruf)

@@ -39,13 +39,13 @@ Pekan ketiga ini kita akan melatih lebih kemampuan logika kamu. Dan dipekan ini 
   - Lecture:
     - Array of Object
   - Challenge(s):
-    - :anchor: [Highest Score](/week-3/challenges/anchor-highest-score)
+    - :anchor: [TikTok Viewer](/week-3/challenges/anchor-tiktok-viewer)
     - :anchor: [Graduates](/week-3/challenges/anchor-graduates-object)
 - ### Session 2
   - Lecture:
     - Review Array of Object
   - Challenge(s):
-    - :anchor: [Shopping Time](/week-3/challenges/anchor-shopping-time)
+    - :anchor: [Flight Ticket Finder](/week-3/challenges/anchor-flight-ticket-finder)
     - :anchor: [Cari Median](/week-3/challenges/anchor-cari-median)
 
 ## Friday
@@ -54,7 +54,7 @@ Pekan ketiga ini kita akan melatih lebih kemampuan logika kamu. Dan dipekan ini 
   - Lecture:
     - Review All Materi
   - Challenge(s):
-    - :anchor: [Toko X](/week-3/challenges/anchor-tokoX)
+    - :anchor: [Todo List](/week-3/challenges/anchor-todo-list)
     - :anchor: [Angka Prima](/week-3/challenges/anchor-angka-prima)
     - :anchor: [Cari Modus](/week-3/challenges/anchor-cari-modus)
     - :rocket: [Mengelompokkan Hewan](/week-3/challenges/rocket-mengelompokkan-hewan)

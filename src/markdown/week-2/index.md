@@ -24,73 +24,73 @@ Selamat sudah melalui kegiatan pekan pertama! Pekan kedua ini kita akan melatih 
   - Lecture:
     - Functions
   - Challenge(s):
-    - :anchor: [Codecademy JavaScript - Functions (Only 1 - 6)](https://www.codecademy.com/courses/introduction-to-javascript/lessons/functions/exercises/intro-to-functions?action=resume_content_item)
-    - :anchor: [Shout Out](/week-2/challenges/anchor-basic-functions)
+      - :anchor: [Codecademy JavaScript - Functions (Only 1 - 6)](https://www.codecademy.com/courses/introduction-to-javascript/lessons/functions/exercises/intro-to-functions?action=resume_content_item)
+      - :anchor: [Shout Out](/week-2/challenges/anchor-basic-functions)
   - Reference(s):
-    - :notebook_with_decorative_cover: [Function](/week-2/references/js-first-time-function)
+      - :notebook_with_decorative_cover: [Function](/week-2/references/js-first-time-function)
 
 - ### Session 2
 
   - Lecture:
     - Array
   - Challenge(s):
-    - :anchor: [Codecademy JavaScript - Array (Only 1-10)](https://www.codecademy.com/courses/introduction-to-javascript/lessons/arrays/exercises/arrays?action=resume_content_item)
-    - :anchor: [Built in Function Challenges](/week-2/challenges/anchor-array)
+      - :anchor: [Codecademy JavaScript - Array (Only 1-10)](https://www.codecademy.com/courses/introduction-to-javascript/lessons/arrays/exercises/arrays?action=resume_content_item)
+      - :anchor: [Built in Function Challenges](/week-2/challenges/anchor-array)
   - Reference(s):
-    - :notebook_with_decorative_cover: [Array](/week-2/references/js-array)
+      - :notebook_with_decorative_cover: [Array](/week-2/references/js-array)
 
 ## Wednesday
 
 - ### Session 1
 
   - Lecture:
-    - Nested Array / Multidimensional Array
+      - Nested Array / Multidimensional Array
   - Challenge(s):
-    - :anchor: [Concat](/week-2/challenges/anchor-concat)
-    - :anchor: [Interesting Ladder - Array Multidimensi](/week-2/challenges/anchor-ladder-array)
+      - :anchor: [Concat](/week-2/challenges/anchor-concat)
+      - :anchor: [Interesting Ladder - Array Multidimensi](/week-2/challenges/anchor-ladder-array)
   - Reference(s):
-    - :notebook_with_decorative_cover: [Multidimensional Array](/week-2/references/js-multidimensional-array)
+      - :notebook_with_decorative_cover: [Multidimensional Array](/week-2/references/js-multidimensional-array)
 
 - ### Session 2
 
   - Lecture:
-    - Review Array
+      - Review Array
   - Challenge(s):
-    - :anchor: [Vocal Seeker](/week-2/challenges/anchor-seeker)
-    - :anchor: [Sitting Arrangement](/week-2/challenges/anchor-sitting-arrangement)
+      - :anchor: [Vocal Seeker](/week-2/challenges/anchor-seeker)
+      - :anchor: [Sitting Arrangement](/week-2/challenges/anchor-sitting-arrangement)
 
 ## Thursday
 
 - ### Session 1
 
   - Lecture:
-    - Review Array dan Array Multidimensi
+      - Review Array dan Array Multidimensi
   - Challenge(s):
-    - :anchor: [Deret Geometri](/week-2/challenges/anchor-deret-geometri)
-    - :anchor: [Target Terdekat](/week-2/challenges/anchor-target-terdekat)
-    - :anchor: [Mengelompokkan Angka](/week-2/challenges/anchor-mengelopokkan-angka)
+      - :anchor: [Deret Geometri](/week-2/challenges/anchor-deret-geometri)
+      - :anchor: [Target Terdekat](/week-2/challenges/anchor-target-terdekat)
+      - :anchor: [Mengelompokkan Angka](/week-2/challenges/anchor-mengelopokkan-angka)
 
 - ### Session 2
 
   - Lecture:
-    - Modular Function
+      - Modular Function
   - Challenge(s):
-    - :anchor: [Game Checker](/week-2/challenges/anchor-game-checker)
-    - :anchor: [Damage Calculation](/week-2/challenges/anchor-damage-calculation)
+      - :anchor: [Game Checker](/week-2/challenges/anchor-game-checker)
+      - :anchor: [Damage Calculation](/week-2/challenges/anchor-damage-calculation)
   - Reference(s):
-    - :notebook_with_decorative_cover: [Functions](https://www.codecademy.com/learn/introduction-to-javascript/modules/learn-javascript-functions)
+      - :notebook_with_decorative_cover: [Functions](https://www.codecademy.com/learn/introduction-to-javascript/modules/learn-javascript-functions)
 
 ## Friday
 
 - ### Session 1 & 2
 
   - Lecture:
-    - Review all material (option depend on request)
+      - Review all material (option depend on request)
   - Challenge(s):
-    - :anchor: [Serial Validator](/week-2/challenges/anchor-serial-validator)
-    - :anchor: [Deep Sum](/week-2/challenges/anchor-deep-sum)
-    - :anchor: [Most Frequent Largest Numbers](/week-2/challenges/anchor-most-frequent-largest-numbers)
-    - :anchor: [Melee Ranged](/week-2/challenges/anchor-melee-ranged)
+      - :anchor: [Serial Validator](/week-2/challenges/anchor-serial-validator)
+      - :anchor: [Deep Sum](/week-2/challenges/anchor-deep-sum)
+      - :anchor: [Most Frequent Largest Numbers](/week-2/challenges/anchor-most-frequent-largest-numbers)
+      - :anchor: [Melee Ranged](/week-2/challenges/anchor-melee-ranged)
 
 ## Weekend (Homework)
 

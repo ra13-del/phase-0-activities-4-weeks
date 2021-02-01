@@ -9,14 +9,14 @@ title: 'Flight Ticket Finder'
 Buatlah system untuk mencarikan ticket terhadap user yang ingin pergi ke bali!
 
 `selectedTicket` adalah function yang menerima 1 parameter berupa object yang memiliki keys yaitu: name, day, time dan passenger yang akan mengeluarkan output berupa object sebagai berikut:
-
+```js
     {
         name: <String>,
         codeTicket: <String>,
         totalPrice: <Number>,
         airline: <String>
     }
-
+```
 Function `selectedTicket` WAJIB menggunakan modular function untuk membuat system tersebut.
 Berikut ini modular function nya.
 

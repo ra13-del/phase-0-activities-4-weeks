@@ -33,7 +33,7 @@ number dan number, number dan string, atau string dan string dari input yang di 
 contoh: `var input = 'EF8G65FE'`
 
 maka hasil outputnya adalah:
-```
+```js
 1 pasangan number dan number
 1 pasangan number dan string
 2 pasangan string dan string

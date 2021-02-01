@@ -25,62 +25,62 @@ Tugas dikumpulkan harian, dan setiap tugas akan dikoreksi setiap pagi di hari se
 ## Monday
 
 - ### Session 1
-  - Welcome to Phase 0 and Briefing
+    - Welcome to Phase 0 and Briefing
 - ### Session 2
   - Lecture:
-    - Basic Command Line Unix, Git & Github
+      - Basic Command Line Unix, Git & Github
   - Challenge(s):
-    - :anchor: [First Challenge Git](/week-1/challenges/anchor-first-challenge-git)
+      - :anchor: [First Challenge Git](/week-1/challenges/anchor-first-challenge-git)
 
 ## Tuesday
 
 - ### Session 1
 
   - Lecture:
-    - Algoritma & Pseudocode
+      - Algoritma & Pseudocode
   - Challenge(s):
-    - :anchor: [Newton Second Law](/week-1/challenges/anchor-newton-second-law)
-    - :anchor: [Calculate Circumference](/week-1/challenges/anchor-calculate-circumference)
+      - :anchor: [Newton Second Law](/week-1/challenges/anchor-newton-second-law)
+      - :anchor: [Calculate Circumference](/week-1/challenges/anchor-calculate-circumference)
   - Reference(s):
-    - :notebook_with_decorative_cover: [Algoritma & Pseudocode](/week-1/references/algorithm-pseudocode-conditional)
+      - :notebook_with_decorative_cover: [Algoritma & Pseudocode](/week-1/references/algorithm-pseudocode-conditional)
 
 - ### Session 2
 
   - Lecture:
-    - Conditional and Primitive Data Type
+      - Conditional and Primitive Data Type
   - Challenge(s):
-    - :anchor: [Codecademy - Javascript Introduction and Conditional](https://www.codecademy.com/learn/introduction-to-javascript)
-    - :anchor: [Grade Students](/week-1/challenges/anchor-grade-students)
-    - :anchor: [Graduates](/week-1/challenges/anchor-graduates)
+      - :anchor: [Codecademy - Javascript Introduction and Conditional](https://www.codecademy.com/learn/introduction-to-javascript)
+      - :anchor: [Grade Students](/week-1/challenges/anchor-grade-students)
+      - :anchor: [Graduates](/week-1/challenges/anchor-graduates)
   - Reference(s):
-    - :notebook_with_decorative_cover: [Conditional and Primitive Data Type](/week-1/references/js-first-time)
-    - :notebook_with_decorative_cover: [Understanding String in Javascript](/week-1/references/js-string-reference)
+      - :notebook_with_decorative_cover: [Conditional and Primitive Data Type](/week-1/references/js-first-time)
+      - :notebook_with_decorative_cover: [Understanding String in Javascript](/week-1/references/js-string-reference)
 
 ## Wednesday
 
 - ### Session 1
 
   - Lecture:
-    - Adv Conditional
+      - Adv Conditional
   - Challenge(s):
-    - :anchor: [Play with String](/week-1/challenges/anchor-play-with-string)
-    - :anchor: [Bikilipik Discount](/week-1/challenges/anchor-bikilipik-discount)
-    - :anchor: [Gatcha](/week-1/challenges/anchor-gatcha)
+      - :anchor: [Play with String](/week-1/challenges/anchor-play-with-string)
+      - :anchor: [Bikilipik Discount](/week-1/challenges/anchor-bikilipik-discount)
+      - :anchor: [Gatcha](/week-1/challenges/anchor-gatcha)
   - Reference(s):
-    - :notebook_with_decorative_cover: [Conditional Switch Case](/week-1/references/js-first-time-switch-case)
-    - :notebook_with_decorative_cover: [Built in Function Math](/week-1/references/math)
+      - :notebook_with_decorative_cover: [Conditional Switch Case](/week-1/references/js-first-time-switch-case)
+      - :notebook_with_decorative_cover: [Built in Function Math](/week-1/references/math)
 
 - ### Session 2
 
   - Lecture:
-    - Pseudocode (cont) & Loop/Iteration
+      - Pseudocode (cont) & Loop/Iteration
   - Challenge
-    - :anchor: [Laundry Day](/week-1/challenges/anchor-laundry-day)
-    - :anchor: [I Love Coding](/week-1/challenges/anchor-i-love-coding)
-    - :anchor: [Odd and Even Numbers](/week-1/challenges/anchor-odd-even-numbers)
+      - :anchor: [Laundry Day](/week-1/challenges/anchor-laundry-day)
+      - :anchor: [I Love Coding](/week-1/challenges/anchor-i-love-coding)
+      - :anchor: [Odd and Even Numbers](/week-1/challenges/anchor-odd-even-numbers)
   - Reference(s):
-    - :notebook_with_decorative_cover: [Algoritma & Pseudocode Iteration](/week-1/references/algoritma-loop)
-    - :notebook_with_decorative_cover: [Iteration](/week-1/references/js-first-time)
+      - :notebook_with_decorative_cover: [Algoritma & Pseudocode Iteration](/week-1/references/algoritma-loop)
+      - :notebook_with_decorative_cover: [Iteration](/week-1/references/js-first-time)
 
 ## Thursday
 
@@ -88,15 +88,15 @@ Tugas dikumpulkan harian, dan setiap tugas akan dikoreksi setiap pagi di hari se
   - Lecture:
     - Nested Loop
   - Challenge(s):
-    - :anchor: [Asterisks](/week-1/challenges/anchor-asterisk)
-    - :anchor: [Balik Kata](/week-1/challenges/anchor-balik-kata)
+      - :anchor: [Asterisks](/week-1/challenges/anchor-asterisk)
+      - :anchor: [Balik Kata](/week-1/challenges/anchor-balik-kata)
 - ### Session 2
   - Lecture:
-    - Review Loop and Nested Loop (optional)
+      - Review Loop and Nested Loop (optional)
   - Challenge(s):
-    - :anchor: [Bandingkan Angka](/week-1/challenges/anchor-bandingkan-angka)
-    - :anchor: [Konversi Menit](/week-1/challenges/anchor-konversi-menit)
-    - :anchor: [XO](/week-1/challenges/anchor-xo)
+      - :anchor: [Bandingkan Angka](/week-1/challenges/anchor-bandingkan-angka)
+      - :anchor: [Konversi Menit](/week-1/challenges/anchor-konversi-menit)
+      - :anchor: [XO](/week-1/challenges/anchor-xo)
     <!-- - :rocket: [Triangle](/week-1/challenges/rocket-triangle) -->
 
 ## Friday
@@ -106,12 +106,12 @@ Tugas dikumpulkan harian, dan setiap tugas akan dikoreksi setiap pagi di hari se
   - Lecture:
     - ES6 (let, var, const, template literals)
   - Challenge(s):
-    - :anchor: [Data Type Challenge](/week-1/challenges/anchor-data-type)
-    - :anchor: [Hitung Jumlah Kata](/week-1/challenges/anchor-hitung-jumlah-kata)
-    - :anchor: [Palindrome](/week-1/challenges/anchor-palindrome)
-    - :anchor: [Palindrome Angka](/week-1/challenges/anchor-palindrome-angka)
+      - :anchor: [Data Type Challenge](/week-1/challenges/anchor-data-type)
+      - :anchor: [Hitung Jumlah Kata](/week-1/challenges/anchor-hitung-jumlah-kata)
+      - :anchor: [Palindrome](/week-1/challenges/anchor-palindrome)
+      - :anchor: [Palindrome Angka](/week-1/challenges/anchor-palindrome-angka)
   - Reference(s):
-    - :notebook_with_decorative_cover: [ES6 - const, let, var, template literals](/week-1/references/es6)
+      - :notebook_with_decorative_cover: [ES6 - const, let, var, template literals](/week-1/references/es6)
 
 ## Weekend (Homework)
 

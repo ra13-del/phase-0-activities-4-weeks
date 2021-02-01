@@ -11,53 +11,53 @@ Pekan ketiga ini kita akan melatih lebih kemampuan logika kamu. Dan dipekan ini 
 
 - ### Session 1
   - Lecture:
-    - Object Literals
+      - Object Literals
   - Challenge(s):
-    - :anchor: [Change Me](/week-3/challenges/anchor-change-me)
-    - :anchor: [Count Me](/week-3/challenges/anchor-count-me)
+      - :anchor: [Change Me](/week-3/challenges/anchor-change-me)
+      - :anchor: [Count Me](/week-3/challenges/anchor-count-me)
   - Reference(s):
-    - :notebook_with_decorative_cover: [Object Literals](/week-3/references/object-literal)
+      - :notebook_with_decorative_cover: [Object Literals](/week-3/references/object-literal)
 - ### Session 2
-  - Review Object
+  - Lecture:
+      - Review Object
 
 ## Tuesday
 
 - ### Session 1 & 2
-  - Review before Livecode
+    - Review before Livecode
 
 ## Wednesday
 
 - ### Session 1
-  - Live Code (materi sampai object)
+    - Live Code (materi sampai object)
 - ### Session 2
   - Lecture:
-    - Review Live Code
+      - Review Live Code
 
 ## Thursday
 
 - ### Session 1
   - Lecture:
-    - Array of Object
+      - Array of Object
   - Challenge(s):
-    - :anchor: [TikTok Viewer](/week-3/challenges/anchor-tiktok-viewer)
-    - :anchor: [Graduates](/week-3/challenges/anchor-graduates-object)
+      - :anchor: [TikTok Viewer](/week-3/challenges/anchor-tiktok-viewer)
+      - :anchor: [Graduates](/week-3/challenges/anchor-graduates-object)
 - ### Session 2
   - Lecture:
-    - Review Array of Object
+      - Review Array of Object
   - Challenge(s):
-    - :anchor: [Flight Ticket Finder](/week-3/challenges/anchor-flight-ticket-finder)
-    - :anchor: [Cari Median](/week-3/challenges/anchor-cari-median)
+      - :anchor: [Flight Ticket Finder](/week-3/challenges/anchor-flight-ticket-finder)
+      - :anchor: [Cari Median](/week-3/challenges/anchor-cari-median)
 
 ## Friday
 
 - ### Session 1
   - Lecture:
-    - Review All Materi
+      - Review All Materi
   - Challenge(s):
-    - :anchor: [Todo List](/week-3/challenges/anchor-todo-list)
-    - :anchor: [Angka Prima](/week-3/challenges/anchor-angka-prima)
-    - :anchor: [Cari Modus](/week-3/challenges/anchor-cari-modus)
-    - :rocket: [Mengelompokkan Hewan](/week-3/challenges/rocket-mengelompokkan-hewan)
+      - :anchor: [Angka Prima](/week-3/challenges/anchor-angka-prima)
+      - :anchor: [Cari Modus](/week-3/challenges/anchor-cari-modus)
+      <!-- - :rocket: [Mengelompokkan Hewan](/week-3/challenges/rocket-mengelompokkan-hewan) -->
 - ### Session 2
 - Lecture:
-  - Review All Materi
+    - Review All Materi

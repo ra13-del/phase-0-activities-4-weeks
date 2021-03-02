@@ -41,7 +41,7 @@ mereview kembali materi dan membuat halaman website menggunakan HTML, CSS dan Ja
   - Challenge:
 
       - :anchor: [Membuat Web Sederhana dengan HTML dan CSS](/week-4/challenges/anchor-web-sederhana)
-      - :anchor: [To Do List](/week-4/challenges/anchor-todo-list)
+      - :anchor: [Calorie Tracker](/week-4/challenges/anchor-calorie-tracker)
 - ### Session 2
   - Lecture:
       - Live code simulation

@@ -28,7 +28,9 @@ mereview kembali materi dan membuat halaman website menggunakan HTML, CSS dan Ja
 - ### Session 1
   - Lecture:
       - DOM
-
+  - Challenge:
+      - :anchor: [Membuat Web Sederhana dengan HTML dan CSS](/week-4/challenges/anchor-web-sederhana)
+      - :anchor: [Space Defender](/week-4/challenges/anchor-space-defender)
 - ### Session 2
   - Lecture:
       - GIT Branch
@@ -38,10 +40,6 @@ mereview kembali materi dan membuat halaman website menggunakan HTML, CSS dan Ja
 - ### Session 1
   - Lecture:
       - Review HTML + CSS + DOM
-  - Challenge:
-
-      - :anchor: [Membuat Web Sederhana dengan HTML dan CSS](/week-4/challenges/anchor-web-sederhana)
-      - :anchor: [Calorie Tracker](/week-4/challenges/anchor-calorie-tracker)
 - ### Session 2
   - Lecture:
       - Live code simulation

@@ -64,7 +64,7 @@ Tugas dikumpulkan harian, dan setiap tugas akan dikoreksi setiap pagi di hari se
       - Adv Conditional
   - Challenge(s):
       - :anchor: [Play with String](/week-1/challenges/anchor-play-with-string)
-      - :anchor: [Job Vacancy](/week-1/challenges/anchor-job-vacancy)
+      - :anchor: [Dunia Pantasi](/week-1/challenges/anchor-dunia-pantasi)
       - :anchor: [Gatcha](/week-1/challenges/anchor-gatcha)
   - Reference(s):
       - :notebook_with_decorative_cover: [Conditional Switch Case](/week-1/references/js-first-time-switch-case)
@@ -115,5 +115,5 @@ Tugas dikumpulkan harian, dan setiap tugas akan dikoreksi setiap pagi di hari se
 
 ## Weekend (Homework)
 
-- :anchor:[Most Character](/week-1/challenges/anchor-most-character)
+- :anchor:[Most Character](/week-1/challenges/anchor-rabbit-trap)
 - :anchor:[Ubah Huruf](/week-1/challenges/anchor-ubah-huruf)

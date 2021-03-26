@@ -40,13 +40,13 @@ Pekan ketiga ini kita akan melatih lebih kemampuan logika kamu. Dan dipekan ini 
   - Lecture:
       - Array of Object
   - Challenge(s):
-      - :anchor: [Lo-Jek](/week-3/challenges/anchor-lojek)
+      - :anchor: [Makan Skuy](/week-3/challenges/anchor-makan-skuy)
       - :anchor: [Graduates](/week-3/challenges/anchor-graduates-object)
 - ### Session 2
   - Lecture:
       - Review Array of Object
   - Challenge(s):
-      - :anchor: [Generate Hobby Data](/week-3/challenges/anchor-generate-hobby-data)
+      - :anchor: [Income Statement](/week-3/challenges/anchor-income-statement)
       - :anchor: [Cari Median](/week-3/challenges/anchor-cari-median)
 
 ## Friday

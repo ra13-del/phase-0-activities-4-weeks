@@ -15,6 +15,7 @@ Pekan ketiga ini kita akan melatih lebih kemampuan logika kamu. Dan dipekan ini 
   - Challenge(s):
       - :anchor: [Change Me](/week-3/challenges/anchor-change-me)
       - :anchor: [Count Me](/week-3/challenges/anchor-count-me)
+      - :anchor: [Symbol Translate](/week-3/challenges/anchor-symbol-translate)
   - Reference(s):
       - :notebook_with_decorative_cover: [Object Literals](/week-3/references/object-literal)
 - ### Session 2
@@ -46,7 +47,6 @@ Pekan ketiga ini kita akan melatih lebih kemampuan logika kamu. Dan dipekan ini 
   - Lecture:
       - Review Array of Object
   - Challenge(s):
-      - :anchor: [Income Statement](/week-3/challenges/anchor-income-statement)
       - :anchor: [Cari Median](/week-3/challenges/anchor-cari-median)
 
 ## Friday

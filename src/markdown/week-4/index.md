@@ -14,6 +14,7 @@ mereview kembali materi dan membuat halaman website menggunakan HTML, CSS dan Ja
   - Lecture:
       - HTML
   - Challenge(s):
+      - :anchor: [Income Statement](/week-4/challenges/anchor-income-statement)
       - :anchor: [Codecademy Course - HTML](https://www.codecademy.com/learn/learn-html)
 
 - ### Session 2

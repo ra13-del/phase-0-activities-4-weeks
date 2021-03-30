@@ -1,5 +1,5 @@
 ---
-path: '/week-3/challenges/anchor-income-statement'
+path: '/week-4/challenges/anchor-income-statement'
 title: 'Income Statement'
 ---
 

@@ -1,5 +1,5 @@
 ---
-path: '/week-2/challenges/anchor-symbol-translate'
+path: '/week-3/challenges/anchor-symbol-translate'
 title: 'Symbol Translate'
 ---
 

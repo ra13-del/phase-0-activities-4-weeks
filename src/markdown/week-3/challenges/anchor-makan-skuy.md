@@ -26,38 +26,154 @@ title: 'Makan Skuy'
 Start-up **Makan Skuy** adalah start-up yang bergerak di bidang makanan dan minuman, ingin membuat fitur dimana user dapat melihat bill tagihan untuk pesanan yang dipesan oleh user. Namun, developer **Makan Skuy** berada dalam masalah sehingga tidak bisa melanjutkan project ini untuk sementara, sedangkan deadline yang di tentukan sudah hampir sampai batasnya.
 
 Berikut adalahh list restoran yang bekerja-sama dengan **Makan Skuy**:
-| No | Nama Resto | Menu | Harga |
-|----|-------------|------|-------|
-|1| `MekDun` | - Burger | **35000**|
-| | | - Kentang | **15000**|
-| | | - Ayam | **10000**|
-| | | - CocaCola | **7000**|
-|2| `Burger Queen` | - Burger | **39000**|
-| | | - Kentang | **12000**|
-| | | - Ayam | **9000**|
-| | | - CocaCola | **7500**|
-|3| `Lawmore` | - Burger | **60000** |
-| | | - Kentang | **20000**|
-| | | - Ayam | **12000**|
-| | | - CocaCola | **8000**|
+<table class="table table-striped table-bordered">
+<thead>
+<tr>
+<th>No</th>
+<th>Nama Resto</th>
+<th>Menu</th>
+<th>Harga</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>1</td>
+<td><code>MekDun</code></td>
+<td>- Burger</td>
+<td><strong>35000</strong></td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td>- Kentang</td>
+<td><strong>15000</strong></td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td>- Ayam</td>
+<td><strong>10000</strong></td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td>- CocaCola</td>
+<td><strong>7000</strong></td>
+</tr>
+<tr>
+<td>2</td>
+<td><code>Burger Queen</code></td>
+<td>- Burger</td>
+<td><strong>39000</strong></td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td>- Kentang</td>
+<td><strong>12000</strong></td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td>- Ayam</td>
+<td><strong>9000</strong></td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td>- CocaCola</td>
+<td><strong>7500</strong></td>
+</tr>
+<tr>
+<td>3</td>
+<td><code>Lawmore</code></td>
+<td>- Burger</td>
+<td><strong>60000</strong></td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td>- Kentang</td>
+<td><strong>20000</strong></td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td>- Ayam</td>
+<td><strong>12000</strong></td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td>- CocaCola</td>
+<td><strong>8000</strong></td>
+</tr>
+</tbody>
+</table>
 
 ---
 
 **Makan Skuy** juga memiliki voucher diskon dengan syarat minimum pembelian sebagai berikut:
-| No | Nama Voucher | Min. Pembelian | Discount |
-|----|-------------|------|-------|
-|1| `Promo 10% Ngab` | 30000 | **10**|
-|2| `Promo 20% Ngab` | 50000 | **20**|
-|3| `Promo 30% Ngab` | 70000 | **30** |
+<table class="table table-striped table-bordered">
+<thead>
+<tr>
+<th>No</th>
+<th>Nama Voucher</th>
+<th>Min. Pembelian</th>
+<th>Discount</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>1</td>
+<td><code>Promo 10% Ngab</code></td>
+<td>30000</td>
+<td><strong>10</strong></td>
+</tr>
+<tr>
+<td>2</td>
+<td><code>Promo 20% Ngab</code></td>
+<td>50000</td>
+<td><strong>20</strong></td>
+</tr>
+<tr>
+<td>3</td>
+<td><code>Promo 30% Ngab</code></td>
+<td>70000</td>
+<td><strong>30</strong></td>
+</tr>
+</tbody>
+</table>
 
 ---
 
 Serta **Makan Skuy** mempunyai tarif tersendiri untuk ongkir berdasarkan lokasi restoran, yaitu:
-| No | Nama Resto | Jarak |
-|----|-------------|------|
-|1| `MekDun` | **5km** |
-|2| `Burger Queen` | **7km** |
-|3| `Lawmore` | **6km** |
+<table class="table table-striped table-bordered">
+<thead>
+<tr>
+<th>No</th>
+<th>Nama Resto</th>
+<th>Jarak</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>1</td>
+<td><code>MekDun</code></td>
+<td><strong>5km</strong></td>
+</tr>
+<tr>
+<td>2</td>
+<td><code>Burger Queen</code></td>
+<td><strong>7km</strong></td>
+</tr>
+<tr>
+<td>3</td>
+<td><code>Lawmore</code></td>
+<td><strong>6km</strong></td>
+</tr>
+</tbody>
+</table>
 
 yang per **1km** nya di hargai **2000** rupiah.
 

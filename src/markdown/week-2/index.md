@@ -87,7 +87,6 @@ Selamat sudah melalui kegiatan pekan pertama! Pekan kedua ini kita akan melatih 
   - Lecture:
       - Review all material (option depend on request)
   - Challenge(s):
-      - :anchor: [Symbol Translate](/week-2/challenges/anchor-symbol-translate)
       - :anchor: [Deep Sum](/week-2/challenges/anchor-deep-sum)
       - :anchor: [Most Frequent Largest Numbers](/week-2/challenges/anchor-most-frequent-largest-numbers)
       - :anchor: [Melee Ranged](/week-2/challenges/anchor-melee-ranged)

@@ -1,5 +1,5 @@
 ---
-path: '/week-1/references/js-first-time'
+path: '/week-1/references/js-first-time-loop'
 title: 'First Time Loop'
 ---
 

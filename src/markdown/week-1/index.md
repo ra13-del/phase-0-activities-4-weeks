@@ -110,10 +110,10 @@ Tugas dikumpulkan harian, dan setiap tugas akan dikoreksi setiap pagi di hari se
       - :anchor: [Hitung Jumlah Kata](/week-1/challenges/anchor-hitung-jumlah-kata)
       - :anchor: [Palindrome](/week-1/challenges/anchor-palindrome)
       - :anchor: [Palindrome Angka](/week-1/challenges/anchor-palindrome-angka)
+      - :anchor: [Rabbit Trap](/week-1/challenges/anchor-rabbit-trap)
   - Reference(s):
       - :notebook_with_decorative_cover: [ES6 - const, let, var, template literals](/week-1/references/es6)
 
 ## Weekend (Homework)
 
-- :anchor:[Most Character](/week-1/challenges/anchor-rabbit-trap)
 - :anchor:[Ubah Huruf](/week-1/challenges/anchor-ubah-huruf)

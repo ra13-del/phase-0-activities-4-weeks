@@ -93,6 +93,7 @@ Selamat sudah melalui kegiatan pekan pertama! Pekan kedua ini kita akan melatih 
 
 ## Weekend (Homework)
 
+- :anchor: [Cross Pairs](/week-2/challenges/anchor-cross-pairs)
 - :anchor: [Urutkan Abjad](/week-2/challenges/anchor-urutkan-abjad)
 - :anchor: [Tukar Ukuran](/week-2/challenges/anchor-tukar-ukuran)
 - :anchor: [Sorting](/week-2/challenges/anchor-sorting)

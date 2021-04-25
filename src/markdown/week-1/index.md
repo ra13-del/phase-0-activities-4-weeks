@@ -53,7 +53,7 @@ Tugas dikumpulkan harian, dan setiap tugas akan dikoreksi setiap pagi di hari se
       - :anchor: [Grade Students](/week-1/challenges/anchor-grade-students)
       - :anchor: [Graduates](/week-1/challenges/anchor-graduates)
   - Reference(s):
-      - :notebook_with_decorative_cover: [Conditional and Primitive Data Type](/week-1/references/js-first-time)
+      - :notebook_with_decorative_cover: [Conditional and Primitive Data Type](/week-1/references/javascript)
       - :notebook_with_decorative_cover: [Understanding String in Javascript](/week-1/references/js-string-reference)
 
 ## Wednesday

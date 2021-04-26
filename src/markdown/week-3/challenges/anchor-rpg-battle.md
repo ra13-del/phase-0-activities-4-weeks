@@ -50,8 +50,8 @@ Guna daripada tiap function adalah sebagai berikut:
     - function utama yang dipanggil untuk memulai permainan
     - memiliki 2 parameter yaitu map (dungeon permainan) dan challenger (pemain yang akan bermain)
     - mengembalikan data berupa string yang menginformasikan menang atau kalahnya pemain
-     
-    ```jsx
+
+    ```js
     function gameOn(map, challenger) {
       // your code below
 
@@ -66,9 +66,9 @@ Guna daripada tiap function adalah sebagai berikut:
     let player1 = [
       "Lance",
       40,
-      8, 
-      5, 
-      0, 
+      8,
+      5,
+      0,
       1
     ]
     console.log(gameOn(dungeon1, player1)) // Game Over!
@@ -82,9 +82,9 @@ Guna daripada tiap function adalah sebagai berikut:
     let player2 = [
       "Astra",
       100,
-      10, 
-      8, 
-      0, 
+      10,
+      8,
+      0,
       5
     ]
     console.log(gameOn(dungeon2, player2)) // Your hero named Astra has won the game with level 10!
@@ -94,20 +94,22 @@ Guna daripada tiap function adalah sebagai berikut:
     - function yang dipanggil saat pemain bertemu dengan musuh di dungeon dan melakukan pertempuran
     - memiliki 2 parameter yaitu enemy (data musuh), hero (data pemain)
     - mengembalikan object data pemain yang telah terbaharui
-    ```jsx
+
+    ```js
     function battle(enemy, hero) {
       // your code below
-
     }
 
     console.log(battle({health: 11, dpa: 3}, { name: 'Contoh', hp: 40, atk: 8, def: 5, exp: 0, lv: 1 }))
     // { name: 'Contoh', hp: 34, atk: 8, def: 5, exp: 10, lv: 1 }
     ```
+
 - **Function lvUp:**
     - function yang dipanggil setelah pertempuran usai untuk meningkatkan exp dari pemain dan leveling up
     - memiliki 2 parameter yaitu hero (data pemain) dan details (array yang berisi index 0  adalah level dungeon, index 1 adalah lokasi musuh atau chest, index 2 adalah multiplier)
     - mengembalikan object data pemain yang telah terbaharui
-    ```jsx
+
+    ```js
     function lvUp(hero, details) {
       // your code below
 

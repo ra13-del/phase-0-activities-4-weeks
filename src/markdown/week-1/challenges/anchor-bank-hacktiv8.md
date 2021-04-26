@@ -26,7 +26,7 @@ title: 'Bank Hacktiv8'
 - Mampu memecahkan masalah yang diberikan.
 - Mengerti logika dan konsep perkondisian.
 - Mampu memahami konsep `if - if`, `if - else`, `if - else if - else`, atau `switch case`.
-- Mengerti Cara Menggunakan Operator Evaluasi `===`, `!==`, `>`, `<`, `>=`, atau `<=`. 
+- Mengerti Cara Menggunakan Operator Evaluasi `===`, `!==`, `>`, `<`, `>=`, atau `<=`.
 - Mengerti konsep `nested conditional` didalam sebuah masalah
 
 ## Directions
@@ -41,7 +41,7 @@ Kamu diminta untung mengecek apakah customer yang bersangkutan, apakah customer 
 Untuk kriteria yang harus dicek sebelum rekening dibuat adalah :
 1. Jika input `nama` kosong, maka ouputnya 'Terdapat kesalahan pada pengisian nama' dan program akan selesai.
 2. Jika input `rekening` diisi selain 'Giro' dan 'Tabungan', maka ouputnya 'Jenis rekening tidak ditemukan' dan program akan selesai
-3. Proses selanjut nya yang dicek adalah `usia`. Jika usia customer dibawah 17 tahun, maka outputnya 'Usia untuk membuka tabungan belum mencukupi' dan program akan 
+3. Proses selanjut nya yang dicek adalah `usia`. Jika usia customer dibawah 17 tahun, maka outputnya 'Usia untuk membuka tabungan belum mencukupi' dan program akan
 4. Untuk `rekening` jenis 'Giro' memiliki minimal deposit sebesar 1000000 dan minimal deposit 'Tabungan' sebesar 500000, jika uang customer kurang, maka ouput nya 'Tidak bisa membuka rekening <`rekening`>, minimum deposit kurang <`jumlah uang yang kurang`>' dan program akan selesai.
 5. Jika kriteria customer memenuhi semua persyaratan, maka outputnya 'Rekening <`rekening`>, atas nama <`nama`> berhasil dibuka' dan program akan selesai.
 
@@ -50,7 +50,7 @@ Buatlah implementasi JavaScript-nya!
 
 ## Test Case
 
-1. 
+1.
 ```js
 input :
 var nama = 'Ardi'
@@ -61,7 +61,7 @@ var rekening = 'Tabungan'
 ouput : 'Rekening Tabungan, atas nama Ardi berhasil dibuka'
 ```
 
-2. 
+2.
 ```js
 input :
 var nama = ''
@@ -72,7 +72,7 @@ var rekening = 'Tabungan'
 ouput : 'Terdapat kesalahan pada pengisian nama'
 ```
 
-3. 
+3.
 ```js
 input :
 var nama = 'Ardi'
@@ -83,7 +83,7 @@ var rekening = 'Asuransi'
 ouput : 'Jenis rekening tidak ditemukan'
 ```
 
-4. 
+4.
 ```js
 input :
 var nama = 'Ardi'
@@ -94,7 +94,7 @@ var rekening = 'Tabungan'
 ouput : 'Usia untuk membuka tabungan belum mencukupi'
 ```
 
-5. 
+5.
 ```js
 input :
 var nama = 'Ardi'
@@ -105,7 +105,7 @@ var rekening = 'Tabungan'
 ouput : 'Usia untuk membuka tabungan belum mencukupi'
 ```
 
-6. 
+6.
 ```js
 input :
 var nama = 'Ardi'
@@ -116,7 +116,7 @@ var rekening = 'Tabungan'
 ouput : 'Tidak bisa membuka rekening Tabungan, minimum deposit kurang 400000'
 ```
 
-7. 
+7.
 ```js
 input :
 var nama = 'Ardi'

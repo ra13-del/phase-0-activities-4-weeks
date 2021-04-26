@@ -30,7 +30,7 @@ title: 'Find Word'
 Dalam function _findWord_, kalian diberikan sebuah parameter berupa array.
 Setiap element dalam array tersebut merupkan sebuah kata yang memiliki panjang yang berbeda-beda.
 Kalian diminta untuk mencari kata mana yang menjadi kata `terpanjang` dan `terpendek` dari parameter tersebut dan menampilkannya menjadi sebuah kalimat.
-kalian juga diminta untuk bisa menghandle beberapa hal seperti: 
+kalian juga diminta untuk bisa menghandle beberapa hal seperti:
 
 - jika array merupakan array kosong
 - jika parameter tidak ada
@@ -39,8 +39,6 @@ kalian juga diminta untuk bisa menghandle beberapa hal seperti:
 
 ### Test Case
 ```js
-/*
-
 console.log(findWord(['Adiwarna', 'Bentala', 'Candramawa', 'Derana', 'Ejawantah']));
 // kata terpanjang adalah Candramawa, dan kata terpendek adalah Derana
 
@@ -55,6 +53,4 @@ console.log(findWord([]));
 
 console.log(findWord());
 // Invalid input
-
-*/
 ```

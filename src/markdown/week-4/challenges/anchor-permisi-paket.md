@@ -37,7 +37,7 @@ dan `deliveryOrder` dan __tidak boleh diganti dengan nama function lainnya__. Un
 
 ## Directions
 
-Pada soal ini kalian diberikan function `deliveryOrder` yang menjadi function utama. 
+Pada soal ini kalian diberikan function `deliveryOrder` yang menjadi function utama.
 
 function ini menerima 2 buah parameter.
   - parameter pertama merupakan sebuah array yang berisi string berupa detail pengiriman barang yang dipisahkan oleh ";" dengan format: <br>
@@ -61,7 +61,7 @@ let input = [
 ]
 
 console.log(splitToArr(input))
-/* 
+/*
 [
   [ 'Aan', 'Ikan', 'Jakarta', 'Surabaya', 'TEKA', false ],
   [ 'Bebeb', 'Cupang', 'Jakarta', 'Surabaya', 'JINI', true ]
@@ -171,11 +171,10 @@ Tugas kalian pada release 6 ini adalah menampilkan hasil dari function `delivery
 Perhatikan contoh pada gambar berikut:
 
 <p align="center">
-  <img src="output.png" border=10  />
+  <img src="../references/permisi_paket.png" width="500"  />
 </p>
 
 
 <br>
 Buatlah implementasi JavaScript-nya!
 ___
-

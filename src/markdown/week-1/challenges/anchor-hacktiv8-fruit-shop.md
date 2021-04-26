@@ -24,7 +24,7 @@ title: 'Hacktiv8 Fruit Shop'
 - Mengerti logika dan konsep perkondisian.
 - Mampu menggunakan `Loop` untuk menyelesaikan masalah
 - Mampu memahami konsep `if - if`, `if - else`, `if - else if - else`, atau `switch case`.
-- Mengerti Cara Menggunakan Operator Evaluasi `===`, `!==`, `>`, `<`, `>=`, atau `<=`. 
+- Mengerti Cara Menggunakan Operator Evaluasi `===`, `!==`, `>`, `<`, `>=`, atau `<=`.
 
 ## Directions
 
@@ -43,17 +43,17 @@ ___
 
 ## Example
 
-1. 
+1.
 ```js
 ar uang = 25000
 var stokMangga = 2
 var stokApel = 3
 var stokPisang = 3
 
-output = "dapat membeli 2x mangga, 0x apel, 1x pisang dan sisa uang adalah 0" 
+output = "dapat membeli 2x mangga, 0x apel, 1x pisang dan sisa uang adalah 0"
 ```
 
-2. 
+2.
 ```js
 var uang = 50000
 var stokMangga = 1
@@ -61,7 +61,7 @@ var stokApel = 10
 var stokPisang = 3
 output = "dapat membeli 1x mangga, 5x apel, 1x pisang dan sisa uang adalah 0 dan mendapatkan cashback 5000" ** (cashback random seperti keterangan diatas)
 ```
-3. 
+3.
 ```js
 var uang = 80000
 var stokMangga = 1

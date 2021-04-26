@@ -53,7 +53,7 @@ Tugas dikumpulkan harian, dan setiap tugas akan dikoreksi setiap pagi di hari se
       - :anchor: [Grade Students](/week-1/challenges/anchor-grade-students)
       - :anchor: [Graduates](/week-1/challenges/anchor-graduates)
   - Reference(s):
-      - :notebook_with_decorative_cover: [Conditional and Primitive Data Type](/week-1/references/js-first-time)
+      - :notebook_with_decorative_cover: [Conditional and Primitive Data Type](/week-1/references/javascript)
       - :notebook_with_decorative_cover: [Understanding String in Javascript](/week-1/references/js-string-reference)
 
 ## Wednesday
@@ -64,7 +64,7 @@ Tugas dikumpulkan harian, dan setiap tugas akan dikoreksi setiap pagi di hari se
       - Adv Conditional
   - Challenge(s):
       - :anchor: [Play with String](/week-1/challenges/anchor-play-with-string)
-      - :anchor: [Dunia Pantasi](/week-1/challenges/anchor-dunia-pantasi)
+      - :anchor: [**Bank Hacktiv8**](/week-1/challenges/anchor-bank-hacktiv8)
       - :anchor: [Gatcha](/week-1/challenges/anchor-gatcha)
   - Reference(s):
       - :notebook_with_decorative_cover: [Conditional Switch Case](/week-1/references/js-first-time-switch-case)
@@ -110,7 +110,7 @@ Tugas dikumpulkan harian, dan setiap tugas akan dikoreksi setiap pagi di hari se
       - :anchor: [Hitung Jumlah Kata](/week-1/challenges/anchor-hitung-jumlah-kata)
       - :anchor: [Palindrome](/week-1/challenges/anchor-palindrome)
       - :anchor: [Palindrome Angka](/week-1/challenges/anchor-palindrome-angka)
-      - :anchor: [Rabbit Trap](/week-1/challenges/anchor-rabbit-trap)
+      - :anchor: [**Hacktiv8 Fruit Shop**](/week-1/challenges/anchor-hacktiv8-fruit-shop)
   - Reference(s):
       - :notebook_with_decorative_cover: [ES6 - const, let, var, template literals](/week-1/references/es6)
 

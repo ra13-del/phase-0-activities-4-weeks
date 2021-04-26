@@ -14,7 +14,7 @@ mereview kembali materi dan membuat halaman website menggunakan HTML, CSS dan Ja
   - Lecture:
       - HTML
   - Challenge(s):
-      - :anchor: [Income Statement](/week-4/challenges/anchor-income-statement)
+      - :anchor: [**Search Camping Ground**](/week-4/challenges/anchor-search-camping-ground)
       - :anchor: [Codecademy Course - HTML](https://www.codecademy.com/learn/learn-html)
 
 - ### Session 2
@@ -31,7 +31,7 @@ mereview kembali materi dan membuat halaman website menggunakan HTML, CSS dan Ja
       - DOM
   - Challenge:
       - :anchor: [Membuat Web Sederhana dengan HTML dan CSS](/week-4/challenges/anchor-web-sederhana)
-      - :anchor: [Space Defender](/week-4/challenges/anchor-space-defender)
+      - :anchor: [**Permisi, Paket!**](/week-4/challenges/anchor-permisi-paket)
 - ### Session 2
   - Lecture:
       - GIT Branch

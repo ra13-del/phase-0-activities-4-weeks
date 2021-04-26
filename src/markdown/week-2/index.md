@@ -46,7 +46,7 @@ Selamat sudah melalui kegiatan pekan pertama! Pekan kedua ini kita akan melatih 
   - Lecture:
       - Nested Array / Multidimensional Array
   - Challenge(s):
-      - :anchor: [StarUp Competition](/week-2/challenges/anchor-startup-competition)
+      - :anchor: [**Find Word**](/week-2/challenges/anchor-find-word)
       - :anchor: [Interesting Ladder - Array Multidimensi](/week-2/challenges/anchor-ladder-array)
   - Reference(s):
       - :notebook_with_decorative_cover: [Multidimensional Array](/week-2/references/js-multidimensional-array)
@@ -75,7 +75,7 @@ Selamat sudah melalui kegiatan pekan pertama! Pekan kedua ini kita akan melatih 
   - Lecture:
       - Modular Function
   - Challenge(s):
-      - :anchor: [Range Grouped](/week-2/challenges/anchor-range-grouped)
+      - :anchor: [**Secret Average**](/week-2/challenges/anchor-secret-average)
       - :anchor: [Damage Calculation](/week-2/challenges/anchor-damage-calculation)
   - Reference(s):
       - :notebook_with_decorative_cover: [Functions](https://www.codecademy.com/learn/introduction-to-javascript/modules/learn-javascript-functions)

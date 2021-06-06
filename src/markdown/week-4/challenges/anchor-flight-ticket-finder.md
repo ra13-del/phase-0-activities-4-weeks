@@ -23,6 +23,7 @@ title: 'Flight Ticket Finder'
 Buatlah system untuk menghitung reward untuk travel agent yang memiliki performa baik
 
 `travelAgentReward` adalah function yang menerima 2 parameter berupa array multi dimensi dan array satu dimensi yang akan mengeluarkan output berupa array of object sebagai berikut:
+
 ```js
 [
     {
@@ -43,6 +44,7 @@ Berikut ini modular function nya.
     - Function `generateTravel` menerima 1 buah parameter
     - Parameter `passengersData` berupa array multi dimensi yang berisi data-data pemesanan travel agent
     - Output berupa array of object.
+
     ```js
     contoh:
     function generateTravel(passengersData) {
@@ -90,6 +92,7 @@ Berikut ini modular function nya.
     - Parameter `ticketsData` berupa array of object dengan keys: `flight` dan `price`, yang berisi data-data harga ticket penerbangan berdasarkan hari
     - Jika key `day` pada `passengersGenerated` sama dengan key `flight` pada data `ticketsData`, maka tambahkan key `totalPrice` pada object
     - Output berupa array of object
+
     ```js
     totalPrice = passenger * price
     passenger didapatkan dari key passenger
@@ -252,6 +255,7 @@ Berikut ini modular function nya.
     - Output berupa string atau array of object
     - Bila parameter `passengers` berupa array kosong, maka tampilkan `Data is empty`
     - Bila parameter `passengers` tidak ditemukan (undefined), maka tampilkan `Invalid data`
+    
     ```js
     function travelAgentReward(passengers, tickets, travels) {
         // your code here

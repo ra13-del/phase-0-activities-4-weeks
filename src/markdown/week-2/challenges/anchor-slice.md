@@ -19,7 +19,6 @@ title: 'Slice'
 
 - Nama function haruslah `slice` dan __tidak boleh diganti dengan nama function lainnya__. Untuk detail fungsi akan mengacu kepada [Directions](#directions) yang disebutkan di bawah
 - Wajib menggunakan `While loop`
----
 
 ## Objectives
 

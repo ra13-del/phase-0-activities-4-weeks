@@ -1,42 +1,47 @@
 ---
 path: '/week-2/challenges/anchor-slice'
-title: 'Slice and Dice'
+title: 'Slice'
 ---
 
-# Slice and dice!
+# Slice
+
+### NOTES
+
+- Jalankan `npm install` terlebih dahulu
+- Pada skeleton terdapat folder `__tests__`, folder ini beserta file-file di dalamnya tidak boleh diubah sama sekali.
+- untuk menjalankan test untuk memastikan solusi kamu sudah benar, jalankan command `npm test`
+
+### RESTRICTION
+
+- Hanya boleh menggunakan built-in function push()
+
+### HINTS
+
+- Nama function haruslah `slice` dan __tidak boleh diganti dengan nama function lainnya__. Untuk detail fungsi akan mengacu kepada [Directions](#directions) yang disebutkan di bawah
+- Wajib menggunakan `While loop`
+---
 
 ## Objectives
-- Mampu membuat function serupa built in function sederhana JavaScript
-- Mampu menggabungkan konsep `looping/iteration` dan `conditional` didalam sebuah masalah
-- Mampu mengakses sebuah array
 
-**RESTRICTION**
-Hanya boleh menggunakan built-in function .push()
+- Mampu menggunakan built in function pada Array
+- Mampu melakukan manipulasi pada sebuah Array
+- Mampu membuat function dan mengerti penggunaan parameter dari sebuah function
 
 ## Directions
 
-Diberikan sebuah function bernama slice dimana function tersebut menerima tiga paramter.
-- Parameter pertama bernama `data` bertipe array
-- Parameter kedua bernama `start` bertipe number (optional)
-- Parameter ketiga bernama `end` bertipe number (optional)
+Diberikan sebuah function `slice` yang dapat menerima 3 paramter yaitu `data` (mandatory) dengan tipe Array, `start` (optional) dengan tipe integer dan `end` (optional) dengan tipe integer.
 
- Function akan mengembalikan nilai array yang telah dipotong/slice sesuai dengan value dari paramter `start` dan `end`
- Array yang di return merupakan potongan array `mulai dari start hingga sebelum end`
+Buatlah algoritma di dalam function `slice` sehingga bisa menghasilkan output seperti contoh berikut:
 
- ***ASUMSI:***
- - variabel `start` bisa tidak diisi (berarti end-nya juga kosong). Jika hal ini terjadi maka pemotongan data array dimulai dari index ke 0
- - jika value variabel `start` lebih besar dibandingkan jumlah data array, maka function akan mengembalikan array kosong
-
-```JavaScript
+```js
 function slice(data, start, end) {
-  // Write your code here
+  // your code here
 }
 
-//DRIVER CODE
-
-console.log(slice(['ant', 'bison', 'camel', 'duck', 'elephant'], 2)); // [ 'camel', 'duck', 'elephant' ]
-console.log(slice(['ant', 'bison', 'camel', 'duck', 'elephant'], 2, 4)); // [ 'camel', 'duck' ]
-console.log(slice(['ant', 'bison', 'camel', 'duck', 'elephant'], 1, 5)); // [ 'bison', 'camel', 'duck', 'elephant' ]
-console.log(slice(['ant', 'bison', 'camel', 'duck', 'elephant'])); //[ 'ant', 'bison', 'camel', 'duck', 'elephant' ]
-console.log(slice(['ant', 'bison', 'camel', 'duck', 'elephant'], 20)); //[]
+console.log(slice(['ant', 'bison', 'camel', 'duck', 'elephant'], 2)) // [ 'camel', 'duck', 'elephant' ]
+console.log(slice(['ant', 'bison', 'camel', 'duck', 'elephant'], 2, 4)) // [ 'camel', 'duck' ]
+console.log(slice(['ant', 'bison', 'camel', 'duck', 'elephant'], 1, 5)) // [ 'bison', 'camel', 'duck', 'elephant' ]
+console.log(slice(['ant', 'bison', 'camel', 'duck', 'elephant'])) //[ 'ant', 'bison', 'camel', 'duck', 'elephant' ]
+console.log(slice(['ant', 'bison', 'camel', 'duck', 'elephant'], 20)) //[]
+console.log(slice()) //Invalid data
 ```

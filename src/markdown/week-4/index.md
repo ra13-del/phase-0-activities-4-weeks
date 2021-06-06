@@ -14,7 +14,7 @@ mereview kembali materi dan membuat halaman website menggunakan HTML, CSS dan Ja
   - Lecture:
       - HTML
   - Challenge(s):
-      - :anchor: [**Search Camping Ground**](/week-4/challenges/anchor-search-camping-ground)
+      - :anchor: [**Flight Ticket Finder**](/week-4/challenges/anchor-flight-ticket-finder)
       - :anchor: [Codecademy Course - HTML](https://www.codecademy.com/learn/learn-html)
 
 - ### Session 2
@@ -31,7 +31,7 @@ mereview kembali materi dan membuat halaman website menggunakan HTML, CSS dan Ja
       - DOM
   - Challenge:
       - :anchor: [Membuat Web Sederhana dengan HTML dan CSS](/week-4/challenges/anchor-web-sederhana)
-      - :anchor: [**Permisi, Paket!**](/week-4/challenges/anchor-permisi-paket)
+      - :anchor: [**Todo List**](/week-4/challenges/anchor-todo-list)
 - ### Session 2
   - Lecture:
       - GIT Branch

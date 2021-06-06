@@ -15,7 +15,7 @@ Pekan ketiga ini kita akan melatih lebih kemampuan logika kamu. Dan dipekan ini 
   - Challenge(s):
       - :anchor: [Change Me](/week-3/challenges/anchor-change-me)
       - :anchor: [Count Me](/week-3/challenges/anchor-count-me)
-      - :anchor: [**RPG Battle**](/week-3/challenges/anchor-rpg-battle)
+      - :anchor: [**Serial Validator**](/week-3/challenges/anchor-serial-validator)
   - Reference(s):
       - :notebook_with_decorative_cover: [Object Literals](/week-3/references/object-literal)
 - ### Session 2
@@ -41,7 +41,7 @@ Pekan ketiga ini kita akan melatih lebih kemampuan logika kamu. Dan dipekan ini 
   - Lecture:
       - Array of Object
   - Challenge(s):
-      - :anchor: [**Top Student**](/week-3/challenges/anchor-top-student)
+      - :anchor: [**TikTok Viewer**](/week-3/challenges/anchor-tiktok-viewer)
       - :anchor: [Graduates](/week-3/challenges/anchor-graduates-object)
 - ### Session 2
   - Lecture:

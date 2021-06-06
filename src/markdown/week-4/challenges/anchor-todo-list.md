@@ -17,11 +17,12 @@ title: 'Todo List'
 
 ### HINTS
 
-- Nama function  __tidak boleh diganti dengan nama function lainnya__. Untuk detail fungsi akan mengacu kepada [Directions](#directions) yang disebutkan di bawah
+- Nama function **tidak boleh diganti dengan nama function lainnya**. Untuk detail fungsi akan mengacu kepada [Directions](#directions) yang disebutkan di bawah
 
 ---
 
 ## Objectives
+
 - Mampu mengakses array multidimensi atau array of objects
 - Mampu membuat array of objects
 - Mampu memberikan styling yang tepat untuk elemen html
@@ -32,20 +33,228 @@ title: 'Todo List'
 
 Pada challenge kali ini, kalian diberikan sebuah file `index.html`, `index.js`, dan `style.css`, ketiga file ini bertujuan untuk menampilkan sebuah website sederhana, website ini menampilkan konten `Todo List` yang ada pada file `index.js`, dan juga website ini menggunakan styling dari file `style.css` yang memiliki beberapa class yang dapat diterapkan pada element html.
 
-Tugas kalian ada 4 yaitu:
+### Release 1 - `splitTodos`
 
--   pada file `index.js` diberikan sebuah variable `todos` yang berbentuk array 2 dimensi, tiap element arraynya memiliki 2 value, yaitu index ke-0 memiliki value `task`, dan index ke-1 memiliki value `due date`. didalam array `todos` ada beberapa element yang tidak memiliki value `due date`, tugas kalian adalah melakukan filter terhadap `todos`, dimana kalian hanya mengambil `task` yang memiliki `due date` saja, setelah itu ubahlah array 2 dimensi tersebut menjadi `array of object`, tiap object didalam array tesebut memiliki key `task` dan `dueDate` (key dalam object harus sesuai dengan yang diminta soal), buatlah  function `filterTodos` untuk memfilter `task` yang tidak memiliki `due date` dan function `createObject` untuk mengubah array 2 dimensi menjadi array of object, gunakan metode modular function untuk mengerjakan challenge ini.
+Function ini akan menerima satu buah parameter berupa `array of string` dan akan dirubah menjadi `array multi dimensi`. Sebuah string dengan format `Buy car signal light|16/1/2021` akan dirubah menjadi sebuah array `['Buy car signal light', 16/1/2021]`. Terdapat juga sebuah string dengan format `Buy A4 Paper` yang akan dirubah menjadi sebuah array `['Buy A4 Paper']`.
 
--   pada file `index.html` terdapat beberapa element html yang belum memiliki properti styling, carilah style yang tepat pada file `style.css`, lalu masukan class styling yang ada di `style.css` pada element html yang kalian anggap tepat, bila penempatan stylingnya benar maka akan muncul beberapa `task` pada halaman website seperti gambar dibawah ini.
-    <img src="../references/reference.png" width="600px" />
-- kemudian disamping kanan task tersebut ada sebuah tombol `done`, apabila tombol ini diklik maka background color dari task tersebut akan berubah warna menjadi hijau, namun tombol ini belum berfungsi seperti yang diharapkan, tugas kalian adalah membuat tombol ini berfungsi sebagaimana mestinya, styling yang digunakan untuk background hijau tersebut sudah tersedia di file `style.css`, gunakan DOM untuk memanipulasi class pada element html tersebut.
+```js
+const todos = [
+  'Buy car signal light|16/1/2021',
+  'Return bycycle brake|17/1/2021',
+  'Buy A4 Paper',
+  'Install Garage Shed|18/1/2021',
+  'Service PC|18/1/2021',
+  'Fix rooftops|19/1/2021',
+  'Watching TV series|19/1/2021',
+  'Buy new toys|19/1/2021',
+  'Playing Mobile Legends'
+]
 
-    ### tombol done sebelah kanan
+function splitTodos(todos) {
+  // code here
+}
 
-    <img src="../references/tombolDone.png" width="500px" />
+console.log(splitTodo(todos))
+/**
+ * [
+    [ 'Buy car signal light', '16/1/2021' ],
+    [ 'Return bycycle brake', '17/1/2021' ],
+    [ 'Buy A4 Paper'],
+    [ 'Install Garage Shed', '18/1/2021' ],
+    [ 'Service PC', '18/1/2021' ],
+    [ 'Fix rooftops', '19/1/2021' ],
+    [ 'Watching TV series', '19/1/2021' ],
+    [ 'Buy new toys', '19/1/2021' ],
+    [ 'Playing Mobile Legends']
+  ]
+ * /
+```
 
-    ### ketika tombol done diklik
+### Release 2 - `filterTodos`
 
-    <img src="../references/doneKlik.png" width="500px" />
+Function ini akan menerima sebuah `array 2 dimensi` dan akan melakukan penyaringan terhadap data-data yang tidak memiliki `dueDate` todo. `dueDate` pada sebuah array `todo` diwakilkan pada index pertama data tersebut.
 
--   pada website ini ada sebuah form yang berfungsi untuk menambahkan task pada todo list, pada file `index.js` lengkapilah function `addTodo` sehingga akan memunculkan alert apabila tidak ada input dan tanggal due date yang dimasukan pada saat user ingin  menambahkan task.
+**Contoh**
+
+```
+['Buy car signal light', '16/1/2021'] => todo ini memiliki dueDate 16/1/2021.
+
+['Playing Mobile Legends'] => todo ini tidak memiliki dueDate dikarenakan hanya memiliki satu data didalamnya.
+```
+
+```js
+const todos = [
+  ['Buy car signal light', '16/1/2021'],
+  ['Return bycycle brake', '17/1/2021'],
+  ['Buy A4 Paper', ''],
+  ['Install Garage Shed', '18/1/2021'],
+  ['Service PC', '18/1/2021'],
+  ['Fix rooftops', '19/1/2021'],
+  ['Watching TV series', '19/1/2021'],
+  ['Buy new toys', '19/1/2021'],
+  ['Playing Mobile Legends', '']
+]
+function filterTodos(todos) {
+  // your code here
+}
+
+console.log(filterTodos(todos))
+/**
+ * [
+    ['Buy car signal light', '16/1/2021'],
+    ['Return bycycle brake', '17/1/2021'],
+    ['Install Garage Shed', '18/1/2021'],
+    ['Service PC', '18/1/2021'],
+    ['Fix rooftops', '19/1/2021'],
+    ['Watching TV series', '19/1/2021'],
+    ['Buy new toys', '19/1/2021']
+   ]
+ *
+ * /
+
+```
+
+### Release 3 - `todoStatus`
+
+Function ini akan menerima dua buah parameter, parameter pertama `todos` merupakan `array multi dimensi` berisi kumpulan `todo` yang dimiliki, parameter kedua `date` adalah penanda tanggal hari ini.
+
+Function ini akan memberikan kategori untuk setiap `todos` dengan aturan:
+
+- Jika tanggal `todo` kurang dari tanggal hari ini maka, todo tersebut memiliki status `done`.
+- Jika tanggal `todo` adalah hari ini maka, todo tersebut memiliki status `ongoing`.
+- Jika tanggal `todo` lebih hari ini maka, todo tersebut memiliki status `pending`.
+
+```js
+const todos = [
+  ['Buy car signal light', '16/1/2021'],
+  ['Return bycycle brake', '17/1/2021'],
+  ['Install Garage Shed', '18/1/2021'],
+  ['Service PC', '18/1/2021'],
+  ['Fix rooftops', '19/1/2021'],
+  ['Watching TV series', '19/1/2021'],
+  ['Buy new toys', '19/1/2021']
+]
+
+function todoStatus(todos, date) {
+  // your code here
+}
+
+console.log(todoStatus(todos, 18))
+/**
+ * [
+    ['Buy car signal light', '16/1/2021', 'done'],
+    ['Return bycycle brake', '17/1/2021', 'done'],
+    ['Install Garage Shed', '18/1/2021', 'ongoing'],
+    ['Service PC', '18/1/2021', 'ongoing'],
+    ['Fix rooftops', '19/1/2021', 'pending'],
+    ['Watching TV series', '19/1/2021', 'pending'],
+    ['Buy new toys', '19/1/2021', 'pending']
+   ]
+ */
+```
+
+### Release 4 - `todoStatistic`
+
+Function ini akan menerima satu parameter berupa `array 2 dimensi` kumpulan `todo`.
+Function ini akan mengembalikan sebuah `object` menandakan jumlah todo yang memiliki status `done`, `ongoing` dan juga `pending`.
+
+```js
+const todos = [
+  ['Buy car signal light', '16/1/2021', 'done'],
+  ['Return bycycle brake', '17/1/2021', 'done'],
+  ['Install Garage Shed', '18/1/2021', 'ongoing'],
+  ['Service PC', '18/1/2021', 'ongoing'],
+  ['Fix rooftops', '19/1/2021', 'pending'],
+  ['Watching TV series', '19/1/2021', 'pending'],
+  ['Buy new toys', '19/1/2021', 'pending']
+]
+
+function todoStatistic(todos) {
+  // your code here
+}
+
+console.log(todoStatistic(todos))
+/**
+ * {
+ *   done: 2,
+ *   ongoing: 2,
+ *   pending: 3
+ * }
+ *
+```
+
+### Release 5 - `generateTodo`
+
+Function ini merupakan **main** function yang akan memanggil fungsi yang sudah dibuat sebelumnya. function ini akan menerima dua parameter berupa `array of string` dan sebuah `number` yang menandakan tanggal hari ini. Function ini akan mengembalikan sebuah `object` dengan dua `key`:
+
+- `statistic` `key` ini akan berisi object jumlah `todo` dengan status `done`, `ongoing` dan juga `pending`.
+- `todos` `key` ini akan berisi sebuah `array of object` kumpulan `todo` yang ada. Format `object` pada `key` ini adalah:
+  - `name` berisi nama dari `todo`.
+  - `dueDate` berisi dueDate dari `todo`.
+  - `status` berisi status dari `todo`.
+
+```js
+const todos = [
+  'Buy car signal light|16/1/2021',
+  'Return bycycle brake|17/1/2021',
+  'Buy A4 Paper|',
+  'Install Garage Shed|18/1/2021',
+  'Service PC|18/1/2021',
+  'Fix rooftops|19/1/2021',
+  'Watching TV series|19/1/2021',
+  'Buy new toys|19/1/2021',
+  'Playing Mobile Legends|'
+]
+
+function generateTodo(todos, date) {}
+
+console.log(generateTodos(todos, 18))
+/**
+ * {
+    statistic: { done: 2, ongoing: 2, pending: 3 },
+    todos: [
+        {
+            name: 'Buy car signal light',
+            dueDate: '16/1/2021',
+            status: 'done'
+        },
+        {
+            name: 'Return bycycle brake',
+            dueDate: '17/1/2021',
+            status: 'done'
+        },
+        {
+            name: 'Install Garage Shed',
+            dueDate: '18/1/2021',
+            status: 'ongoing'
+        },
+        { name: 'Service PC', dueDate: '18/1/2021', status: 'ongoing' },
+        { name: 'Fix rooftops', dueDate: '19/1/2021', status: 'pending' },
+        {
+            name: 'Watching TV series',
+            dueDate: '19/1/2021',
+            status: 'pending'
+        },
+        { name: 'Buy new toys', dueDate: '19/1/2021', status: 'pending' }
+    ]
+  }
+ * /
+```
+
+### Release 6 - `DOM`
+
+Setelah kamu berhasil menyelesaikan semua fungsi diatas, maka step selanjutnya adalah menampilkan data `statistic` dari `todolist` yang kamu punya. Silahkan gunakan `DOM` untuk memasukkan data `statistic` dari javascript menuju `HTML`.
+
+Tambahkan juga sebuah style CSS untuk memberikan warna background dan tulisan untuk ketiga button yang kita miliki. Warna yang digunakan bisa mengikuti table berikut ini:
+
+| class            | Warna Background | Warna Text |
+| ---------------- | ---------------- | ---------- |
+| `done-button`    | #d1fae5          | #10b981    |
+| `ongoing-button` | #e0e7ff          | #6366f1    |
+| `pending-button` | #ffe4e6          | #f43f5e    |
+
+Berikut adalah tampilan yang diharapkan untuk menyelesaikan release ini.
+
+<p align="center">
+  <img src="../references/output-todolist.png" border=10  />
+</p>
